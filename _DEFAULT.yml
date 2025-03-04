@@ -1,0 +1,79 @@
+---
+seed: 1
+dataset: FSC-147
+data_path: "data/"
+test_split: val # val or test (which split to use) only use test at publication time
+log_dir: logs/
+output_dir: output/
+resume_path: "" # path to the checkpoint
+resume_path_localisation: ""
+resume_counting_head_path: ""
+
+total_loss: "counting_loss" # counting_loss, localisation_loss
+
+backbone: None #vit_dino, resnet, convnext
+backbone_unfreeze_layers: 0 #number of layers or blocks to unfreeze, -1 for all
+
+use_counting_head: True
+counting_loss: MAE
+counting_head: regress_c3_simple # linear
+
+use_localisation_head: False
+localisation_head: conv
+localisation_loss: MSE
+
+tensorboard_visualise: False
+pca_visualise: False
+tensorboard_visualise_localisation: False
+save_visualise_localisation: False
+
+img_channels: 3
+img_size: [224, 224]
+img_mode: scale #scale to img_size
+
+image_transforms: None #None, reflect_rotate, colour_jitter rgb_scramble, increase_density
+increase_density_ratio: 50 #how frequently to increase_density as a percentage
+increase_density_amount: 4 #how frequently to increase_density as a percentage
+increase_density_rotate: True #should the 4 tiles be rotated independently
+split_up_img: 1 #should you split the image up in to tiles to run spereately, 1 if no, 2 is 2xw grid etc
+
+drop_last: True 
+
+# remove certain subsets of the images (with certain density, certain average bounding box, certain aspect ratios)
+exclude_imgs_with_counts_over_500: False
+exclude_imgs_with_counts_over_1000: False
+bboxes_sizes_to_look_at: 'all' #options 'all', 'small', 'medium', 'big', take images if MEAN bounding box area within definitions below (%of total image area)
+bbox_small_area: 0.02
+bbox_big_area: 0.07
+bboxes_aspect_ratio_to_look_at: 'all' #options 'all', 'square' if set to square then only use an image if ALL the bounding boxes are of aspect ratio defined below 
+bbox_aspect_ratio_max: 3
+
+scheduler: None # LinearWarmupCosineAnneal, ReduceLROnPlateau, StepLR
+
+train_batch_size: 32
+eval_batch_size: 32
+
+num_workers: 4
+learning_rate: 3e-4
+weight_decay: 0
+
+loss_clip: -1
+
+# LinearWarmupCosineAnneal
+warmup_epochs: -1
+
+# ReduceLROnPlateau
+plateau_patience: 10
+plateau_factor: 0.1
+
+# StepLR
+scheduler_steps: 100
+scheduler_gamma: 0.5
+
+overfit_batches: 0.0 # Overfit a fraction of training data (float) or a set number of batches (int)
+
+val_every: 1
+max_epochs: 10000
+max_steps: -1
+
+

@@ -1,0 +1,5 @@
+attention_loss_scale: null
+attention_loss_start: null
+counting_loss_scales: null
+seed: 0
+num_inference_steps: 50

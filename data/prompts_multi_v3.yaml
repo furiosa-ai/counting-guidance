@@ -1,0 +1,12342 @@
+- counts:
+  - 3
+  - 10
+  objs:
+  - cats
+  - dogs
+  objs_singular:
+  - cat
+  - dog
+  prompt: three cats and ten dogs
+  prompt_idx: 0
+- counts:
+  - 4
+  - 15
+  objs:
+  - cats
+  - dogs
+  objs_singular:
+  - cat
+  - dog
+  prompt: four cats and fifteen dogs
+  prompt_idx: 1
+- counts:
+  - 10
+  - 5
+  objs:
+  - cats
+  - birds
+  objs_singular:
+  - cat
+  - bird
+  prompt: ten cats and five birds
+  prompt_idx: 2
+- counts:
+  - 3
+  - 14
+  objs:
+  - cats
+  - birds
+  objs_singular:
+  - cat
+  - bird
+  prompt: three cats and fourteen birds
+  prompt_idx: 3
+- counts:
+  - 19
+  - 19
+  objs:
+  - cats
+  - bears
+  objs_singular:
+  - cat
+  - bear
+  prompt: nineteen cats and nineteen bears
+  prompt_idx: 4
+- counts:
+  - 12
+  - 12
+  objs:
+  - cats
+  - bears
+  objs_singular:
+  - cat
+  - bear
+  prompt: twelve cats and twelve bears
+  prompt_idx: 5
+- counts:
+  - 3
+  - 7
+  objs:
+  - cats
+  - lions
+  objs_singular:
+  - cat
+  - lion
+  prompt: three cats and seven lions
+  prompt_idx: 6
+- counts:
+  - 6
+  - 12
+  objs:
+  - cats
+  - lions
+  objs_singular:
+  - cat
+  - lion
+  prompt: six cats and twelve lions
+  prompt_idx: 7
+- counts:
+  - 19
+  - 12
+  objs:
+  - cats
+  - horses
+  objs_singular:
+  - cat
+  - horse
+  prompt: nineteen cats and twelve horses
+  prompt_idx: 8
+- counts:
+  - 9
+  - 7
+  objs:
+  - cats
+  - horses
+  objs_singular:
+  - cat
+  - horse
+  prompt: nine cats and seven horses
+  prompt_idx: 9
+- counts:
+  - 2
+  - 15
+  objs:
+  - cats
+  - elephants
+  objs_singular:
+  - cat
+  - elephant
+  prompt: two cats and fifteen elephants
+  prompt_idx: 10
+- counts:
+  - 4
+  - 14
+  objs:
+  - cats
+  - elephants
+  objs_singular:
+  - cat
+  - elephant
+  prompt: four cats and fourteen elephants
+  prompt_idx: 11
+- counts:
+  - 4
+  - 2
+  objs:
+  - cats
+  - monkeys
+  objs_singular:
+  - cat
+  - monkey
+  prompt: four cats and two monkeys
+  prompt_idx: 12
+- counts:
+  - 12
+  - 16
+  objs:
+  - cats
+  - monkeys
+  objs_singular:
+  - cat
+  - monkey
+  prompt: twelve cats and sixteen monkeys
+  prompt_idx: 13
+- counts:
+  - 5
+  - 3
+  objs:
+  - cats
+  - frogs
+  objs_singular:
+  - cat
+  - frog
+  prompt: five cats and three frogs
+  prompt_idx: 14
+- counts:
+  - 4
+  - 6
+  objs:
+  - cats
+  - frogs
+  objs_singular:
+  - cat
+  - frog
+  prompt: four cats and six frogs
+  prompt_idx: 15
+- counts:
+  - 6
+  - 2
+  objs:
+  - cats
+  - turtles
+  objs_singular:
+  - cat
+  - turtle
+  prompt: six cats and two turtles
+  prompt_idx: 16
+- counts:
+  - 11
+  - 15
+  objs:
+  - cats
+  - turtles
+  objs_singular:
+  - cat
+  - turtle
+  prompt: eleven cats and fifteen turtles
+  prompt_idx: 17
+- counts:
+  - 20
+  - 17
+  objs:
+  - cats
+  - rabbits
+  objs_singular:
+  - cat
+  - rabbit
+  prompt: twenty cats and seventeen rabbits
+  prompt_idx: 18
+- counts:
+  - 10
+  - 17
+  objs:
+  - cats
+  - rabbits
+  objs_singular:
+  - cat
+  - rabbit
+  prompt: ten cats and seventeen rabbits
+  prompt_idx: 19
+- counts:
+  - 3
+  - 11
+  objs:
+  - cats
+  - mice
+  objs_singular:
+  - cat
+  - mouse
+  prompt: three cats and eleven mice
+  prompt_idx: 20
+- counts:
+  - 12
+  - 18
+  objs:
+  - cats
+  - mice
+  objs_singular:
+  - cat
+  - mouse
+  prompt: twelve cats and eighteen mice
+  prompt_idx: 21
+- counts:
+  - 17
+  - 8
+  objs:
+  - cats
+  - backpacks
+  objs_singular:
+  - cat
+  - backpack
+  prompt: seventeen cats and eight backpacks
+  prompt_idx: 22
+- counts:
+  - 18
+  - 20
+  objs:
+  - cats
+  - backpacks
+  objs_singular:
+  - cat
+  - backpack
+  prompt: eighteen cats and twenty backpacks
+  prompt_idx: 23
+- counts:
+  - 12
+  - 2
+  objs:
+  - cats
+  - glasses
+  objs_singular:
+  - cat
+  - glasses
+  prompt: twelve cats and two glasses
+  prompt_idx: 24
+- counts:
+  - 14
+  - 18
+  objs:
+  - cats
+  - glasses
+  objs_singular:
+  - cat
+  - glasses
+  prompt: fourteen cats and eighteen glasses
+  prompt_idx: 25
+- counts:
+  - 15
+  - 19
+  objs:
+  - cats
+  - crowns
+  objs_singular:
+  - cat
+  - crown
+  prompt: fifteen cats and nineteen crowns
+  prompt_idx: 26
+- counts:
+  - 17
+  - 18
+  objs:
+  - cats
+  - crowns
+  objs_singular:
+  - cat
+  - crown
+  prompt: seventeen cats and eighteen crowns
+  prompt_idx: 27
+- counts:
+  - 15
+  - 13
+  objs:
+  - cats
+  - suitcases
+  objs_singular:
+  - cat
+  - suitcase
+  prompt: fifteen cats and thirteen suitcases
+  prompt_idx: 28
+- counts:
+  - 18
+  - 3
+  objs:
+  - cats
+  - suitcases
+  objs_singular:
+  - cat
+  - suitcase
+  prompt: eighteen cats and three suitcases
+  prompt_idx: 29
+- counts:
+  - 7
+  - 4
+  objs:
+  - cats
+  - chairs
+  objs_singular:
+  - cat
+  - chair
+  prompt: seven cats and four chairs
+  prompt_idx: 30
+- counts:
+  - 17
+  - 10
+  objs:
+  - cats
+  - chairs
+  objs_singular:
+  - cat
+  - chair
+  prompt: seventeen cats and ten chairs
+  prompt_idx: 31
+- counts:
+  - 7
+  - 12
+  objs:
+  - cats
+  - balloons
+  objs_singular:
+  - cat
+  - balloon
+  prompt: seven cats and twelve balloons
+  prompt_idx: 32
+- counts:
+  - 12
+  - 19
+  objs:
+  - cats
+  - balloons
+  objs_singular:
+  - cat
+  - balloon
+  prompt: twelve cats and nineteen balloons
+  prompt_idx: 33
+- counts:
+  - 14
+  - 4
+  objs:
+  - cats
+  - bows
+  objs_singular:
+  - cat
+  - bow
+  prompt: fourteen cats and four bows
+  prompt_idx: 34
+- counts:
+  - 16
+  - 14
+  objs:
+  - cats
+  - bows
+  objs_singular:
+  - cat
+  - bow
+  prompt: sixteen cats and fourteen bows
+  prompt_idx: 35
+- counts:
+  - 20
+  - 12
+  objs:
+  - cats
+  - cars
+  objs_singular:
+  - cat
+  - car
+  prompt: twenty cats and twelve cars
+  prompt_idx: 36
+- counts:
+  - 2
+  - 8
+  objs:
+  - cats
+  - cars
+  objs_singular:
+  - cat
+  - car
+  prompt: two cats and eight cars
+  prompt_idx: 37
+- counts:
+  - 20
+  - 4
+  objs:
+  - cats
+  - bowls
+  objs_singular:
+  - cat
+  - bowl
+  prompt: twenty cats and four bowls
+  prompt_idx: 38
+- counts:
+  - 13
+  - 2
+  objs:
+  - cats
+  - bowls
+  objs_singular:
+  - cat
+  - bowl
+  prompt: thirteen cats and two bowls
+  prompt_idx: 39
+- counts:
+  - 13
+  - 9
+  objs:
+  - cats
+  - benches
+  objs_singular:
+  - cat
+  - bench
+  prompt: thirteen cats and nine benches
+  prompt_idx: 40
+- counts:
+  - 14
+  - 19
+  objs:
+  - cats
+  - benches
+  objs_singular:
+  - cat
+  - bench
+  prompt: fourteen cats and nineteen benches
+  prompt_idx: 41
+- counts:
+  - 18
+  - 3
+  objs:
+  - cats
+  - clocks
+  objs_singular:
+  - cat
+  - clock
+  prompt: eighteen cats and three clocks
+  prompt_idx: 42
+- counts:
+  - 11
+  - 17
+  objs:
+  - cats
+  - clocks
+  objs_singular:
+  - cat
+  - clock
+  prompt: eleven cats and seventeen clocks
+  prompt_idx: 43
+- counts:
+  - 9
+  - 19
+  objs:
+  - cats
+  - apples
+  objs_singular:
+  - cat
+  - apple
+  prompt: nine cats and nineteen apples
+  prompt_idx: 44
+- counts:
+  - 17
+  - 7
+  objs:
+  - cats
+  - apples
+  objs_singular:
+  - cat
+  - apple
+  prompt: seventeen cats and seven apples
+  prompt_idx: 45
+- counts:
+  - 6
+  - 19
+  objs:
+  - cats
+  - bananas
+  objs_singular:
+  - cat
+  - banana
+  prompt: six cats and nineteen bananas
+  prompt_idx: 46
+- counts:
+  - 16
+  - 14
+  objs:
+  - cats
+  - bananas
+  objs_singular:
+  - cat
+  - banana
+  prompt: sixteen cats and fourteen bananas
+  prompt_idx: 47
+- counts:
+  - 16
+  - 3
+  objs:
+  - cats
+  - donuts
+  objs_singular:
+  - cat
+  - donut
+  prompt: sixteen cats and three donuts
+  prompt_idx: 48
+- counts:
+  - 2
+  - 6
+  objs:
+  - cats
+  - donuts
+  objs_singular:
+  - cat
+  - donut
+  prompt: two cats and six donuts
+  prompt_idx: 49
+- counts:
+  - 16
+  - 8
+  objs:
+  - cats
+  - oranges
+  objs_singular:
+  - cat
+  - orange
+  prompt: sixteen cats and eight oranges
+  prompt_idx: 50
+- counts:
+  - 2
+  - 10
+  objs:
+  - cats
+  - oranges
+  objs_singular:
+  - cat
+  - orange
+  prompt: two cats and ten oranges
+  prompt_idx: 51
+- counts:
+  - 13
+  - 10
+  objs:
+  - cats
+  - eggs
+  objs_singular:
+  - cat
+  - egg
+  prompt: thirteen cats and ten eggs
+  prompt_idx: 52
+- counts:
+  - 15
+  - 15
+  objs:
+  - cats
+  - eggs
+  objs_singular:
+  - cat
+  - egg
+  prompt: fifteen cats and fifteen eggs
+  prompt_idx: 53
+- counts:
+  - 13
+  - 4
+  objs:
+  - cats
+  - tomatoes
+  objs_singular:
+  - cat
+  - tomato
+  prompt: thirteen cats and four tomatoes
+  prompt_idx: 56
+- counts:
+  - 4
+  - 15
+  objs:
+  - cats
+  - tomatoes
+  objs_singular:
+  - cat
+  - tomato
+  prompt: four cats and fifteen tomatoes
+  prompt_idx: 57
+- counts:
+  - 2
+  - 19
+  objs:
+  - cats
+  - macarons
+  objs_singular:
+  - cat
+  - macaron
+  prompt: two cats and nineteen macarons
+  prompt_idx: 58
+- counts:
+  - 14
+  - 4
+  objs:
+  - cats
+  - macarons
+  objs_singular:
+  - cat
+  - macaron
+  prompt: fourteen cats and four macarons
+  prompt_idx: 59
+- counts:
+  - 19
+  - 14
+  objs:
+  - cats
+  - chicks
+  objs_singular:
+  - cat
+  - chick
+  prompt: nineteen cats and fourteen chicks
+  prompt_idx: 60
+- counts:
+  - 2
+  - 12
+  objs:
+  - cats
+  - chicks
+  objs_singular:
+  - cat
+  - chick
+  prompt: two cats and twelve chicks
+  prompt_idx: 61
+- counts:
+  - 10
+  - 17
+  objs:
+  - cats
+  - lemons
+  objs_singular:
+  - cat
+  - lemon
+  prompt: ten cats and seventeen lemons
+  prompt_idx: 62
+- counts:
+  - 3
+  - 19
+  objs:
+  - cats
+  - lemons
+  objs_singular:
+  - cat
+  - lemon
+  prompt: three cats and nineteen lemons
+  prompt_idx: 63
+- counts:
+  - 12
+  - 15
+  objs:
+  - cats
+  - breads
+  objs_singular:
+  - cat
+  - bread
+  prompt: twelve cats and fifteen breads
+  prompt_idx: 64
+- counts:
+  - 13
+  - 2
+  objs:
+  - cats
+  - breads
+  objs_singular:
+  - cat
+  - bread
+  prompt: thirteen cats and two breads
+  prompt_idx: 65
+- counts:
+  - 7
+  - 15
+  objs:
+  - cats
+  - onions
+  objs_singular:
+  - cat
+  - onion
+  prompt: seven cats and fifteen onions
+  prompt_idx: 66
+- counts:
+  - 4
+  - 6
+  objs:
+  - cats
+  - onions
+  objs_singular:
+  - cat
+  - onion
+  prompt: four cats and six onions
+  prompt_idx: 67
+- counts:
+  - 13
+  - 9
+  objs:
+  - dogs
+  - birds
+  objs_singular:
+  - dog
+  - bird
+  prompt: thirteen dogs and nine birds
+  prompt_idx: 68
+- counts:
+  - 4
+  - 3
+  objs:
+  - dogs
+  - birds
+  objs_singular:
+  - dog
+  - bird
+  prompt: four dogs and three birds
+  prompt_idx: 69
+- counts:
+  - 18
+  - 14
+  objs:
+  - dogs
+  - bears
+  objs_singular:
+  - dog
+  - bear
+  prompt: eighteen dogs and fourteen bears
+  prompt_idx: 70
+- counts:
+  - 19
+  - 11
+  objs:
+  - dogs
+  - bears
+  objs_singular:
+  - dog
+  - bear
+  prompt: nineteen dogs and eleven bears
+  prompt_idx: 71
+- counts:
+  - 6
+  - 11
+  objs:
+  - dogs
+  - lions
+  objs_singular:
+  - dog
+  - lion
+  prompt: six dogs and eleven lions
+  prompt_idx: 72
+- counts:
+  - 14
+  - 13
+  objs:
+  - dogs
+  - lions
+  objs_singular:
+  - dog
+  - lion
+  prompt: fourteen dogs and thirteen lions
+  prompt_idx: 73
+- counts:
+  - 6
+  - 19
+  objs:
+  - dogs
+  - horses
+  objs_singular:
+  - dog
+  - horse
+  prompt: six dogs and nineteen horses
+  prompt_idx: 74
+- counts:
+  - 12
+  - 18
+  objs:
+  - dogs
+  - horses
+  objs_singular:
+  - dog
+  - horse
+  prompt: twelve dogs and eighteen horses
+  prompt_idx: 75
+- counts:
+  - 5
+  - 7
+  objs:
+  - dogs
+  - elephants
+  objs_singular:
+  - dog
+  - elephant
+  prompt: five dogs and seven elephants
+  prompt_idx: 76
+- counts:
+  - 20
+  - 14
+  objs:
+  - dogs
+  - elephants
+  objs_singular:
+  - dog
+  - elephant
+  prompt: twenty dogs and fourteen elephants
+  prompt_idx: 77
+- counts:
+  - 15
+  - 3
+  objs:
+  - dogs
+  - monkeys
+  objs_singular:
+  - dog
+  - monkey
+  prompt: fifteen dogs and three monkeys
+  prompt_idx: 78
+- counts:
+  - 6
+  - 16
+  objs:
+  - dogs
+  - monkeys
+  objs_singular:
+  - dog
+  - monkey
+  prompt: six dogs and sixteen monkeys
+  prompt_idx: 79
+- counts:
+  - 2
+  - 13
+  objs:
+  - dogs
+  - frogs
+  objs_singular:
+  - dog
+  - frog
+  prompt: two dogs and thirteen frogs
+  prompt_idx: 80
+- counts:
+  - 16
+  - 16
+  objs:
+  - dogs
+  - frogs
+  objs_singular:
+  - dog
+  - frog
+  prompt: sixteen dogs and sixteen frogs
+  prompt_idx: 81
+- counts:
+  - 11
+  - 15
+  objs:
+  - dogs
+  - turtles
+  objs_singular:
+  - dog
+  - turtle
+  prompt: eleven dogs and fifteen turtles
+  prompt_idx: 82
+- counts:
+  - 2
+  - 7
+  objs:
+  - dogs
+  - turtles
+  objs_singular:
+  - dog
+  - turtle
+  prompt: two dogs and seven turtles
+  prompt_idx: 83
+- counts:
+  - 18
+  - 12
+  objs:
+  - dogs
+  - rabbits
+  objs_singular:
+  - dog
+  - rabbit
+  prompt: eighteen dogs and twelve rabbits
+  prompt_idx: 84
+- counts:
+  - 18
+  - 18
+  objs:
+  - dogs
+  - rabbits
+  objs_singular:
+  - dog
+  - rabbit
+  prompt: eighteen dogs and eighteen rabbits
+  prompt_idx: 85
+- counts:
+  - 19
+  - 6
+  objs:
+  - dogs
+  - mice
+  objs_singular:
+  - dog
+  - mouse
+  prompt: nineteen dogs and six mice
+  prompt_idx: 86
+- counts:
+  - 12
+  - 18
+  objs:
+  - dogs
+  - mice
+  objs_singular:
+  - dog
+  - mouse
+  prompt: twelve dogs and eighteen mice
+  prompt_idx: 87
+- counts:
+  - 5
+  - 19
+  objs:
+  - dogs
+  - backpacks
+  objs_singular:
+  - dog
+  - backpack
+  prompt: five dogs and nineteen backpacks
+  prompt_idx: 88
+- counts:
+  - 13
+  - 9
+  objs:
+  - dogs
+  - backpacks
+  objs_singular:
+  - dog
+  - backpack
+  prompt: thirteen dogs and nine backpacks
+  prompt_idx: 89
+- counts:
+  - 20
+  - 12
+  objs:
+  - dogs
+  - glasses
+  objs_singular:
+  - dog
+  - glasses
+  prompt: twenty dogs and twelve glasses
+  prompt_idx: 90
+- counts:
+  - 4
+  - 10
+  objs:
+  - dogs
+  - glasses
+  objs_singular:
+  - dog
+  - glasses
+  prompt: four dogs and ten glasses
+  prompt_idx: 91
+- counts:
+  - 18
+  - 9
+  objs:
+  - dogs
+  - crowns
+  objs_singular:
+  - dog
+  - crown
+  prompt: eighteen dogs and nine crowns
+  prompt_idx: 92
+- counts:
+  - 8
+  - 12
+  objs:
+  - dogs
+  - crowns
+  objs_singular:
+  - dog
+  - crown
+  prompt: eight dogs and twelve crowns
+  prompt_idx: 93
+- counts:
+  - 10
+  - 14
+  objs:
+  - dogs
+  - suitcases
+  objs_singular:
+  - dog
+  - suitcase
+  prompt: ten dogs and fourteen suitcases
+  prompt_idx: 94
+- counts:
+  - 3
+  - 18
+  objs:
+  - dogs
+  - suitcases
+  objs_singular:
+  - dog
+  - suitcase
+  prompt: three dogs and eighteen suitcases
+  prompt_idx: 95
+- counts:
+  - 4
+  - 8
+  objs:
+  - dogs
+  - chairs
+  objs_singular:
+  - dog
+  - chair
+  prompt: four dogs and eight chairs
+  prompt_idx: 96
+- counts:
+  - 18
+  - 8
+  objs:
+  - dogs
+  - chairs
+  objs_singular:
+  - dog
+  - chair
+  prompt: eighteen dogs and eight chairs
+  prompt_idx: 97
+- counts:
+  - 2
+  - 8
+  objs:
+  - dogs
+  - balloons
+  objs_singular:
+  - dog
+  - balloon
+  prompt: two dogs and eight balloons
+  prompt_idx: 98
+- counts:
+  - 10
+  - 20
+  objs:
+  - dogs
+  - balloons
+  objs_singular:
+  - dog
+  - balloon
+  prompt: ten dogs and twenty balloons
+  prompt_idx: 99
+- counts:
+  - 9
+  - 4
+  objs:
+  - dogs
+  - bows
+  objs_singular:
+  - dog
+  - bow
+  prompt: nine dogs and four bows
+  prompt_idx: 100
+- counts:
+  - 12
+  - 4
+  objs:
+  - dogs
+  - bows
+  objs_singular:
+  - dog
+  - bow
+  prompt: twelve dogs and four bows
+  prompt_idx: 101
+- counts:
+  - 12
+  - 19
+  objs:
+  - dogs
+  - cars
+  objs_singular:
+  - dog
+  - car
+  prompt: twelve dogs and nineteen cars
+  prompt_idx: 102
+- counts:
+  - 19
+  - 6
+  objs:
+  - dogs
+  - cars
+  objs_singular:
+  - dog
+  - car
+  prompt: nineteen dogs and six cars
+  prompt_idx: 103
+- counts:
+  - 19
+  - 6
+  objs:
+  - dogs
+  - bowls
+  objs_singular:
+  - dog
+  - bowl
+  prompt: nineteen dogs and six bowls
+  prompt_idx: 104
+- counts:
+  - 17
+  - 17
+  objs:
+  - dogs
+  - bowls
+  objs_singular:
+  - dog
+  - bowl
+  prompt: seventeen dogs and seventeen bowls
+  prompt_idx: 105
+- counts:
+  - 14
+  - 2
+  objs:
+  - dogs
+  - benches
+  objs_singular:
+  - dog
+  - bench
+  prompt: fourteen dogs and two benches
+  prompt_idx: 106
+- counts:
+  - 10
+  - 20
+  objs:
+  - dogs
+  - benches
+  objs_singular:
+  - dog
+  - bench
+  prompt: ten dogs and twenty benches
+  prompt_idx: 107
+- counts:
+  - 17
+  - 12
+  objs:
+  - dogs
+  - clocks
+  objs_singular:
+  - dog
+  - clock
+  prompt: seventeen dogs and twelve clocks
+  prompt_idx: 108
+- counts:
+  - 14
+  - 9
+  objs:
+  - dogs
+  - clocks
+  objs_singular:
+  - dog
+  - clock
+  prompt: fourteen dogs and nine clocks
+  prompt_idx: 109
+- counts:
+  - 18
+  - 6
+  objs:
+  - dogs
+  - apples
+  objs_singular:
+  - dog
+  - apple
+  prompt: eighteen dogs and six apples
+  prompt_idx: 110
+- counts:
+  - 2
+  - 17
+  objs:
+  - dogs
+  - apples
+  objs_singular:
+  - dog
+  - apple
+  prompt: two dogs and seventeen apples
+  prompt_idx: 111
+- counts:
+  - 12
+  - 20
+  objs:
+  - dogs
+  - bananas
+  objs_singular:
+  - dog
+  - banana
+  prompt: twelve dogs and twenty bananas
+  prompt_idx: 112
+- counts:
+  - 5
+  - 3
+  objs:
+  - dogs
+  - bananas
+  objs_singular:
+  - dog
+  - banana
+  prompt: five dogs and three bananas
+  prompt_idx: 113
+- counts:
+  - 13
+  - 16
+  objs:
+  - dogs
+  - donuts
+  objs_singular:
+  - dog
+  - donut
+  prompt: thirteen dogs and sixteen donuts
+  prompt_idx: 114
+- counts:
+  - 13
+  - 15
+  objs:
+  - dogs
+  - donuts
+  objs_singular:
+  - dog
+  - donut
+  prompt: thirteen dogs and fifteen donuts
+  prompt_idx: 115
+- counts:
+  - 12
+  - 13
+  objs:
+  - dogs
+  - oranges
+  objs_singular:
+  - dog
+  - orange
+  prompt: twelve dogs and thirteen oranges
+  prompt_idx: 116
+- counts:
+  - 8
+  - 16
+  objs:
+  - dogs
+  - oranges
+  objs_singular:
+  - dog
+  - orange
+  prompt: eight dogs and sixteen oranges
+  prompt_idx: 117
+- counts:
+  - 12
+  - 8
+  objs:
+  - dogs
+  - eggs
+  objs_singular:
+  - dog
+  - egg
+  prompt: twelve dogs and eight eggs
+  prompt_idx: 118
+- counts:
+  - 7
+  - 14
+  objs:
+  - dogs
+  - eggs
+  objs_singular:
+  - dog
+  - egg
+  prompt: seven dogs and fourteen eggs
+  prompt_idx: 119
+- counts:
+  - 10
+  - 7
+  objs:
+  - dogs
+  - tomatoes
+  objs_singular:
+  - dog
+  - tomato
+  prompt: ten dogs and seven tomatoes
+  prompt_idx: 122
+- counts:
+  - 19
+  - 14
+  objs:
+  - dogs
+  - tomatoes
+  objs_singular:
+  - dog
+  - tomato
+  prompt: nineteen dogs and fourteen tomatoes
+  prompt_idx: 123
+- counts:
+  - 13
+  - 4
+  objs:
+  - dogs
+  - macarons
+  objs_singular:
+  - dog
+  - macaron
+  prompt: thirteen dogs and four macarons
+  prompt_idx: 124
+- counts:
+  - 11
+  - 5
+  objs:
+  - dogs
+  - macarons
+  objs_singular:
+  - dog
+  - macaron
+  prompt: eleven dogs and five macarons
+  prompt_idx: 125
+- counts:
+  - 10
+  - 18
+  objs:
+  - dogs
+  - chicks
+  objs_singular:
+  - dog
+  - chick
+  prompt: ten dogs and eighteen chicks
+  prompt_idx: 126
+- counts:
+  - 12
+  - 3
+  objs:
+  - dogs
+  - chicks
+  objs_singular:
+  - dog
+  - chick
+  prompt: twelve dogs and three chicks
+  prompt_idx: 127
+- counts:
+  - 14
+  - 3
+  objs:
+  - dogs
+  - lemons
+  objs_singular:
+  - dog
+  - lemon
+  prompt: fourteen dogs and three lemons
+  prompt_idx: 128
+- counts:
+  - 20
+  - 14
+  objs:
+  - dogs
+  - lemons
+  objs_singular:
+  - dog
+  - lemon
+  prompt: twenty dogs and fourteen lemons
+  prompt_idx: 129
+- counts:
+  - 11
+  - 5
+  objs:
+  - dogs
+  - breads
+  objs_singular:
+  - dog
+  - bread
+  prompt: eleven dogs and five breads
+  prompt_idx: 130
+- counts:
+  - 16
+  - 20
+  objs:
+  - dogs
+  - breads
+  objs_singular:
+  - dog
+  - bread
+  prompt: sixteen dogs and twenty breads
+  prompt_idx: 131
+- counts:
+  - 12
+  - 9
+  objs:
+  - dogs
+  - onions
+  objs_singular:
+  - dog
+  - onion
+  prompt: twelve dogs and nine onions
+  prompt_idx: 132
+- counts:
+  - 16
+  - 10
+  objs:
+  - dogs
+  - onions
+  objs_singular:
+  - dog
+  - onion
+  prompt: sixteen dogs and ten onions
+  prompt_idx: 133
+- counts:
+  - 16
+  - 20
+  objs:
+  - birds
+  - bears
+  objs_singular:
+  - bird
+  - bear
+  prompt: sixteen birds and twenty bears
+  prompt_idx: 134
+- counts:
+  - 20
+  - 13
+  objs:
+  - birds
+  - bears
+  objs_singular:
+  - bird
+  - bear
+  prompt: twenty birds and thirteen bears
+  prompt_idx: 135
+- counts:
+  - 9
+  - 16
+  objs:
+  - birds
+  - lions
+  objs_singular:
+  - bird
+  - lion
+  prompt: nine birds and sixteen lions
+  prompt_idx: 136
+- counts:
+  - 18
+  - 20
+  objs:
+  - birds
+  - lions
+  objs_singular:
+  - bird
+  - lion
+  prompt: eighteen birds and twenty lions
+  prompt_idx: 137
+- counts:
+  - 10
+  - 12
+  objs:
+  - birds
+  - horses
+  objs_singular:
+  - bird
+  - horse
+  prompt: ten birds and twelve horses
+  prompt_idx: 138
+- counts:
+  - 3
+  - 7
+  objs:
+  - birds
+  - horses
+  objs_singular:
+  - bird
+  - horse
+  prompt: three birds and seven horses
+  prompt_idx: 139
+- counts:
+  - 5
+  - 2
+  objs:
+  - birds
+  - elephants
+  objs_singular:
+  - bird
+  - elephant
+  prompt: five birds and two elephants
+  prompt_idx: 140
+- counts:
+  - 15
+  - 17
+  objs:
+  - birds
+  - elephants
+  objs_singular:
+  - bird
+  - elephant
+  prompt: fifteen birds and seventeen elephants
+  prompt_idx: 141
+- counts:
+  - 6
+  - 17
+  objs:
+  - birds
+  - monkeys
+  objs_singular:
+  - bird
+  - monkey
+  prompt: six birds and seventeen monkeys
+  prompt_idx: 142
+- counts:
+  - 19
+  - 3
+  objs:
+  - birds
+  - monkeys
+  objs_singular:
+  - bird
+  - monkey
+  prompt: nineteen birds and three monkeys
+  prompt_idx: 143
+- counts:
+  - 17
+  - 19
+  objs:
+  - birds
+  - frogs
+  objs_singular:
+  - bird
+  - frog
+  prompt: seventeen birds and nineteen frogs
+  prompt_idx: 144
+- counts:
+  - 6
+  - 12
+  objs:
+  - birds
+  - frogs
+  objs_singular:
+  - bird
+  - frog
+  prompt: six birds and twelve frogs
+  prompt_idx: 145
+- counts:
+  - 13
+  - 9
+  objs:
+  - birds
+  - turtles
+  objs_singular:
+  - bird
+  - turtle
+  prompt: thirteen birds and nine turtles
+  prompt_idx: 146
+- counts:
+  - 3
+  - 16
+  objs:
+  - birds
+  - turtles
+  objs_singular:
+  - bird
+  - turtle
+  prompt: three birds and sixteen turtles
+  prompt_idx: 147
+- counts:
+  - 18
+  - 11
+  objs:
+  - birds
+  - rabbits
+  objs_singular:
+  - bird
+  - rabbit
+  prompt: eighteen birds and eleven rabbits
+  prompt_idx: 148
+- counts:
+  - 20
+  - 2
+  objs:
+  - birds
+  - rabbits
+  objs_singular:
+  - bird
+  - rabbit
+  prompt: twenty birds and two rabbits
+  prompt_idx: 149
+- counts:
+  - 12
+  - 14
+  objs:
+  - birds
+  - mice
+  objs_singular:
+  - bird
+  - mouse
+  prompt: twelve birds and fourteen mice
+  prompt_idx: 150
+- counts:
+  - 9
+  - 4
+  objs:
+  - birds
+  - mice
+  objs_singular:
+  - bird
+  - mouse
+  prompt: nine birds and four mice
+  prompt_idx: 151
+- counts:
+  - 10
+  - 11
+  objs:
+  - birds
+  - backpacks
+  objs_singular:
+  - bird
+  - backpack
+  prompt: ten birds and eleven backpacks
+  prompt_idx: 152
+- counts:
+  - 7
+  - 15
+  objs:
+  - birds
+  - backpacks
+  objs_singular:
+  - bird
+  - backpack
+  prompt: seven birds and fifteen backpacks
+  prompt_idx: 153
+- counts:
+  - 13
+  - 15
+  objs:
+  - birds
+  - glasses
+  objs_singular:
+  - bird
+  - glasses
+  prompt: thirteen birds and fifteen glasses
+  prompt_idx: 154
+- counts:
+  - 3
+  - 2
+  objs:
+  - birds
+  - glasses
+  objs_singular:
+  - bird
+  - glasses
+  prompt: three birds and two glasses
+  prompt_idx: 155
+- counts:
+  - 17
+  - 7
+  objs:
+  - birds
+  - crowns
+  objs_singular:
+  - bird
+  - crown
+  prompt: seventeen birds and seven crowns
+  prompt_idx: 156
+- counts:
+  - 8
+  - 3
+  objs:
+  - birds
+  - crowns
+  objs_singular:
+  - bird
+  - crown
+  prompt: eight birds and three crowns
+  prompt_idx: 157
+- counts:
+  - 10
+  - 18
+  objs:
+  - birds
+  - suitcases
+  objs_singular:
+  - bird
+  - suitcase
+  prompt: ten birds and eighteen suitcases
+  prompt_idx: 158
+- counts:
+  - 7
+  - 18
+  objs:
+  - birds
+  - suitcases
+  objs_singular:
+  - bird
+  - suitcase
+  prompt: seven birds and eighteen suitcases
+  prompt_idx: 159
+- counts:
+  - 8
+  - 11
+  objs:
+  - birds
+  - chairs
+  objs_singular:
+  - bird
+  - chair
+  prompt: eight birds and eleven chairs
+  prompt_idx: 160
+- counts:
+  - 17
+  - 16
+  objs:
+  - birds
+  - chairs
+  objs_singular:
+  - bird
+  - chair
+  prompt: seventeen birds and sixteen chairs
+  prompt_idx: 161
+- counts:
+  - 9
+  - 11
+  objs:
+  - birds
+  - balloons
+  objs_singular:
+  - bird
+  - balloon
+  prompt: nine birds and eleven balloons
+  prompt_idx: 162
+- counts:
+  - 18
+  - 4
+  objs:
+  - birds
+  - balloons
+  objs_singular:
+  - bird
+  - balloon
+  prompt: eighteen birds and four balloons
+  prompt_idx: 163
+- counts:
+  - 5
+  - 16
+  objs:
+  - birds
+  - bows
+  objs_singular:
+  - bird
+  - bow
+  prompt: five birds and sixteen bows
+  prompt_idx: 164
+- counts:
+  - 19
+  - 19
+  objs:
+  - birds
+  - bows
+  objs_singular:
+  - bird
+  - bow
+  prompt: nineteen birds and nineteen bows
+  prompt_idx: 165
+- counts:
+  - 10
+  - 8
+  objs:
+  - birds
+  - cars
+  objs_singular:
+  - bird
+  - car
+  prompt: ten birds and eight cars
+  prompt_idx: 166
+- counts:
+  - 18
+  - 4
+  objs:
+  - birds
+  - cars
+  objs_singular:
+  - bird
+  - car
+  prompt: eighteen birds and four cars
+  prompt_idx: 167
+- counts:
+  - 14
+  - 15
+  objs:
+  - birds
+  - bowls
+  objs_singular:
+  - bird
+  - bowl
+  prompt: fourteen birds and fifteen bowls
+  prompt_idx: 168
+- counts:
+  - 16
+  - 5
+  objs:
+  - birds
+  - bowls
+  objs_singular:
+  - bird
+  - bowl
+  prompt: sixteen birds and five bowls
+  prompt_idx: 169
+- counts:
+  - 3
+  - 20
+  objs:
+  - birds
+  - benches
+  objs_singular:
+  - bird
+  - bench
+  prompt: three birds and twenty benches
+  prompt_idx: 170
+- counts:
+  - 15
+  - 15
+  objs:
+  - birds
+  - benches
+  objs_singular:
+  - bird
+  - bench
+  prompt: fifteen birds and fifteen benches
+  prompt_idx: 171
+- counts:
+  - 18
+  - 13
+  objs:
+  - birds
+  - clocks
+  objs_singular:
+  - bird
+  - clock
+  prompt: eighteen birds and thirteen clocks
+  prompt_idx: 172
+- counts:
+  - 6
+  - 17
+  objs:
+  - birds
+  - clocks
+  objs_singular:
+  - bird
+  - clock
+  prompt: six birds and seventeen clocks
+  prompt_idx: 173
+- counts:
+  - 6
+  - 8
+  objs:
+  - birds
+  - apples
+  objs_singular:
+  - bird
+  - apple
+  prompt: six birds and eight apples
+  prompt_idx: 174
+- counts:
+  - 8
+  - 9
+  objs:
+  - birds
+  - apples
+  objs_singular:
+  - bird
+  - apple
+  prompt: eight birds and nine apples
+  prompt_idx: 175
+- counts:
+  - 3
+  - 9
+  objs:
+  - birds
+  - bananas
+  objs_singular:
+  - bird
+  - banana
+  prompt: three birds and nine bananas
+  prompt_idx: 176
+- counts:
+  - 8
+  - 4
+  objs:
+  - birds
+  - bananas
+  objs_singular:
+  - bird
+  - banana
+  prompt: eight birds and four bananas
+  prompt_idx: 177
+- counts:
+  - 14
+  - 2
+  objs:
+  - birds
+  - donuts
+  objs_singular:
+  - bird
+  - donut
+  prompt: fourteen birds and two donuts
+  prompt_idx: 178
+- counts:
+  - 2
+  - 15
+  objs:
+  - birds
+  - donuts
+  objs_singular:
+  - bird
+  - donut
+  prompt: two birds and fifteen donuts
+  prompt_idx: 179
+- counts:
+  - 12
+  - 19
+  objs:
+  - birds
+  - oranges
+  objs_singular:
+  - bird
+  - orange
+  prompt: twelve birds and nineteen oranges
+  prompt_idx: 180
+- counts:
+  - 2
+  - 3
+  objs:
+  - birds
+  - oranges
+  objs_singular:
+  - bird
+  - orange
+  prompt: two birds and three oranges
+  prompt_idx: 181
+- counts:
+  - 9
+  - 15
+  objs:
+  - birds
+  - eggs
+  objs_singular:
+  - bird
+  - egg
+  prompt: nine birds and fifteen eggs
+  prompt_idx: 182
+- counts:
+  - 11
+  - 7
+  objs:
+  - birds
+  - eggs
+  objs_singular:
+  - bird
+  - egg
+  prompt: eleven birds and seven eggs
+  prompt_idx: 183
+- counts:
+  - 8
+  - 18
+  objs:
+  - birds
+  - tomatoes
+  objs_singular:
+  - bird
+  - tomato
+  prompt: eight birds and eighteen tomatoes
+  prompt_idx: 186
+- counts:
+  - 2
+  - 13
+  objs:
+  - birds
+  - tomatoes
+  objs_singular:
+  - bird
+  - tomato
+  prompt: two birds and thirteen tomatoes
+  prompt_idx: 187
+- counts:
+  - 6
+  - 16
+  objs:
+  - birds
+  - macarons
+  objs_singular:
+  - bird
+  - macaron
+  prompt: six birds and sixteen macarons
+  prompt_idx: 188
+- counts:
+  - 9
+  - 15
+  objs:
+  - birds
+  - macarons
+  objs_singular:
+  - bird
+  - macaron
+  prompt: nine birds and fifteen macarons
+  prompt_idx: 189
+- counts:
+  - 9
+  - 18
+  objs:
+  - birds
+  - chicks
+  objs_singular:
+  - bird
+  - chick
+  prompt: nine birds and eighteen chicks
+  prompt_idx: 190
+- counts:
+  - 15
+  - 14
+  objs:
+  - birds
+  - chicks
+  objs_singular:
+  - bird
+  - chick
+  prompt: fifteen birds and fourteen chicks
+  prompt_idx: 191
+- counts:
+  - 19
+  - 8
+  objs:
+  - birds
+  - lemons
+  objs_singular:
+  - bird
+  - lemon
+  prompt: nineteen birds and eight lemons
+  prompt_idx: 192
+- counts:
+  - 14
+  - 4
+  objs:
+  - birds
+  - lemons
+  objs_singular:
+  - bird
+  - lemon
+  prompt: fourteen birds and four lemons
+  prompt_idx: 193
+- counts:
+  - 17
+  - 3
+  objs:
+  - birds
+  - breads
+  objs_singular:
+  - bird
+  - bread
+  prompt: seventeen birds and three breads
+  prompt_idx: 194
+- counts:
+  - 11
+  - 6
+  objs:
+  - birds
+  - breads
+  objs_singular:
+  - bird
+  - bread
+  prompt: eleven birds and six breads
+  prompt_idx: 195
+- counts:
+  - 17
+  - 5
+  objs:
+  - birds
+  - onions
+  objs_singular:
+  - bird
+  - onion
+  prompt: seventeen birds and five onions
+  prompt_idx: 196
+- counts:
+  - 6
+  - 5
+  objs:
+  - birds
+  - onions
+  objs_singular:
+  - bird
+  - onion
+  prompt: six birds and five onions
+  prompt_idx: 197
+- counts:
+  - 16
+  - 13
+  objs:
+  - bears
+  - lions
+  objs_singular:
+  - bear
+  - lion
+  prompt: sixteen bears and thirteen lions
+  prompt_idx: 198
+- counts:
+  - 19
+  - 2
+  objs:
+  - bears
+  - lions
+  objs_singular:
+  - bear
+  - lion
+  prompt: nineteen bears and two lions
+  prompt_idx: 199
+- counts:
+  - 16
+  - 18
+  objs:
+  - bears
+  - horses
+  objs_singular:
+  - bear
+  - horse
+  prompt: sixteen bears and eighteen horses
+  prompt_idx: 200
+- counts:
+  - 13
+  - 11
+  objs:
+  - bears
+  - horses
+  objs_singular:
+  - bear
+  - horse
+  prompt: thirteen bears and eleven horses
+  prompt_idx: 201
+- counts:
+  - 13
+  - 8
+  objs:
+  - bears
+  - elephants
+  objs_singular:
+  - bear
+  - elephant
+  prompt: thirteen bears and eight elephants
+  prompt_idx: 202
+- counts:
+  - 14
+  - 3
+  objs:
+  - bears
+  - elephants
+  objs_singular:
+  - bear
+  - elephant
+  prompt: fourteen bears and three elephants
+  prompt_idx: 203
+- counts:
+  - 5
+  - 18
+  objs:
+  - bears
+  - monkeys
+  objs_singular:
+  - bear
+  - monkey
+  prompt: five bears and eighteen monkeys
+  prompt_idx: 204
+- counts:
+  - 5
+  - 20
+  objs:
+  - bears
+  - monkeys
+  objs_singular:
+  - bear
+  - monkey
+  prompt: five bears and twenty monkeys
+  prompt_idx: 205
+- counts:
+  - 12
+  - 4
+  objs:
+  - bears
+  - frogs
+  objs_singular:
+  - bear
+  - frog
+  prompt: twelve bears and four frogs
+  prompt_idx: 206
+- counts:
+  - 8
+  - 14
+  objs:
+  - bears
+  - frogs
+  objs_singular:
+  - bear
+  - frog
+  prompt: eight bears and fourteen frogs
+  prompt_idx: 207
+- counts:
+  - 7
+  - 15
+  objs:
+  - bears
+  - turtles
+  objs_singular:
+  - bear
+  - turtle
+  prompt: seven bears and fifteen turtles
+  prompt_idx: 208
+- counts:
+  - 6
+  - 17
+  objs:
+  - bears
+  - turtles
+  objs_singular:
+  - bear
+  - turtle
+  prompt: six bears and seventeen turtles
+  prompt_idx: 209
+- counts:
+  - 6
+  - 2
+  objs:
+  - bears
+  - rabbits
+  objs_singular:
+  - bear
+  - rabbit
+  prompt: six bears and two rabbits
+  prompt_idx: 210
+- counts:
+  - 7
+  - 4
+  objs:
+  - bears
+  - rabbits
+  objs_singular:
+  - bear
+  - rabbit
+  prompt: seven bears and four rabbits
+  prompt_idx: 211
+- counts:
+  - 12
+  - 3
+  objs:
+  - bears
+  - mice
+  objs_singular:
+  - bear
+  - mouse
+  prompt: twelve bears and three mice
+  prompt_idx: 212
+- counts:
+  - 5
+  - 6
+  objs:
+  - bears
+  - mice
+  objs_singular:
+  - bear
+  - mouse
+  prompt: five bears and six mice
+  prompt_idx: 213
+- counts:
+  - 9
+  - 16
+  objs:
+  - bears
+  - backpacks
+  objs_singular:
+  - bear
+  - backpack
+  prompt: nine bears and sixteen backpacks
+  prompt_idx: 214
+- counts:
+  - 15
+  - 8
+  objs:
+  - bears
+  - backpacks
+  objs_singular:
+  - bear
+  - backpack
+  prompt: fifteen bears and eight backpacks
+  prompt_idx: 215
+- counts:
+  - 14
+  - 3
+  objs:
+  - bears
+  - glasses
+  objs_singular:
+  - bear
+  - glasses
+  prompt: fourteen bears and three glasses
+  prompt_idx: 216
+- counts:
+  - 3
+  - 6
+  objs:
+  - bears
+  - glasses
+  objs_singular:
+  - bear
+  - glasses
+  prompt: three bears and six glasses
+  prompt_idx: 217
+- counts:
+  - 5
+  - 16
+  objs:
+  - bears
+  - crowns
+  objs_singular:
+  - bear
+  - crown
+  prompt: five bears and sixteen crowns
+  prompt_idx: 218
+- counts:
+  - 4
+  - 6
+  objs:
+  - bears
+  - crowns
+  objs_singular:
+  - bear
+  - crown
+  prompt: four bears and six crowns
+  prompt_idx: 219
+- counts:
+  - 3
+  - 13
+  objs:
+  - bears
+  - suitcases
+  objs_singular:
+  - bear
+  - suitcase
+  prompt: three bears and thirteen suitcases
+  prompt_idx: 220
+- counts:
+  - 16
+  - 8
+  objs:
+  - bears
+  - suitcases
+  objs_singular:
+  - bear
+  - suitcase
+  prompt: sixteen bears and eight suitcases
+  prompt_idx: 221
+- counts:
+  - 9
+  - 9
+  objs:
+  - bears
+  - chairs
+  objs_singular:
+  - bear
+  - chair
+  prompt: nine bears and nine chairs
+  prompt_idx: 222
+- counts:
+  - 15
+  - 12
+  objs:
+  - bears
+  - chairs
+  objs_singular:
+  - bear
+  - chair
+  prompt: fifteen bears and twelve chairs
+  prompt_idx: 223
+- counts:
+  - 6
+  - 4
+  objs:
+  - bears
+  - balloons
+  objs_singular:
+  - bear
+  - balloon
+  prompt: six bears and four balloons
+  prompt_idx: 224
+- counts:
+  - 2
+  - 11
+  objs:
+  - bears
+  - balloons
+  objs_singular:
+  - bear
+  - balloon
+  prompt: two bears and eleven balloons
+  prompt_idx: 225
+- counts:
+  - 12
+  - 14
+  objs:
+  - bears
+  - bows
+  objs_singular:
+  - bear
+  - bow
+  prompt: twelve bears and fourteen bows
+  prompt_idx: 226
+- counts:
+  - 13
+  - 9
+  objs:
+  - bears
+  - bows
+  objs_singular:
+  - bear
+  - bow
+  prompt: thirteen bears and nine bows
+  prompt_idx: 227
+- counts:
+  - 3
+  - 3
+  objs:
+  - bears
+  - cars
+  objs_singular:
+  - bear
+  - car
+  prompt: three bears and three cars
+  prompt_idx: 228
+- counts:
+  - 19
+  - 4
+  objs:
+  - bears
+  - cars
+  objs_singular:
+  - bear
+  - car
+  prompt: nineteen bears and four cars
+  prompt_idx: 229
+- counts:
+  - 5
+  - 9
+  objs:
+  - bears
+  - bowls
+  objs_singular:
+  - bear
+  - bowl
+  prompt: five bears and nine bowls
+  prompt_idx: 230
+- counts:
+  - 11
+  - 9
+  objs:
+  - bears
+  - bowls
+  objs_singular:
+  - bear
+  - bowl
+  prompt: eleven bears and nine bowls
+  prompt_idx: 231
+- counts:
+  - 6
+  - 19
+  objs:
+  - bears
+  - benches
+  objs_singular:
+  - bear
+  - bench
+  prompt: six bears and nineteen benches
+  prompt_idx: 232
+- counts:
+  - 2
+  - 19
+  objs:
+  - bears
+  - benches
+  objs_singular:
+  - bear
+  - bench
+  prompt: two bears and nineteen benches
+  prompt_idx: 233
+- counts:
+  - 10
+  - 15
+  objs:
+  - bears
+  - clocks
+  objs_singular:
+  - bear
+  - clock
+  prompt: ten bears and fifteen clocks
+  prompt_idx: 234
+- counts:
+  - 19
+  - 13
+  objs:
+  - bears
+  - clocks
+  objs_singular:
+  - bear
+  - clock
+  prompt: nineteen bears and thirteen clocks
+  prompt_idx: 235
+- counts:
+  - 13
+  - 6
+  objs:
+  - bears
+  - apples
+  objs_singular:
+  - bear
+  - apple
+  prompt: thirteen bears and six apples
+  prompt_idx: 236
+- counts:
+  - 15
+  - 3
+  objs:
+  - bears
+  - apples
+  objs_singular:
+  - bear
+  - apple
+  prompt: fifteen bears and three apples
+  prompt_idx: 237
+- counts:
+  - 11
+  - 13
+  objs:
+  - bears
+  - bananas
+  objs_singular:
+  - bear
+  - banana
+  prompt: eleven bears and thirteen bananas
+  prompt_idx: 238
+- counts:
+  - 12
+  - 2
+  objs:
+  - bears
+  - bananas
+  objs_singular:
+  - bear
+  - banana
+  prompt: twelve bears and two bananas
+  prompt_idx: 239
+- counts:
+  - 13
+  - 18
+  objs:
+  - bears
+  - donuts
+  objs_singular:
+  - bear
+  - donut
+  prompt: thirteen bears and eighteen donuts
+  prompt_idx: 240
+- counts:
+  - 2
+  - 11
+  objs:
+  - bears
+  - donuts
+  objs_singular:
+  - bear
+  - donut
+  prompt: two bears and eleven donuts
+  prompt_idx: 241
+- counts:
+  - 4
+  - 14
+  objs:
+  - bears
+  - oranges
+  objs_singular:
+  - bear
+  - orange
+  prompt: four bears and fourteen oranges
+  prompt_idx: 242
+- counts:
+  - 7
+  - 12
+  objs:
+  - bears
+  - oranges
+  objs_singular:
+  - bear
+  - orange
+  prompt: seven bears and twelve oranges
+  prompt_idx: 243
+- counts:
+  - 16
+  - 5
+  objs:
+  - bears
+  - eggs
+  objs_singular:
+  - bear
+  - egg
+  prompt: sixteen bears and five eggs
+  prompt_idx: 244
+- counts:
+  - 19
+  - 8
+  objs:
+  - bears
+  - eggs
+  objs_singular:
+  - bear
+  - egg
+  prompt: nineteen bears and eight eggs
+  prompt_idx: 245
+- counts:
+  - 13
+  - 15
+  objs:
+  - bears
+  - tomatoes
+  objs_singular:
+  - bear
+  - tomato
+  prompt: thirteen bears and fifteen tomatoes
+  prompt_idx: 248
+- counts:
+  - 17
+  - 11
+  objs:
+  - bears
+  - tomatoes
+  objs_singular:
+  - bear
+  - tomato
+  prompt: seventeen bears and eleven tomatoes
+  prompt_idx: 249
+- counts:
+  - 19
+  - 19
+  objs:
+  - bears
+  - macarons
+  objs_singular:
+  - bear
+  - macaron
+  prompt: nineteen bears and nineteen macarons
+  prompt_idx: 250
+- counts:
+  - 7
+  - 14
+  objs:
+  - bears
+  - macarons
+  objs_singular:
+  - bear
+  - macaron
+  prompt: seven bears and fourteen macarons
+  prompt_idx: 251
+- counts:
+  - 2
+  - 10
+  objs:
+  - bears
+  - chicks
+  objs_singular:
+  - bear
+  - chick
+  prompt: two bears and ten chicks
+  prompt_idx: 252
+- counts:
+  - 2
+  - 7
+  objs:
+  - bears
+  - chicks
+  objs_singular:
+  - bear
+  - chick
+  prompt: two bears and seven chicks
+  prompt_idx: 253
+- counts:
+  - 8
+  - 13
+  objs:
+  - bears
+  - lemons
+  objs_singular:
+  - bear
+  - lemon
+  prompt: eight bears and thirteen lemons
+  prompt_idx: 254
+- counts:
+  - 7
+  - 5
+  objs:
+  - bears
+  - lemons
+  objs_singular:
+  - bear
+  - lemon
+  prompt: seven bears and five lemons
+  prompt_idx: 255
+- counts:
+  - 6
+  - 5
+  objs:
+  - bears
+  - breads
+  objs_singular:
+  - bear
+  - bread
+  prompt: six bears and five breads
+  prompt_idx: 256
+- counts:
+  - 10
+  - 5
+  objs:
+  - bears
+  - breads
+  objs_singular:
+  - bear
+  - bread
+  prompt: ten bears and five breads
+  prompt_idx: 257
+- counts:
+  - 4
+  - 13
+  objs:
+  - bears
+  - onions
+  objs_singular:
+  - bear
+  - onion
+  prompt: four bears and thirteen onions
+  prompt_idx: 258
+- counts:
+  - 3
+  - 10
+  objs:
+  - bears
+  - onions
+  objs_singular:
+  - bear
+  - onion
+  prompt: three bears and ten onions
+  prompt_idx: 259
+- counts:
+  - 13
+  - 6
+  objs:
+  - lions
+  - horses
+  objs_singular:
+  - lion
+  - horse
+  prompt: thirteen lions and six horses
+  prompt_idx: 260
+- counts:
+  - 10
+  - 15
+  objs:
+  - lions
+  - horses
+  objs_singular:
+  - lion
+  - horse
+  prompt: ten lions and fifteen horses
+  prompt_idx: 261
+- counts:
+  - 4
+  - 10
+  objs:
+  - lions
+  - elephants
+  objs_singular:
+  - lion
+  - elephant
+  prompt: four lions and ten elephants
+  prompt_idx: 262
+- counts:
+  - 18
+  - 19
+  objs:
+  - lions
+  - elephants
+  objs_singular:
+  - lion
+  - elephant
+  prompt: eighteen lions and nineteen elephants
+  prompt_idx: 263
+- counts:
+  - 5
+  - 19
+  objs:
+  - lions
+  - monkeys
+  objs_singular:
+  - lion
+  - monkey
+  prompt: five lions and nineteen monkeys
+  prompt_idx: 264
+- counts:
+  - 5
+  - 12
+  objs:
+  - lions
+  - monkeys
+  objs_singular:
+  - lion
+  - monkey
+  prompt: five lions and twelve monkeys
+  prompt_idx: 265
+- counts:
+  - 11
+  - 11
+  objs:
+  - lions
+  - frogs
+  objs_singular:
+  - lion
+  - frog
+  prompt: eleven lions and eleven frogs
+  prompt_idx: 266
+- counts:
+  - 16
+  - 9
+  objs:
+  - lions
+  - frogs
+  objs_singular:
+  - lion
+  - frog
+  prompt: sixteen lions and nine frogs
+  prompt_idx: 267
+- counts:
+  - 2
+  - 4
+  objs:
+  - lions
+  - turtles
+  objs_singular:
+  - lion
+  - turtle
+  prompt: two lions and four turtles
+  prompt_idx: 268
+- counts:
+  - 5
+  - 5
+  objs:
+  - lions
+  - turtles
+  objs_singular:
+  - lion
+  - turtle
+  prompt: five lions and five turtles
+  prompt_idx: 269
+- counts:
+  - 16
+  - 14
+  objs:
+  - lions
+  - rabbits
+  objs_singular:
+  - lion
+  - rabbit
+  prompt: sixteen lions and fourteen rabbits
+  prompt_idx: 270
+- counts:
+  - 13
+  - 7
+  objs:
+  - lions
+  - rabbits
+  objs_singular:
+  - lion
+  - rabbit
+  prompt: thirteen lions and seven rabbits
+  prompt_idx: 271
+- counts:
+  - 6
+  - 14
+  objs:
+  - lions
+  - mice
+  objs_singular:
+  - lion
+  - mouse
+  prompt: six lions and fourteen mice
+  prompt_idx: 272
+- counts:
+  - 2
+  - 15
+  objs:
+  - lions
+  - mice
+  objs_singular:
+  - lion
+  - mouse
+  prompt: two lions and fifteen mice
+  prompt_idx: 273
+- counts:
+  - 8
+  - 9
+  objs:
+  - lions
+  - backpacks
+  objs_singular:
+  - lion
+  - backpack
+  prompt: eight lions and nine backpacks
+  prompt_idx: 274
+- counts:
+  - 2
+  - 15
+  objs:
+  - lions
+  - backpacks
+  objs_singular:
+  - lion
+  - backpack
+  prompt: two lions and fifteen backpacks
+  prompt_idx: 275
+- counts:
+  - 6
+  - 4
+  objs:
+  - lions
+  - glasses
+  objs_singular:
+  - lion
+  - glasses
+  prompt: six lions and four glasses
+  prompt_idx: 276
+- counts:
+  - 7
+  - 19
+  objs:
+  - lions
+  - glasses
+  objs_singular:
+  - lion
+  - glasses
+  prompt: seven lions and nineteen glasses
+  prompt_idx: 277
+- counts:
+  - 10
+  - 15
+  objs:
+  - lions
+  - crowns
+  objs_singular:
+  - lion
+  - crown
+  prompt: ten lions and fifteen crowns
+  prompt_idx: 278
+- counts:
+  - 7
+  - 14
+  objs:
+  - lions
+  - crowns
+  objs_singular:
+  - lion
+  - crown
+  prompt: seven lions and fourteen crowns
+  prompt_idx: 279
+- counts:
+  - 11
+  - 4
+  objs:
+  - lions
+  - suitcases
+  objs_singular:
+  - lion
+  - suitcase
+  prompt: eleven lions and four suitcases
+  prompt_idx: 280
+- counts:
+  - 2
+  - 5
+  objs:
+  - lions
+  - suitcases
+  objs_singular:
+  - lion
+  - suitcase
+  prompt: two lions and five suitcases
+  prompt_idx: 281
+- counts:
+  - 20
+  - 14
+  objs:
+  - lions
+  - chairs
+  objs_singular:
+  - lion
+  - chair
+  prompt: twenty lions and fourteen chairs
+  prompt_idx: 282
+- counts:
+  - 10
+  - 20
+  objs:
+  - lions
+  - chairs
+  objs_singular:
+  - lion
+  - chair
+  prompt: ten lions and twenty chairs
+  prompt_idx: 283
+- counts:
+  - 3
+  - 19
+  objs:
+  - lions
+  - balloons
+  objs_singular:
+  - lion
+  - balloon
+  prompt: three lions and nineteen balloons
+  prompt_idx: 284
+- counts:
+  - 8
+  - 11
+  objs:
+  - lions
+  - balloons
+  objs_singular:
+  - lion
+  - balloon
+  prompt: eight lions and eleven balloons
+  prompt_idx: 285
+- counts:
+  - 11
+  - 19
+  objs:
+  - lions
+  - bows
+  objs_singular:
+  - lion
+  - bow
+  prompt: eleven lions and nineteen bows
+  prompt_idx: 286
+- counts:
+  - 12
+  - 2
+  objs:
+  - lions
+  - bows
+  objs_singular:
+  - lion
+  - bow
+  prompt: twelve lions and two bows
+  prompt_idx: 287
+- counts:
+  - 6
+  - 11
+  objs:
+  - lions
+  - cars
+  objs_singular:
+  - lion
+  - car
+  prompt: six lions and eleven cars
+  prompt_idx: 288
+- counts:
+  - 11
+  - 8
+  objs:
+  - lions
+  - cars
+  objs_singular:
+  - lion
+  - car
+  prompt: eleven lions and eight cars
+  prompt_idx: 289
+- counts:
+  - 15
+  - 8
+  objs:
+  - lions
+  - bowls
+  objs_singular:
+  - lion
+  - bowl
+  prompt: fifteen lions and eight bowls
+  prompt_idx: 290
+- counts:
+  - 17
+  - 3
+  objs:
+  - lions
+  - bowls
+  objs_singular:
+  - lion
+  - bowl
+  prompt: seventeen lions and three bowls
+  prompt_idx: 291
+- counts:
+  - 15
+  - 4
+  objs:
+  - lions
+  - benches
+  objs_singular:
+  - lion
+  - bench
+  prompt: fifteen lions and four benches
+  prompt_idx: 292
+- counts:
+  - 6
+  - 7
+  objs:
+  - lions
+  - benches
+  objs_singular:
+  - lion
+  - bench
+  prompt: six lions and seven benches
+  prompt_idx: 293
+- counts:
+  - 3
+  - 19
+  objs:
+  - lions
+  - clocks
+  objs_singular:
+  - lion
+  - clock
+  prompt: three lions and nineteen clocks
+  prompt_idx: 294
+- counts:
+  - 9
+  - 4
+  objs:
+  - lions
+  - clocks
+  objs_singular:
+  - lion
+  - clock
+  prompt: nine lions and four clocks
+  prompt_idx: 295
+- counts:
+  - 16
+  - 20
+  objs:
+  - lions
+  - apples
+  objs_singular:
+  - lion
+  - apple
+  prompt: sixteen lions and twenty apples
+  prompt_idx: 296
+- counts:
+  - 8
+  - 14
+  objs:
+  - lions
+  - apples
+  objs_singular:
+  - lion
+  - apple
+  prompt: eight lions and fourteen apples
+  prompt_idx: 297
+- counts:
+  - 20
+  - 15
+  objs:
+  - lions
+  - bananas
+  objs_singular:
+  - lion
+  - banana
+  prompt: twenty lions and fifteen bananas
+  prompt_idx: 298
+- counts:
+  - 19
+  - 13
+  objs:
+  - lions
+  - bananas
+  objs_singular:
+  - lion
+  - banana
+  prompt: nineteen lions and thirteen bananas
+  prompt_idx: 299
+- counts:
+  - 4
+  - 8
+  objs:
+  - lions
+  - donuts
+  objs_singular:
+  - lion
+  - donut
+  prompt: four lions and eight donuts
+  prompt_idx: 300
+- counts:
+  - 4
+  - 16
+  objs:
+  - lions
+  - donuts
+  objs_singular:
+  - lion
+  - donut
+  prompt: four lions and sixteen donuts
+  prompt_idx: 301
+- counts:
+  - 3
+  - 19
+  objs:
+  - lions
+  - oranges
+  objs_singular:
+  - lion
+  - orange
+  prompt: three lions and nineteen oranges
+  prompt_idx: 302
+- counts:
+  - 11
+  - 2
+  objs:
+  - lions
+  - oranges
+  objs_singular:
+  - lion
+  - orange
+  prompt: eleven lions and two oranges
+  prompt_idx: 303
+- counts:
+  - 8
+  - 3
+  objs:
+  - lions
+  - eggs
+  objs_singular:
+  - lion
+  - egg
+  prompt: eight lions and three eggs
+  prompt_idx: 304
+- counts:
+  - 6
+  - 18
+  objs:
+  - lions
+  - eggs
+  objs_singular:
+  - lion
+  - egg
+  prompt: six lions and eighteen eggs
+  prompt_idx: 305
+- counts:
+  - 14
+  - 12
+  objs:
+  - lions
+  - tomatoes
+  objs_singular:
+  - lion
+  - tomato
+  prompt: fourteen lions and twelve tomatoes
+  prompt_idx: 308
+- counts:
+  - 7
+  - 14
+  objs:
+  - lions
+  - tomatoes
+  objs_singular:
+  - lion
+  - tomato
+  prompt: seven lions and fourteen tomatoes
+  prompt_idx: 309
+- counts:
+  - 15
+  - 5
+  objs:
+  - lions
+  - macarons
+  objs_singular:
+  - lion
+  - macaron
+  prompt: fifteen lions and five macarons
+  prompt_idx: 310
+- counts:
+  - 4
+  - 3
+  objs:
+  - lions
+  - macarons
+  objs_singular:
+  - lion
+  - macaron
+  prompt: four lions and three macarons
+  prompt_idx: 311
+- counts:
+  - 8
+  - 6
+  objs:
+  - lions
+  - chicks
+  objs_singular:
+  - lion
+  - chick
+  prompt: eight lions and six chicks
+  prompt_idx: 312
+- counts:
+  - 6
+  - 20
+  objs:
+  - lions
+  - chicks
+  objs_singular:
+  - lion
+  - chick
+  prompt: six lions and twenty chicks
+  prompt_idx: 313
+- counts:
+  - 11
+  - 13
+  objs:
+  - lions
+  - lemons
+  objs_singular:
+  - lion
+  - lemon
+  prompt: eleven lions and thirteen lemons
+  prompt_idx: 314
+- counts:
+  - 18
+  - 15
+  objs:
+  - lions
+  - lemons
+  objs_singular:
+  - lion
+  - lemon
+  prompt: eighteen lions and fifteen lemons
+  prompt_idx: 315
+- counts:
+  - 10
+  - 11
+  objs:
+  - lions
+  - breads
+  objs_singular:
+  - lion
+  - bread
+  prompt: ten lions and eleven breads
+  prompt_idx: 316
+- counts:
+  - 15
+  - 7
+  objs:
+  - lions
+  - breads
+  objs_singular:
+  - lion
+  - bread
+  prompt: fifteen lions and seven breads
+  prompt_idx: 317
+- counts:
+  - 19
+  - 18
+  objs:
+  - lions
+  - onions
+  objs_singular:
+  - lion
+  - onion
+  prompt: nineteen lions and eighteen onions
+  prompt_idx: 318
+- counts:
+  - 19
+  - 4
+  objs:
+  - lions
+  - onions
+  objs_singular:
+  - lion
+  - onion
+  prompt: nineteen lions and four onions
+  prompt_idx: 319
+- counts:
+  - 2
+  - 20
+  objs:
+  - horses
+  - elephants
+  objs_singular:
+  - horse
+  - elephant
+  prompt: two horses and twenty elephants
+  prompt_idx: 320
+- counts:
+  - 6
+  - 18
+  objs:
+  - horses
+  - elephants
+  objs_singular:
+  - horse
+  - elephant
+  prompt: six horses and eighteen elephants
+  prompt_idx: 321
+- counts:
+  - 5
+  - 16
+  objs:
+  - horses
+  - monkeys
+  objs_singular:
+  - horse
+  - monkey
+  prompt: five horses and sixteen monkeys
+  prompt_idx: 322
+- counts:
+  - 9
+  - 19
+  objs:
+  - horses
+  - monkeys
+  objs_singular:
+  - horse
+  - monkey
+  prompt: nine horses and nineteen monkeys
+  prompt_idx: 323
+- counts:
+  - 17
+  - 2
+  objs:
+  - horses
+  - frogs
+  objs_singular:
+  - horse
+  - frog
+  prompt: seventeen horses and two frogs
+  prompt_idx: 324
+- counts:
+  - 13
+  - 11
+  objs:
+  - horses
+  - frogs
+  objs_singular:
+  - horse
+  - frog
+  prompt: thirteen horses and eleven frogs
+  prompt_idx: 325
+- counts:
+  - 16
+  - 13
+  objs:
+  - horses
+  - turtles
+  objs_singular:
+  - horse
+  - turtle
+  prompt: sixteen horses and thirteen turtles
+  prompt_idx: 326
+- counts:
+  - 11
+  - 19
+  objs:
+  - horses
+  - turtles
+  objs_singular:
+  - horse
+  - turtle
+  prompt: eleven horses and nineteen turtles
+  prompt_idx: 327
+- counts:
+  - 20
+  - 20
+  objs:
+  - horses
+  - rabbits
+  objs_singular:
+  - horse
+  - rabbit
+  prompt: twenty horses and twenty rabbits
+  prompt_idx: 328
+- counts:
+  - 12
+  - 8
+  objs:
+  - horses
+  - rabbits
+  objs_singular:
+  - horse
+  - rabbit
+  prompt: twelve horses and eight rabbits
+  prompt_idx: 329
+- counts:
+  - 7
+  - 3
+  objs:
+  - horses
+  - mice
+  objs_singular:
+  - horse
+  - mouse
+  prompt: seven horses and three mice
+  prompt_idx: 330
+- counts:
+  - 13
+  - 3
+  objs:
+  - horses
+  - mice
+  objs_singular:
+  - horse
+  - mouse
+  prompt: thirteen horses and three mice
+  prompt_idx: 331
+- counts:
+  - 20
+  - 5
+  objs:
+  - horses
+  - backpacks
+  objs_singular:
+  - horse
+  - backpack
+  prompt: twenty horses and five backpacks
+  prompt_idx: 332
+- counts:
+  - 17
+  - 13
+  objs:
+  - horses
+  - backpacks
+  objs_singular:
+  - horse
+  - backpack
+  prompt: seventeen horses and thirteen backpacks
+  prompt_idx: 333
+- counts:
+  - 15
+  - 7
+  objs:
+  - horses
+  - glasses
+  objs_singular:
+  - horse
+  - glasses
+  prompt: fifteen horses and seven glasses
+  prompt_idx: 334
+- counts:
+  - 5
+  - 4
+  objs:
+  - horses
+  - glasses
+  objs_singular:
+  - horse
+  - glasses
+  prompt: five horses and four glasses
+  prompt_idx: 335
+- counts:
+  - 9
+  - 20
+  objs:
+  - horses
+  - crowns
+  objs_singular:
+  - horse
+  - crown
+  prompt: nine horses and twenty crowns
+  prompt_idx: 336
+- counts:
+  - 14
+  - 6
+  objs:
+  - horses
+  - crowns
+  objs_singular:
+  - horse
+  - crown
+  prompt: fourteen horses and six crowns
+  prompt_idx: 337
+- counts:
+  - 18
+  - 5
+  objs:
+  - horses
+  - suitcases
+  objs_singular:
+  - horse
+  - suitcase
+  prompt: eighteen horses and five suitcases
+  prompt_idx: 338
+- counts:
+  - 17
+  - 18
+  objs:
+  - horses
+  - suitcases
+  objs_singular:
+  - horse
+  - suitcase
+  prompt: seventeen horses and eighteen suitcases
+  prompt_idx: 339
+- counts:
+  - 9
+  - 18
+  objs:
+  - horses
+  - chairs
+  objs_singular:
+  - horse
+  - chair
+  prompt: nine horses and eighteen chairs
+  prompt_idx: 340
+- counts:
+  - 17
+  - 12
+  objs:
+  - horses
+  - chairs
+  objs_singular:
+  - horse
+  - chair
+  prompt: seventeen horses and twelve chairs
+  prompt_idx: 341
+- counts:
+  - 12
+  - 15
+  objs:
+  - horses
+  - balloons
+  objs_singular:
+  - horse
+  - balloon
+  prompt: twelve horses and fifteen balloons
+  prompt_idx: 342
+- counts:
+  - 10
+  - 12
+  objs:
+  - horses
+  - balloons
+  objs_singular:
+  - horse
+  - balloon
+  prompt: ten horses and twelve balloons
+  prompt_idx: 343
+- counts:
+  - 17
+  - 7
+  objs:
+  - horses
+  - bows
+  objs_singular:
+  - horse
+  - bow
+  prompt: seventeen horses and seven bows
+  prompt_idx: 344
+- counts:
+  - 9
+  - 5
+  objs:
+  - horses
+  - bows
+  objs_singular:
+  - horse
+  - bow
+  prompt: nine horses and five bows
+  prompt_idx: 345
+- counts:
+  - 3
+  - 18
+  objs:
+  - horses
+  - cars
+  objs_singular:
+  - horse
+  - car
+  prompt: three horses and eighteen cars
+  prompt_idx: 346
+- counts:
+  - 6
+  - 13
+  objs:
+  - horses
+  - cars
+  objs_singular:
+  - horse
+  - car
+  prompt: six horses and thirteen cars
+  prompt_idx: 347
+- counts:
+  - 3
+  - 6
+  objs:
+  - horses
+  - bowls
+  objs_singular:
+  - horse
+  - bowl
+  prompt: three horses and six bowls
+  prompt_idx: 348
+- counts:
+  - 6
+  - 7
+  objs:
+  - horses
+  - bowls
+  objs_singular:
+  - horse
+  - bowl
+  prompt: six horses and seven bowls
+  prompt_idx: 349
+- counts:
+  - 14
+  - 7
+  objs:
+  - horses
+  - benches
+  objs_singular:
+  - horse
+  - bench
+  prompt: fourteen horses and seven benches
+  prompt_idx: 350
+- counts:
+  - 19
+  - 9
+  objs:
+  - horses
+  - benches
+  objs_singular:
+  - horse
+  - bench
+  prompt: nineteen horses and nine benches
+  prompt_idx: 351
+- counts:
+  - 18
+  - 7
+  objs:
+  - horses
+  - clocks
+  objs_singular:
+  - horse
+  - clock
+  prompt: eighteen horses and seven clocks
+  prompt_idx: 352
+- counts:
+  - 17
+  - 18
+  objs:
+  - horses
+  - clocks
+  objs_singular:
+  - horse
+  - clock
+  prompt: seventeen horses and eighteen clocks
+  prompt_idx: 353
+- counts:
+  - 2
+  - 17
+  objs:
+  - horses
+  - apples
+  objs_singular:
+  - horse
+  - apple
+  prompt: two horses and seventeen apples
+  prompt_idx: 354
+- counts:
+  - 6
+  - 10
+  objs:
+  - horses
+  - apples
+  objs_singular:
+  - horse
+  - apple
+  prompt: six horses and ten apples
+  prompt_idx: 355
+- counts:
+  - 13
+  - 18
+  objs:
+  - horses
+  - bananas
+  objs_singular:
+  - horse
+  - banana
+  prompt: thirteen horses and eighteen bananas
+  prompt_idx: 356
+- counts:
+  - 16
+  - 9
+  objs:
+  - horses
+  - bananas
+  objs_singular:
+  - horse
+  - banana
+  prompt: sixteen horses and nine bananas
+  prompt_idx: 357
+- counts:
+  - 4
+  - 15
+  objs:
+  - horses
+  - donuts
+  objs_singular:
+  - horse
+  - donut
+  prompt: four horses and fifteen donuts
+  prompt_idx: 358
+- counts:
+  - 17
+  - 14
+  objs:
+  - horses
+  - donuts
+  objs_singular:
+  - horse
+  - donut
+  prompt: seventeen horses and fourteen donuts
+  prompt_idx: 359
+- counts:
+  - 12
+  - 3
+  objs:
+  - horses
+  - oranges
+  objs_singular:
+  - horse
+  - orange
+  prompt: twelve horses and three oranges
+  prompt_idx: 360
+- counts:
+  - 15
+  - 15
+  objs:
+  - horses
+  - oranges
+  objs_singular:
+  - horse
+  - orange
+  prompt: fifteen horses and fifteen oranges
+  prompt_idx: 361
+- counts:
+  - 4
+  - 12
+  objs:
+  - horses
+  - eggs
+  objs_singular:
+  - horse
+  - egg
+  prompt: four horses and twelve eggs
+  prompt_idx: 362
+- counts:
+  - 16
+  - 16
+  objs:
+  - horses
+  - eggs
+  objs_singular:
+  - horse
+  - egg
+  prompt: sixteen horses and sixteen eggs
+  prompt_idx: 363
+- counts:
+  - 13
+  - 12
+  objs:
+  - horses
+  - tomatoes
+  objs_singular:
+  - horse
+  - tomato
+  prompt: thirteen horses and twelve tomatoes
+  prompt_idx: 366
+- counts:
+  - 9
+  - 19
+  objs:
+  - horses
+  - tomatoes
+  objs_singular:
+  - horse
+  - tomato
+  prompt: nine horses and nineteen tomatoes
+  prompt_idx: 367
+- counts:
+  - 19
+  - 17
+  objs:
+  - horses
+  - macarons
+  objs_singular:
+  - horse
+  - macaron
+  prompt: nineteen horses and seventeen macarons
+  prompt_idx: 368
+- counts:
+  - 20
+  - 12
+  objs:
+  - horses
+  - macarons
+  objs_singular:
+  - horse
+  - macaron
+  prompt: twenty horses and twelve macarons
+  prompt_idx: 369
+- counts:
+  - 9
+  - 3
+  objs:
+  - horses
+  - chicks
+  objs_singular:
+  - horse
+  - chick
+  prompt: nine horses and three chicks
+  prompt_idx: 370
+- counts:
+  - 7
+  - 6
+  objs:
+  - horses
+  - chicks
+  objs_singular:
+  - horse
+  - chick
+  prompt: seven horses and six chicks
+  prompt_idx: 371
+- counts:
+  - 16
+  - 8
+  objs:
+  - horses
+  - lemons
+  objs_singular:
+  - horse
+  - lemon
+  prompt: sixteen horses and eight lemons
+  prompt_idx: 372
+- counts:
+  - 17
+  - 15
+  objs:
+  - horses
+  - lemons
+  objs_singular:
+  - horse
+  - lemon
+  prompt: seventeen horses and fifteen lemons
+  prompt_idx: 373
+- counts:
+  - 2
+  - 13
+  objs:
+  - horses
+  - breads
+  objs_singular:
+  - horse
+  - bread
+  prompt: two horses and thirteen breads
+  prompt_idx: 374
+- counts:
+  - 6
+  - 10
+  objs:
+  - horses
+  - breads
+  objs_singular:
+  - horse
+  - bread
+  prompt: six horses and ten breads
+  prompt_idx: 375
+- counts:
+  - 13
+  - 19
+  objs:
+  - horses
+  - onions
+  objs_singular:
+  - horse
+  - onion
+  prompt: thirteen horses and nineteen onions
+  prompt_idx: 376
+- counts:
+  - 11
+  - 4
+  objs:
+  - horses
+  - onions
+  objs_singular:
+  - horse
+  - onion
+  prompt: eleven horses and four onions
+  prompt_idx: 377
+- counts:
+  - 13
+  - 8
+  objs:
+  - elephants
+  - monkeys
+  objs_singular:
+  - elephant
+  - monkey
+  prompt: thirteen elephants and eight monkeys
+  prompt_idx: 378
+- counts:
+  - 3
+  - 5
+  objs:
+  - elephants
+  - monkeys
+  objs_singular:
+  - elephant
+  - monkey
+  prompt: three elephants and five monkeys
+  prompt_idx: 379
+- counts:
+  - 19
+  - 6
+  objs:
+  - elephants
+  - frogs
+  objs_singular:
+  - elephant
+  - frog
+  prompt: nineteen elephants and six frogs
+  prompt_idx: 380
+- counts:
+  - 18
+  - 2
+  objs:
+  - elephants
+  - frogs
+  objs_singular:
+  - elephant
+  - frog
+  prompt: eighteen elephants and two frogs
+  prompt_idx: 381
+- counts:
+  - 17
+  - 18
+  objs:
+  - elephants
+  - turtles
+  objs_singular:
+  - elephant
+  - turtle
+  prompt: seventeen elephants and eighteen turtles
+  prompt_idx: 382
+- counts:
+  - 15
+  - 14
+  objs:
+  - elephants
+  - turtles
+  objs_singular:
+  - elephant
+  - turtle
+  prompt: fifteen elephants and fourteen turtles
+  prompt_idx: 383
+- counts:
+  - 17
+  - 4
+  objs:
+  - elephants
+  - rabbits
+  objs_singular:
+  - elephant
+  - rabbit
+  prompt: seventeen elephants and four rabbits
+  prompt_idx: 384
+- counts:
+  - 8
+  - 7
+  objs:
+  - elephants
+  - rabbits
+  objs_singular:
+  - elephant
+  - rabbit
+  prompt: eight elephants and seven rabbits
+  prompt_idx: 385
+- counts:
+  - 13
+  - 9
+  objs:
+  - elephants
+  - mice
+  objs_singular:
+  - elephant
+  - mouse
+  prompt: thirteen elephants and nine mice
+  prompt_idx: 386
+- counts:
+  - 12
+  - 15
+  objs:
+  - elephants
+  - mice
+  objs_singular:
+  - elephant
+  - mouse
+  prompt: twelve elephants and fifteen mice
+  prompt_idx: 387
+- counts:
+  - 17
+  - 5
+  objs:
+  - elephants
+  - backpacks
+  objs_singular:
+  - elephant
+  - backpack
+  prompt: seventeen elephants and five backpacks
+  prompt_idx: 388
+- counts:
+  - 14
+  - 4
+  objs:
+  - elephants
+  - backpacks
+  objs_singular:
+  - elephant
+  - backpack
+  prompt: fourteen elephants and four backpacks
+  prompt_idx: 389
+- counts:
+  - 13
+  - 18
+  objs:
+  - elephants
+  - glasses
+  objs_singular:
+  - elephant
+  - glasses
+  prompt: thirteen elephants and eighteen glasses
+  prompt_idx: 390
+- counts:
+  - 14
+  - 5
+  objs:
+  - elephants
+  - glasses
+  objs_singular:
+  - elephant
+  - glasses
+  prompt: fourteen elephants and five glasses
+  prompt_idx: 391
+- counts:
+  - 8
+  - 10
+  objs:
+  - elephants
+  - crowns
+  objs_singular:
+  - elephant
+  - crown
+  prompt: eight elephants and ten crowns
+  prompt_idx: 392
+- counts:
+  - 4
+  - 5
+  objs:
+  - elephants
+  - crowns
+  objs_singular:
+  - elephant
+  - crown
+  prompt: four elephants and five crowns
+  prompt_idx: 393
+- counts:
+  - 13
+  - 7
+  objs:
+  - elephants
+  - suitcases
+  objs_singular:
+  - elephant
+  - suitcase
+  prompt: thirteen elephants and seven suitcases
+  prompt_idx: 394
+- counts:
+  - 8
+  - 4
+  objs:
+  - elephants
+  - suitcases
+  objs_singular:
+  - elephant
+  - suitcase
+  prompt: eight elephants and four suitcases
+  prompt_idx: 395
+- counts:
+  - 4
+  - 15
+  objs:
+  - elephants
+  - chairs
+  objs_singular:
+  - elephant
+  - chair
+  prompt: four elephants and fifteen chairs
+  prompt_idx: 396
+- counts:
+  - 16
+  - 15
+  objs:
+  - elephants
+  - chairs
+  objs_singular:
+  - elephant
+  - chair
+  prompt: sixteen elephants and fifteen chairs
+  prompt_idx: 397
+- counts:
+  - 16
+  - 3
+  objs:
+  - elephants
+  - balloons
+  objs_singular:
+  - elephant
+  - balloon
+  prompt: sixteen elephants and three balloons
+  prompt_idx: 398
+- counts:
+  - 15
+  - 3
+  objs:
+  - elephants
+  - balloons
+  objs_singular:
+  - elephant
+  - balloon
+  prompt: fifteen elephants and three balloons
+  prompt_idx: 399
+- counts:
+  - 5
+  - 11
+  objs:
+  - elephants
+  - bows
+  objs_singular:
+  - elephant
+  - bow
+  prompt: five elephants and eleven bows
+  prompt_idx: 400
+- counts:
+  - 18
+  - 14
+  objs:
+  - elephants
+  - bows
+  objs_singular:
+  - elephant
+  - bow
+  prompt: eighteen elephants and fourteen bows
+  prompt_idx: 401
+- counts:
+  - 14
+  - 12
+  objs:
+  - elephants
+  - cars
+  objs_singular:
+  - elephant
+  - car
+  prompt: fourteen elephants and twelve cars
+  prompt_idx: 402
+- counts:
+  - 13
+  - 13
+  objs:
+  - elephants
+  - cars
+  objs_singular:
+  - elephant
+  - car
+  prompt: thirteen elephants and thirteen cars
+  prompt_idx: 403
+- counts:
+  - 4
+  - 12
+  objs:
+  - elephants
+  - bowls
+  objs_singular:
+  - elephant
+  - bowl
+  prompt: four elephants and twelve bowls
+  prompt_idx: 404
+- counts:
+  - 7
+  - 5
+  objs:
+  - elephants
+  - bowls
+  objs_singular:
+  - elephant
+  - bowl
+  prompt: seven elephants and five bowls
+  prompt_idx: 405
+- counts:
+  - 2
+  - 16
+  objs:
+  - elephants
+  - benches
+  objs_singular:
+  - elephant
+  - bench
+  prompt: two elephants and sixteen benches
+  prompt_idx: 406
+- counts:
+  - 14
+  - 18
+  objs:
+  - elephants
+  - benches
+  objs_singular:
+  - elephant
+  - bench
+  prompt: fourteen elephants and eighteen benches
+  prompt_idx: 407
+- counts:
+  - 12
+  - 3
+  objs:
+  - elephants
+  - clocks
+  objs_singular:
+  - elephant
+  - clock
+  prompt: twelve elephants and three clocks
+  prompt_idx: 408
+- counts:
+  - 8
+  - 11
+  objs:
+  - elephants
+  - clocks
+  objs_singular:
+  - elephant
+  - clock
+  prompt: eight elephants and eleven clocks
+  prompt_idx: 409
+- counts:
+  - 12
+  - 11
+  objs:
+  - elephants
+  - apples
+  objs_singular:
+  - elephant
+  - apple
+  prompt: twelve elephants and eleven apples
+  prompt_idx: 410
+- counts:
+  - 6
+  - 12
+  objs:
+  - elephants
+  - apples
+  objs_singular:
+  - elephant
+  - apple
+  prompt: six elephants and twelve apples
+  prompt_idx: 411
+- counts:
+  - 17
+  - 13
+  objs:
+  - elephants
+  - bananas
+  objs_singular:
+  - elephant
+  - banana
+  prompt: seventeen elephants and thirteen bananas
+  prompt_idx: 412
+- counts:
+  - 9
+  - 19
+  objs:
+  - elephants
+  - bananas
+  objs_singular:
+  - elephant
+  - banana
+  prompt: nine elephants and nineteen bananas
+  prompt_idx: 413
+- counts:
+  - 3
+  - 17
+  objs:
+  - elephants
+  - donuts
+  objs_singular:
+  - elephant
+  - donut
+  prompt: three elephants and seventeen donuts
+  prompt_idx: 414
+- counts:
+  - 6
+  - 8
+  objs:
+  - elephants
+  - donuts
+  objs_singular:
+  - elephant
+  - donut
+  prompt: six elephants and eight donuts
+  prompt_idx: 415
+- counts:
+  - 12
+  - 9
+  objs:
+  - elephants
+  - oranges
+  objs_singular:
+  - elephant
+  - orange
+  prompt: twelve elephants and nine oranges
+  prompt_idx: 416
+- counts:
+  - 17
+  - 19
+  objs:
+  - elephants
+  - oranges
+  objs_singular:
+  - elephant
+  - orange
+  prompt: seventeen elephants and nineteen oranges
+  prompt_idx: 417
+- counts:
+  - 9
+  - 11
+  objs:
+  - elephants
+  - eggs
+  objs_singular:
+  - elephant
+  - egg
+  prompt: nine elephants and eleven eggs
+  prompt_idx: 418
+- counts:
+  - 7
+  - 8
+  objs:
+  - elephants
+  - eggs
+  objs_singular:
+  - elephant
+  - egg
+  prompt: seven elephants and eight eggs
+  prompt_idx: 419
+- counts:
+  - 16
+  - 16
+  objs:
+  - elephants
+  - tomatoes
+  objs_singular:
+  - elephant
+  - tomato
+  prompt: sixteen elephants and sixteen tomatoes
+  prompt_idx: 422
+- counts:
+  - 10
+  - 15
+  objs:
+  - elephants
+  - tomatoes
+  objs_singular:
+  - elephant
+  - tomato
+  prompt: ten elephants and fifteen tomatoes
+  prompt_idx: 423
+- counts:
+  - 11
+  - 4
+  objs:
+  - elephants
+  - macarons
+  objs_singular:
+  - elephant
+  - macaron
+  prompt: eleven elephants and four macarons
+  prompt_idx: 424
+- counts:
+  - 14
+  - 16
+  objs:
+  - elephants
+  - macarons
+  objs_singular:
+  - elephant
+  - macaron
+  prompt: fourteen elephants and sixteen macarons
+  prompt_idx: 425
+- counts:
+  - 5
+  - 12
+  objs:
+  - elephants
+  - chicks
+  objs_singular:
+  - elephant
+  - chick
+  prompt: five elephants and twelve chicks
+  prompt_idx: 426
+- counts:
+  - 14
+  - 20
+  objs:
+  - elephants
+  - chicks
+  objs_singular:
+  - elephant
+  - chick
+  prompt: fourteen elephants and twenty chicks
+  prompt_idx: 427
+- counts:
+  - 20
+  - 18
+  objs:
+  - elephants
+  - lemons
+  objs_singular:
+  - elephant
+  - lemon
+  prompt: twenty elephants and eighteen lemons
+  prompt_idx: 428
+- counts:
+  - 6
+  - 9
+  objs:
+  - elephants
+  - lemons
+  objs_singular:
+  - elephant
+  - lemon
+  prompt: six elephants and nine lemons
+  prompt_idx: 429
+- counts:
+  - 3
+  - 7
+  objs:
+  - elephants
+  - breads
+  objs_singular:
+  - elephant
+  - bread
+  prompt: three elephants and seven breads
+  prompt_idx: 430
+- counts:
+  - 15
+  - 18
+  objs:
+  - elephants
+  - breads
+  objs_singular:
+  - elephant
+  - bread
+  prompt: fifteen elephants and eighteen breads
+  prompt_idx: 431
+- counts:
+  - 16
+  - 10
+  objs:
+  - elephants
+  - onions
+  objs_singular:
+  - elephant
+  - onion
+  prompt: sixteen elephants and ten onions
+  prompt_idx: 432
+- counts:
+  - 9
+  - 11
+  objs:
+  - elephants
+  - onions
+  objs_singular:
+  - elephant
+  - onion
+  prompt: nine elephants and eleven onions
+  prompt_idx: 433
+- counts:
+  - 7
+  - 18
+  objs:
+  - monkeys
+  - frogs
+  objs_singular:
+  - monkey
+  - frog
+  prompt: seven monkeys and eighteen frogs
+  prompt_idx: 434
+- counts:
+  - 9
+  - 15
+  objs:
+  - monkeys
+  - frogs
+  objs_singular:
+  - monkey
+  - frog
+  prompt: nine monkeys and fifteen frogs
+  prompt_idx: 435
+- counts:
+  - 4
+  - 20
+  objs:
+  - monkeys
+  - turtles
+  objs_singular:
+  - monkey
+  - turtle
+  prompt: four monkeys and twenty turtles
+  prompt_idx: 436
+- counts:
+  - 14
+  - 19
+  objs:
+  - monkeys
+  - turtles
+  objs_singular:
+  - monkey
+  - turtle
+  prompt: fourteen monkeys and nineteen turtles
+  prompt_idx: 437
+- counts:
+  - 4
+  - 13
+  objs:
+  - monkeys
+  - rabbits
+  objs_singular:
+  - monkey
+  - rabbit
+  prompt: four monkeys and thirteen rabbits
+  prompt_idx: 438
+- counts:
+  - 16
+  - 6
+  objs:
+  - monkeys
+  - rabbits
+  objs_singular:
+  - monkey
+  - rabbit
+  prompt: sixteen monkeys and six rabbits
+  prompt_idx: 439
+- counts:
+  - 7
+  - 13
+  objs:
+  - monkeys
+  - mice
+  objs_singular:
+  - monkey
+  - mouse
+  prompt: seven monkeys and thirteen mice
+  prompt_idx: 440
+- counts:
+  - 20
+  - 6
+  objs:
+  - monkeys
+  - mice
+  objs_singular:
+  - monkey
+  - mouse
+  prompt: twenty monkeys and six mice
+  prompt_idx: 441
+- counts:
+  - 6
+  - 11
+  objs:
+  - monkeys
+  - backpacks
+  objs_singular:
+  - monkey
+  - backpack
+  prompt: six monkeys and eleven backpacks
+  prompt_idx: 442
+- counts:
+  - 15
+  - 6
+  objs:
+  - monkeys
+  - backpacks
+  objs_singular:
+  - monkey
+  - backpack
+  prompt: fifteen monkeys and six backpacks
+  prompt_idx: 443
+- counts:
+  - 7
+  - 16
+  objs:
+  - monkeys
+  - glasses
+  objs_singular:
+  - monkey
+  - glasses
+  prompt: seven monkeys and sixteen glasses
+  prompt_idx: 444
+- counts:
+  - 10
+  - 9
+  objs:
+  - monkeys
+  - glasses
+  objs_singular:
+  - monkey
+  - glasses
+  prompt: ten monkeys and nine glasses
+  prompt_idx: 445
+- counts:
+  - 8
+  - 11
+  objs:
+  - monkeys
+  - crowns
+  objs_singular:
+  - monkey
+  - crown
+  prompt: eight monkeys and eleven crowns
+  prompt_idx: 446
+- counts:
+  - 8
+  - 20
+  objs:
+  - monkeys
+  - crowns
+  objs_singular:
+  - monkey
+  - crown
+  prompt: eight monkeys and twenty crowns
+  prompt_idx: 447
+- counts:
+  - 3
+  - 11
+  objs:
+  - monkeys
+  - suitcases
+  objs_singular:
+  - monkey
+  - suitcase
+  prompt: three monkeys and eleven suitcases
+  prompt_idx: 448
+- counts:
+  - 8
+  - 16
+  objs:
+  - monkeys
+  - suitcases
+  objs_singular:
+  - monkey
+  - suitcase
+  prompt: eight monkeys and sixteen suitcases
+  prompt_idx: 449
+- counts:
+  - 2
+  - 7
+  objs:
+  - monkeys
+  - chairs
+  objs_singular:
+  - monkey
+  - chair
+  prompt: two monkeys and seven chairs
+  prompt_idx: 450
+- counts:
+  - 7
+  - 12
+  objs:
+  - monkeys
+  - chairs
+  objs_singular:
+  - monkey
+  - chair
+  prompt: seven monkeys and twelve chairs
+  prompt_idx: 451
+- counts:
+  - 7
+  - 12
+  objs:
+  - monkeys
+  - balloons
+  objs_singular:
+  - monkey
+  - balloon
+  prompt: seven monkeys and twelve balloons
+  prompt_idx: 452
+- counts:
+  - 3
+  - 5
+  objs:
+  - monkeys
+  - balloons
+  objs_singular:
+  - monkey
+  - balloon
+  prompt: three monkeys and five balloons
+  prompt_idx: 453
+- counts:
+  - 9
+  - 3
+  objs:
+  - monkeys
+  - bows
+  objs_singular:
+  - monkey
+  - bow
+  prompt: nine monkeys and three bows
+  prompt_idx: 454
+- counts:
+  - 13
+  - 8
+  objs:
+  - monkeys
+  - bows
+  objs_singular:
+  - monkey
+  - bow
+  prompt: thirteen monkeys and eight bows
+  prompt_idx: 455
+- counts:
+  - 4
+  - 7
+  objs:
+  - monkeys
+  - cars
+  objs_singular:
+  - monkey
+  - car
+  prompt: four monkeys and seven cars
+  prompt_idx: 456
+- counts:
+  - 16
+  - 15
+  objs:
+  - monkeys
+  - cars
+  objs_singular:
+  - monkey
+  - car
+  prompt: sixteen monkeys and fifteen cars
+  prompt_idx: 457
+- counts:
+  - 7
+  - 5
+  objs:
+  - monkeys
+  - bowls
+  objs_singular:
+  - monkey
+  - bowl
+  prompt: seven monkeys and five bowls
+  prompt_idx: 458
+- counts:
+  - 19
+  - 18
+  objs:
+  - monkeys
+  - bowls
+  objs_singular:
+  - monkey
+  - bowl
+  prompt: nineteen monkeys and eighteen bowls
+  prompt_idx: 459
+- counts:
+  - 3
+  - 9
+  objs:
+  - monkeys
+  - benches
+  objs_singular:
+  - monkey
+  - bench
+  prompt: three monkeys and nine benches
+  prompt_idx: 460
+- counts:
+  - 5
+  - 15
+  objs:
+  - monkeys
+  - benches
+  objs_singular:
+  - monkey
+  - bench
+  prompt: five monkeys and fifteen benches
+  prompt_idx: 461
+- counts:
+  - 6
+  - 9
+  objs:
+  - monkeys
+  - clocks
+  objs_singular:
+  - monkey
+  - clock
+  prompt: six monkeys and nine clocks
+  prompt_idx: 462
+- counts:
+  - 11
+  - 7
+  objs:
+  - monkeys
+  - clocks
+  objs_singular:
+  - monkey
+  - clock
+  prompt: eleven monkeys and seven clocks
+  prompt_idx: 463
+- counts:
+  - 16
+  - 6
+  objs:
+  - monkeys
+  - apples
+  objs_singular:
+  - monkey
+  - apple
+  prompt: sixteen monkeys and six apples
+  prompt_idx: 464
+- counts:
+  - 20
+  - 13
+  objs:
+  - monkeys
+  - apples
+  objs_singular:
+  - monkey
+  - apple
+  prompt: twenty monkeys and thirteen apples
+  prompt_idx: 465
+- counts:
+  - 14
+  - 2
+  objs:
+  - monkeys
+  - bananas
+  objs_singular:
+  - monkey
+  - banana
+  prompt: fourteen monkeys and two bananas
+  prompt_idx: 466
+- counts:
+  - 17
+  - 11
+  objs:
+  - monkeys
+  - bananas
+  objs_singular:
+  - monkey
+  - banana
+  prompt: seventeen monkeys and eleven bananas
+  prompt_idx: 467
+- counts:
+  - 15
+  - 15
+  objs:
+  - monkeys
+  - donuts
+  objs_singular:
+  - monkey
+  - donut
+  prompt: fifteen monkeys and fifteen donuts
+  prompt_idx: 468
+- counts:
+  - 7
+  - 20
+  objs:
+  - monkeys
+  - donuts
+  objs_singular:
+  - monkey
+  - donut
+  prompt: seven monkeys and twenty donuts
+  prompt_idx: 469
+- counts:
+  - 6
+  - 8
+  objs:
+  - monkeys
+  - oranges
+  objs_singular:
+  - monkey
+  - orange
+  prompt: six monkeys and eight oranges
+  prompt_idx: 470
+- counts:
+  - 9
+  - 11
+  objs:
+  - monkeys
+  - oranges
+  objs_singular:
+  - monkey
+  - orange
+  prompt: nine monkeys and eleven oranges
+  prompt_idx: 471
+- counts:
+  - 16
+  - 18
+  objs:
+  - monkeys
+  - eggs
+  objs_singular:
+  - monkey
+  - egg
+  prompt: sixteen monkeys and eighteen eggs
+  prompt_idx: 472
+- counts:
+  - 6
+  - 20
+  objs:
+  - monkeys
+  - eggs
+  objs_singular:
+  - monkey
+  - egg
+  prompt: six monkeys and twenty eggs
+  prompt_idx: 473
+- counts:
+  - 9
+  - 17
+  objs:
+  - monkeys
+  - tomatoes
+  objs_singular:
+  - monkey
+  - tomato
+  prompt: nine monkeys and seventeen tomatoes
+  prompt_idx: 476
+- counts:
+  - 5
+  - 5
+  objs:
+  - monkeys
+  - tomatoes
+  objs_singular:
+  - monkey
+  - tomato
+  prompt: five monkeys and five tomatoes
+  prompt_idx: 477
+- counts:
+  - 11
+  - 7
+  objs:
+  - monkeys
+  - macarons
+  objs_singular:
+  - monkey
+  - macaron
+  prompt: eleven monkeys and seven macarons
+  prompt_idx: 478
+- counts:
+  - 2
+  - 17
+  objs:
+  - monkeys
+  - macarons
+  objs_singular:
+  - monkey
+  - macaron
+  prompt: two monkeys and seventeen macarons
+  prompt_idx: 479
+- counts:
+  - 14
+  - 9
+  objs:
+  - monkeys
+  - chicks
+  objs_singular:
+  - monkey
+  - chick
+  prompt: fourteen monkeys and nine chicks
+  prompt_idx: 480
+- counts:
+  - 19
+  - 9
+  objs:
+  - monkeys
+  - chicks
+  objs_singular:
+  - monkey
+  - chick
+  prompt: nineteen monkeys and nine chicks
+  prompt_idx: 481
+- counts:
+  - 15
+  - 4
+  objs:
+  - monkeys
+  - lemons
+  objs_singular:
+  - monkey
+  - lemon
+  prompt: fifteen monkeys and four lemons
+  prompt_idx: 482
+- counts:
+  - 10
+  - 10
+  objs:
+  - monkeys
+  - lemons
+  objs_singular:
+  - monkey
+  - lemon
+  prompt: ten monkeys and ten lemons
+  prompt_idx: 483
+- counts:
+  - 19
+  - 11
+  objs:
+  - monkeys
+  - breads
+  objs_singular:
+  - monkey
+  - bread
+  prompt: nineteen monkeys and eleven breads
+  prompt_idx: 484
+- counts:
+  - 10
+  - 9
+  objs:
+  - monkeys
+  - breads
+  objs_singular:
+  - monkey
+  - bread
+  prompt: ten monkeys and nine breads
+  prompt_idx: 485
+- counts:
+  - 6
+  - 8
+  objs:
+  - monkeys
+  - onions
+  objs_singular:
+  - monkey
+  - onion
+  prompt: six monkeys and eight onions
+  prompt_idx: 486
+- counts:
+  - 8
+  - 2
+  objs:
+  - monkeys
+  - onions
+  objs_singular:
+  - monkey
+  - onion
+  prompt: eight monkeys and two onions
+  prompt_idx: 487
+- counts:
+  - 4
+  - 15
+  objs:
+  - frogs
+  - turtles
+  objs_singular:
+  - frog
+  - turtle
+  prompt: four frogs and fifteen turtles
+  prompt_idx: 488
+- counts:
+  - 18
+  - 11
+  objs:
+  - frogs
+  - turtles
+  objs_singular:
+  - frog
+  - turtle
+  prompt: eighteen frogs and eleven turtles
+  prompt_idx: 489
+- counts:
+  - 17
+  - 4
+  objs:
+  - frogs
+  - rabbits
+  objs_singular:
+  - frog
+  - rabbit
+  prompt: seventeen frogs and four rabbits
+  prompt_idx: 490
+- counts:
+  - 7
+  - 16
+  objs:
+  - frogs
+  - rabbits
+  objs_singular:
+  - frog
+  - rabbit
+  prompt: seven frogs and sixteen rabbits
+  prompt_idx: 491
+- counts:
+  - 12
+  - 18
+  objs:
+  - frogs
+  - mice
+  objs_singular:
+  - frog
+  - mouse
+  prompt: twelve frogs and eighteen mice
+  prompt_idx: 492
+- counts:
+  - 4
+  - 15
+  objs:
+  - frogs
+  - mice
+  objs_singular:
+  - frog
+  - mouse
+  prompt: four frogs and fifteen mice
+  prompt_idx: 493
+- counts:
+  - 19
+  - 11
+  objs:
+  - frogs
+  - backpacks
+  objs_singular:
+  - frog
+  - backpack
+  prompt: nineteen frogs and eleven backpacks
+  prompt_idx: 494
+- counts:
+  - 5
+  - 16
+  objs:
+  - frogs
+  - backpacks
+  objs_singular:
+  - frog
+  - backpack
+  prompt: five frogs and sixteen backpacks
+  prompt_idx: 495
+- counts:
+  - 2
+  - 6
+  objs:
+  - frogs
+  - glasses
+  objs_singular:
+  - frog
+  - glasses
+  prompt: two frogs and six glasses
+  prompt_idx: 496
+- counts:
+  - 10
+  - 12
+  objs:
+  - frogs
+  - glasses
+  objs_singular:
+  - frog
+  - glasses
+  prompt: ten frogs and twelve glasses
+  prompt_idx: 497
+- counts:
+  - 6
+  - 16
+  objs:
+  - frogs
+  - crowns
+  objs_singular:
+  - frog
+  - crown
+  prompt: six frogs and sixteen crowns
+  prompt_idx: 498
+- counts:
+  - 16
+  - 11
+  objs:
+  - frogs
+  - crowns
+  objs_singular:
+  - frog
+  - crown
+  prompt: sixteen frogs and eleven crowns
+  prompt_idx: 499
+- counts:
+  - 5
+  - 17
+  objs:
+  - frogs
+  - suitcases
+  objs_singular:
+  - frog
+  - suitcase
+  prompt: five frogs and seventeen suitcases
+  prompt_idx: 500
+- counts:
+  - 17
+  - 13
+  objs:
+  - frogs
+  - suitcases
+  objs_singular:
+  - frog
+  - suitcase
+  prompt: seventeen frogs and thirteen suitcases
+  prompt_idx: 501
+- counts:
+  - 13
+  - 5
+  objs:
+  - frogs
+  - chairs
+  objs_singular:
+  - frog
+  - chair
+  prompt: thirteen frogs and five chairs
+  prompt_idx: 502
+- counts:
+  - 9
+  - 13
+  objs:
+  - frogs
+  - chairs
+  objs_singular:
+  - frog
+  - chair
+  prompt: nine frogs and thirteen chairs
+  prompt_idx: 503
+- counts:
+  - 10
+  - 10
+  objs:
+  - frogs
+  - balloons
+  objs_singular:
+  - frog
+  - balloon
+  prompt: ten frogs and ten balloons
+  prompt_idx: 504
+- counts:
+  - 20
+  - 18
+  objs:
+  - frogs
+  - balloons
+  objs_singular:
+  - frog
+  - balloon
+  prompt: twenty frogs and eighteen balloons
+  prompt_idx: 505
+- counts:
+  - 4
+  - 5
+  objs:
+  - frogs
+  - bows
+  objs_singular:
+  - frog
+  - bow
+  prompt: four frogs and five bows
+  prompt_idx: 506
+- counts:
+  - 2
+  - 13
+  objs:
+  - frogs
+  - bows
+  objs_singular:
+  - frog
+  - bow
+  prompt: two frogs and thirteen bows
+  prompt_idx: 507
+- counts:
+  - 13
+  - 16
+  objs:
+  - frogs
+  - cars
+  objs_singular:
+  - frog
+  - car
+  prompt: thirteen frogs and sixteen cars
+  prompt_idx: 508
+- counts:
+  - 16
+  - 14
+  objs:
+  - frogs
+  - cars
+  objs_singular:
+  - frog
+  - car
+  prompt: sixteen frogs and fourteen cars
+  prompt_idx: 509
+- counts:
+  - 6
+  - 7
+  objs:
+  - frogs
+  - bowls
+  objs_singular:
+  - frog
+  - bowl
+  prompt: six frogs and seven bowls
+  prompt_idx: 510
+- counts:
+  - 9
+  - 7
+  objs:
+  - frogs
+  - bowls
+  objs_singular:
+  - frog
+  - bowl
+  prompt: nine frogs and seven bowls
+  prompt_idx: 511
+- counts:
+  - 12
+  - 8
+  objs:
+  - frogs
+  - benches
+  objs_singular:
+  - frog
+  - bench
+  prompt: twelve frogs and eight benches
+  prompt_idx: 512
+- counts:
+  - 16
+  - 6
+  objs:
+  - frogs
+  - benches
+  objs_singular:
+  - frog
+  - bench
+  prompt: sixteen frogs and six benches
+  prompt_idx: 513
+- counts:
+  - 19
+  - 9
+  objs:
+  - frogs
+  - clocks
+  objs_singular:
+  - frog
+  - clock
+  prompt: nineteen frogs and nine clocks
+  prompt_idx: 514
+- counts:
+  - 15
+  - 13
+  objs:
+  - frogs
+  - clocks
+  objs_singular:
+  - frog
+  - clock
+  prompt: fifteen frogs and thirteen clocks
+  prompt_idx: 515
+- counts:
+  - 14
+  - 7
+  objs:
+  - frogs
+  - apples
+  objs_singular:
+  - frog
+  - apple
+  prompt: fourteen frogs and seven apples
+  prompt_idx: 516
+- counts:
+  - 10
+  - 20
+  objs:
+  - frogs
+  - apples
+  objs_singular:
+  - frog
+  - apple
+  prompt: ten frogs and twenty apples
+  prompt_idx: 517
+- counts:
+  - 13
+  - 14
+  objs:
+  - frogs
+  - bananas
+  objs_singular:
+  - frog
+  - banana
+  prompt: thirteen frogs and fourteen bananas
+  prompt_idx: 518
+- counts:
+  - 19
+  - 15
+  objs:
+  - frogs
+  - bananas
+  objs_singular:
+  - frog
+  - banana
+  prompt: nineteen frogs and fifteen bananas
+  prompt_idx: 519
+- counts:
+  - 2
+  - 9
+  objs:
+  - frogs
+  - donuts
+  objs_singular:
+  - frog
+  - donut
+  prompt: two frogs and nine donuts
+  prompt_idx: 520
+- counts:
+  - 17
+  - 9
+  objs:
+  - frogs
+  - donuts
+  objs_singular:
+  - frog
+  - donut
+  prompt: seventeen frogs and nine donuts
+  prompt_idx: 521
+- counts:
+  - 9
+  - 6
+  objs:
+  - frogs
+  - oranges
+  objs_singular:
+  - frog
+  - orange
+  prompt: nine frogs and six oranges
+  prompt_idx: 522
+- counts:
+  - 13
+  - 16
+  objs:
+  - frogs
+  - oranges
+  objs_singular:
+  - frog
+  - orange
+  prompt: thirteen frogs and sixteen oranges
+  prompt_idx: 523
+- counts:
+  - 12
+  - 2
+  objs:
+  - frogs
+  - eggs
+  objs_singular:
+  - frog
+  - egg
+  prompt: twelve frogs and two eggs
+  prompt_idx: 524
+- counts:
+  - 16
+  - 12
+  objs:
+  - frogs
+  - eggs
+  objs_singular:
+  - frog
+  - egg
+  prompt: sixteen frogs and twelve eggs
+  prompt_idx: 525
+- counts:
+  - 10
+  - 6
+  objs:
+  - frogs
+  - tomatoes
+  objs_singular:
+  - frog
+  - tomato
+  prompt: ten frogs and six tomatoes
+  prompt_idx: 528
+- counts:
+  - 10
+  - 7
+  objs:
+  - frogs
+  - tomatoes
+  objs_singular:
+  - frog
+  - tomato
+  prompt: ten frogs and seven tomatoes
+  prompt_idx: 529
+- counts:
+  - 17
+  - 7
+  objs:
+  - frogs
+  - macarons
+  objs_singular:
+  - frog
+  - macaron
+  prompt: seventeen frogs and seven macarons
+  prompt_idx: 530
+- counts:
+  - 7
+  - 9
+  objs:
+  - frogs
+  - macarons
+  objs_singular:
+  - frog
+  - macaron
+  prompt: seven frogs and nine macarons
+  prompt_idx: 531
+- counts:
+  - 18
+  - 6
+  objs:
+  - frogs
+  - chicks
+  objs_singular:
+  - frog
+  - chick
+  prompt: eighteen frogs and six chicks
+  prompt_idx: 532
+- counts:
+  - 7
+  - 10
+  objs:
+  - frogs
+  - chicks
+  objs_singular:
+  - frog
+  - chick
+  prompt: seven frogs and ten chicks
+  prompt_idx: 533
+- counts:
+  - 14
+  - 19
+  objs:
+  - frogs
+  - lemons
+  objs_singular:
+  - frog
+  - lemon
+  prompt: fourteen frogs and nineteen lemons
+  prompt_idx: 534
+- counts:
+  - 17
+  - 3
+  objs:
+  - frogs
+  - lemons
+  objs_singular:
+  - frog
+  - lemon
+  prompt: seventeen frogs and three lemons
+  prompt_idx: 535
+- counts:
+  - 14
+  - 20
+  objs:
+  - frogs
+  - breads
+  objs_singular:
+  - frog
+  - bread
+  prompt: fourteen frogs and twenty breads
+  prompt_idx: 536
+- counts:
+  - 15
+  - 10
+  objs:
+  - frogs
+  - breads
+  objs_singular:
+  - frog
+  - bread
+  prompt: fifteen frogs and ten breads
+  prompt_idx: 537
+- counts:
+  - 12
+  - 6
+  objs:
+  - frogs
+  - onions
+  objs_singular:
+  - frog
+  - onion
+  prompt: twelve frogs and six onions
+  prompt_idx: 538
+- counts:
+  - 4
+  - 9
+  objs:
+  - frogs
+  - onions
+  objs_singular:
+  - frog
+  - onion
+  prompt: four frogs and nine onions
+  prompt_idx: 539
+- counts:
+  - 16
+  - 11
+  objs:
+  - turtles
+  - rabbits
+  objs_singular:
+  - turtle
+  - rabbit
+  prompt: sixteen turtles and eleven rabbits
+  prompt_idx: 540
+- counts:
+  - 4
+  - 13
+  objs:
+  - turtles
+  - rabbits
+  objs_singular:
+  - turtle
+  - rabbit
+  prompt: four turtles and thirteen rabbits
+  prompt_idx: 541
+- counts:
+  - 7
+  - 15
+  objs:
+  - turtles
+  - mice
+  objs_singular:
+  - turtle
+  - mouse
+  prompt: seven turtles and fifteen mice
+  prompt_idx: 542
+- counts:
+  - 10
+  - 16
+  objs:
+  - turtles
+  - mice
+  objs_singular:
+  - turtle
+  - mouse
+  prompt: ten turtles and sixteen mice
+  prompt_idx: 543
+- counts:
+  - 19
+  - 17
+  objs:
+  - turtles
+  - backpacks
+  objs_singular:
+  - turtle
+  - backpack
+  prompt: nineteen turtles and seventeen backpacks
+  prompt_idx: 544
+- counts:
+  - 3
+  - 3
+  objs:
+  - turtles
+  - backpacks
+  objs_singular:
+  - turtle
+  - backpack
+  prompt: three turtles and three backpacks
+  prompt_idx: 545
+- counts:
+  - 9
+  - 6
+  objs:
+  - turtles
+  - glasses
+  objs_singular:
+  - turtle
+  - glasses
+  prompt: nine turtles and six glasses
+  prompt_idx: 546
+- counts:
+  - 16
+  - 15
+  objs:
+  - turtles
+  - glasses
+  objs_singular:
+  - turtle
+  - glasses
+  prompt: sixteen turtles and fifteen glasses
+  prompt_idx: 547
+- counts:
+  - 9
+  - 5
+  objs:
+  - turtles
+  - crowns
+  objs_singular:
+  - turtle
+  - crown
+  prompt: nine turtles and five crowns
+  prompt_idx: 548
+- counts:
+  - 18
+  - 17
+  objs:
+  - turtles
+  - crowns
+  objs_singular:
+  - turtle
+  - crown
+  prompt: eighteen turtles and seventeen crowns
+  prompt_idx: 549
+- counts:
+  - 3
+  - 13
+  objs:
+  - turtles
+  - suitcases
+  objs_singular:
+  - turtle
+  - suitcase
+  prompt: three turtles and thirteen suitcases
+  prompt_idx: 550
+- counts:
+  - 6
+  - 8
+  objs:
+  - turtles
+  - suitcases
+  objs_singular:
+  - turtle
+  - suitcase
+  prompt: six turtles and eight suitcases
+  prompt_idx: 551
+- counts:
+  - 9
+  - 2
+  objs:
+  - turtles
+  - chairs
+  objs_singular:
+  - turtle
+  - chair
+  prompt: nine turtles and two chairs
+  prompt_idx: 552
+- counts:
+  - 4
+  - 4
+  objs:
+  - turtles
+  - chairs
+  objs_singular:
+  - turtle
+  - chair
+  prompt: four turtles and four chairs
+  prompt_idx: 553
+- counts:
+  - 18
+  - 19
+  objs:
+  - turtles
+  - balloons
+  objs_singular:
+  - turtle
+  - balloon
+  prompt: eighteen turtles and nineteen balloons
+  prompt_idx: 554
+- counts:
+  - 18
+  - 17
+  objs:
+  - turtles
+  - balloons
+  objs_singular:
+  - turtle
+  - balloon
+  prompt: eighteen turtles and seventeen balloons
+  prompt_idx: 555
+- counts:
+  - 19
+  - 17
+  objs:
+  - turtles
+  - bows
+  objs_singular:
+  - turtle
+  - bow
+  prompt: nineteen turtles and seventeen bows
+  prompt_idx: 556
+- counts:
+  - 11
+  - 8
+  objs:
+  - turtles
+  - bows
+  objs_singular:
+  - turtle
+  - bow
+  prompt: eleven turtles and eight bows
+  prompt_idx: 557
+- counts:
+  - 12
+  - 14
+  objs:
+  - turtles
+  - cars
+  objs_singular:
+  - turtle
+  - car
+  prompt: twelve turtles and fourteen cars
+  prompt_idx: 558
+- counts:
+  - 8
+  - 18
+  objs:
+  - turtles
+  - cars
+  objs_singular:
+  - turtle
+  - car
+  prompt: eight turtles and eighteen cars
+  prompt_idx: 559
+- counts:
+  - 8
+  - 8
+  objs:
+  - turtles
+  - bowls
+  objs_singular:
+  - turtle
+  - bowl
+  prompt: eight turtles and eight bowls
+  prompt_idx: 560
+- counts:
+  - 3
+  - 18
+  objs:
+  - turtles
+  - bowls
+  objs_singular:
+  - turtle
+  - bowl
+  prompt: three turtles and eighteen bowls
+  prompt_idx: 561
+- counts:
+  - 8
+  - 11
+  objs:
+  - turtles
+  - benches
+  objs_singular:
+  - turtle
+  - bench
+  prompt: eight turtles and eleven benches
+  prompt_idx: 562
+- counts:
+  - 10
+  - 17
+  objs:
+  - turtles
+  - benches
+  objs_singular:
+  - turtle
+  - bench
+  prompt: ten turtles and seventeen benches
+  prompt_idx: 563
+- counts:
+  - 11
+  - 6
+  objs:
+  - turtles
+  - clocks
+  objs_singular:
+  - turtle
+  - clock
+  prompt: eleven turtles and six clocks
+  prompt_idx: 564
+- counts:
+  - 19
+  - 14
+  objs:
+  - turtles
+  - clocks
+  objs_singular:
+  - turtle
+  - clock
+  prompt: nineteen turtles and fourteen clocks
+  prompt_idx: 565
+- counts:
+  - 12
+  - 6
+  objs:
+  - turtles
+  - apples
+  objs_singular:
+  - turtle
+  - apple
+  prompt: twelve turtles and six apples
+  prompt_idx: 566
+- counts:
+  - 9
+  - 6
+  objs:
+  - turtles
+  - apples
+  objs_singular:
+  - turtle
+  - apple
+  prompt: nine turtles and six apples
+  prompt_idx: 567
+- counts:
+  - 4
+  - 13
+  objs:
+  - turtles
+  - bananas
+  objs_singular:
+  - turtle
+  - banana
+  prompt: four turtles and thirteen bananas
+  prompt_idx: 568
+- counts:
+  - 9
+  - 13
+  objs:
+  - turtles
+  - bananas
+  objs_singular:
+  - turtle
+  - banana
+  prompt: nine turtles and thirteen bananas
+  prompt_idx: 569
+- counts:
+  - 5
+  - 16
+  objs:
+  - turtles
+  - donuts
+  objs_singular:
+  - turtle
+  - donut
+  prompt: five turtles and sixteen donuts
+  prompt_idx: 570
+- counts:
+  - 3
+  - 2
+  objs:
+  - turtles
+  - donuts
+  objs_singular:
+  - turtle
+  - donut
+  prompt: three turtles and two donuts
+  prompt_idx: 571
+- counts:
+  - 13
+  - 20
+  objs:
+  - turtles
+  - oranges
+  objs_singular:
+  - turtle
+  - orange
+  prompt: thirteen turtles and twenty oranges
+  prompt_idx: 572
+- counts:
+  - 3
+  - 14
+  objs:
+  - turtles
+  - oranges
+  objs_singular:
+  - turtle
+  - orange
+  prompt: three turtles and fourteen oranges
+  prompt_idx: 573
+- counts:
+  - 12
+  - 5
+  objs:
+  - turtles
+  - eggs
+  objs_singular:
+  - turtle
+  - egg
+  prompt: twelve turtles and five eggs
+  prompt_idx: 574
+- counts:
+  - 7
+  - 8
+  objs:
+  - turtles
+  - eggs
+  objs_singular:
+  - turtle
+  - egg
+  prompt: seven turtles and eight eggs
+  prompt_idx: 575
+- counts:
+  - 20
+  - 11
+  objs:
+  - turtles
+  - tomatoes
+  objs_singular:
+  - turtle
+  - tomato
+  prompt: twenty turtles and eleven tomatoes
+  prompt_idx: 578
+- counts:
+  - 8
+  - 20
+  objs:
+  - turtles
+  - tomatoes
+  objs_singular:
+  - turtle
+  - tomato
+  prompt: eight turtles and twenty tomatoes
+  prompt_idx: 579
+- counts:
+  - 12
+  - 11
+  objs:
+  - turtles
+  - macarons
+  objs_singular:
+  - turtle
+  - macaron
+  prompt: twelve turtles and eleven macarons
+  prompt_idx: 580
+- counts:
+  - 17
+  - 20
+  objs:
+  - turtles
+  - macarons
+  objs_singular:
+  - turtle
+  - macaron
+  prompt: seventeen turtles and twenty macarons
+  prompt_idx: 581
+- counts:
+  - 10
+  - 17
+  objs:
+  - turtles
+  - chicks
+  objs_singular:
+  - turtle
+  - chick
+  prompt: ten turtles and seventeen chicks
+  prompt_idx: 582
+- counts:
+  - 13
+  - 18
+  objs:
+  - turtles
+  - chicks
+  objs_singular:
+  - turtle
+  - chick
+  prompt: thirteen turtles and eighteen chicks
+  prompt_idx: 583
+- counts:
+  - 20
+  - 13
+  objs:
+  - turtles
+  - lemons
+  objs_singular:
+  - turtle
+  - lemon
+  prompt: twenty turtles and thirteen lemons
+  prompt_idx: 584
+- counts:
+  - 7
+  - 16
+  objs:
+  - turtles
+  - lemons
+  objs_singular:
+  - turtle
+  - lemon
+  prompt: seven turtles and sixteen lemons
+  prompt_idx: 585
+- counts:
+  - 17
+  - 18
+  objs:
+  - turtles
+  - breads
+  objs_singular:
+  - turtle
+  - bread
+  prompt: seventeen turtles and eighteen breads
+  prompt_idx: 586
+- counts:
+  - 4
+  - 6
+  objs:
+  - turtles
+  - breads
+  objs_singular:
+  - turtle
+  - bread
+  prompt: four turtles and six breads
+  prompt_idx: 587
+- counts:
+  - 6
+  - 15
+  objs:
+  - turtles
+  - onions
+  objs_singular:
+  - turtle
+  - onion
+  prompt: six turtles and fifteen onions
+  prompt_idx: 588
+- counts:
+  - 3
+  - 13
+  objs:
+  - turtles
+  - onions
+  objs_singular:
+  - turtle
+  - onion
+  prompt: three turtles and thirteen onions
+  prompt_idx: 589
+- counts:
+  - 14
+  - 17
+  objs:
+  - rabbits
+  - mice
+  objs_singular:
+  - rabbit
+  - mouse
+  prompt: fourteen rabbits and seventeen mice
+  prompt_idx: 590
+- counts:
+  - 8
+  - 8
+  objs:
+  - rabbits
+  - mice
+  objs_singular:
+  - rabbit
+  - mouse
+  prompt: eight rabbits and eight mice
+  prompt_idx: 591
+- counts:
+  - 12
+  - 2
+  objs:
+  - rabbits
+  - backpacks
+  objs_singular:
+  - rabbit
+  - backpack
+  prompt: twelve rabbits and two backpacks
+  prompt_idx: 592
+- counts:
+  - 8
+  - 9
+  objs:
+  - rabbits
+  - backpacks
+  objs_singular:
+  - rabbit
+  - backpack
+  prompt: eight rabbits and nine backpacks
+  prompt_idx: 593
+- counts:
+  - 7
+  - 6
+  objs:
+  - rabbits
+  - glasses
+  objs_singular:
+  - rabbit
+  - glasses
+  prompt: seven rabbits and six glasses
+  prompt_idx: 594
+- counts:
+  - 10
+  - 9
+  objs:
+  - rabbits
+  - glasses
+  objs_singular:
+  - rabbit
+  - glasses
+  prompt: ten rabbits and nine glasses
+  prompt_idx: 595
+- counts:
+  - 15
+  - 6
+  objs:
+  - rabbits
+  - crowns
+  objs_singular:
+  - rabbit
+  - crown
+  prompt: fifteen rabbits and six crowns
+  prompt_idx: 596
+- counts:
+  - 20
+  - 18
+  objs:
+  - rabbits
+  - crowns
+  objs_singular:
+  - rabbit
+  - crown
+  prompt: twenty rabbits and eighteen crowns
+  prompt_idx: 597
+- counts:
+  - 14
+  - 14
+  objs:
+  - rabbits
+  - suitcases
+  objs_singular:
+  - rabbit
+  - suitcase
+  prompt: fourteen rabbits and fourteen suitcases
+  prompt_idx: 598
+- counts:
+  - 8
+  - 2
+  objs:
+  - rabbits
+  - suitcases
+  objs_singular:
+  - rabbit
+  - suitcase
+  prompt: eight rabbits and two suitcases
+  prompt_idx: 599
+- counts:
+  - 4
+  - 20
+  objs:
+  - rabbits
+  - chairs
+  objs_singular:
+  - rabbit
+  - chair
+  prompt: four rabbits and twenty chairs
+  prompt_idx: 600
+- counts:
+  - 9
+  - 7
+  objs:
+  - rabbits
+  - chairs
+  objs_singular:
+  - rabbit
+  - chair
+  prompt: nine rabbits and seven chairs
+  prompt_idx: 601
+- counts:
+  - 9
+  - 3
+  objs:
+  - rabbits
+  - balloons
+  objs_singular:
+  - rabbit
+  - balloon
+  prompt: nine rabbits and three balloons
+  prompt_idx: 602
+- counts:
+  - 17
+  - 12
+  objs:
+  - rabbits
+  - balloons
+  objs_singular:
+  - rabbit
+  - balloon
+  prompt: seventeen rabbits and twelve balloons
+  prompt_idx: 603
+- counts:
+  - 12
+  - 8
+  objs:
+  - rabbits
+  - bows
+  objs_singular:
+  - rabbit
+  - bow
+  prompt: twelve rabbits and eight bows
+  prompt_idx: 604
+- counts:
+  - 14
+  - 14
+  objs:
+  - rabbits
+  - bows
+  objs_singular:
+  - rabbit
+  - bow
+  prompt: fourteen rabbits and fourteen bows
+  prompt_idx: 605
+- counts:
+  - 19
+  - 4
+  objs:
+  - rabbits
+  - cars
+  objs_singular:
+  - rabbit
+  - car
+  prompt: nineteen rabbits and four cars
+  prompt_idx: 606
+- counts:
+  - 19
+  - 11
+  objs:
+  - rabbits
+  - cars
+  objs_singular:
+  - rabbit
+  - car
+  prompt: nineteen rabbits and eleven cars
+  prompt_idx: 607
+- counts:
+  - 14
+  - 7
+  objs:
+  - rabbits
+  - bowls
+  objs_singular:
+  - rabbit
+  - bowl
+  prompt: fourteen rabbits and seven bowls
+  prompt_idx: 608
+- counts:
+  - 20
+  - 15
+  objs:
+  - rabbits
+  - bowls
+  objs_singular:
+  - rabbit
+  - bowl
+  prompt: twenty rabbits and fifteen bowls
+  prompt_idx: 609
+- counts:
+  - 7
+  - 12
+  objs:
+  - rabbits
+  - benches
+  objs_singular:
+  - rabbit
+  - bench
+  prompt: seven rabbits and twelve benches
+  prompt_idx: 610
+- counts:
+  - 9
+  - 13
+  objs:
+  - rabbits
+  - benches
+  objs_singular:
+  - rabbit
+  - bench
+  prompt: nine rabbits and thirteen benches
+  prompt_idx: 611
+- counts:
+  - 19
+  - 20
+  objs:
+  - rabbits
+  - clocks
+  objs_singular:
+  - rabbit
+  - clock
+  prompt: nineteen rabbits and twenty clocks
+  prompt_idx: 612
+- counts:
+  - 20
+  - 3
+  objs:
+  - rabbits
+  - clocks
+  objs_singular:
+  - rabbit
+  - clock
+  prompt: twenty rabbits and three clocks
+  prompt_idx: 613
+- counts:
+  - 7
+  - 15
+  objs:
+  - rabbits
+  - apples
+  objs_singular:
+  - rabbit
+  - apple
+  prompt: seven rabbits and fifteen apples
+  prompt_idx: 614
+- counts:
+  - 12
+  - 16
+  objs:
+  - rabbits
+  - apples
+  objs_singular:
+  - rabbit
+  - apple
+  prompt: twelve rabbits and sixteen apples
+  prompt_idx: 615
+- counts:
+  - 5
+  - 2
+  objs:
+  - rabbits
+  - bananas
+  objs_singular:
+  - rabbit
+  - banana
+  prompt: five rabbits and two bananas
+  prompt_idx: 616
+- counts:
+  - 17
+  - 2
+  objs:
+  - rabbits
+  - bananas
+  objs_singular:
+  - rabbit
+  - banana
+  prompt: seventeen rabbits and two bananas
+  prompt_idx: 617
+- counts:
+  - 3
+  - 14
+  objs:
+  - rabbits
+  - donuts
+  objs_singular:
+  - rabbit
+  - donut
+  prompt: three rabbits and fourteen donuts
+  prompt_idx: 618
+- counts:
+  - 4
+  - 7
+  objs:
+  - rabbits
+  - donuts
+  objs_singular:
+  - rabbit
+  - donut
+  prompt: four rabbits and seven donuts
+  prompt_idx: 619
+- counts:
+  - 5
+  - 6
+  objs:
+  - rabbits
+  - oranges
+  objs_singular:
+  - rabbit
+  - orange
+  prompt: five rabbits and six oranges
+  prompt_idx: 620
+- counts:
+  - 12
+  - 8
+  objs:
+  - rabbits
+  - oranges
+  objs_singular:
+  - rabbit
+  - orange
+  prompt: twelve rabbits and eight oranges
+  prompt_idx: 621
+- counts:
+  - 10
+  - 9
+  objs:
+  - rabbits
+  - eggs
+  objs_singular:
+  - rabbit
+  - egg
+  prompt: ten rabbits and nine eggs
+  prompt_idx: 622
+- counts:
+  - 8
+  - 9
+  objs:
+  - rabbits
+  - eggs
+  objs_singular:
+  - rabbit
+  - egg
+  prompt: eight rabbits and nine eggs
+  prompt_idx: 623
+- counts:
+  - 18
+  - 8
+  objs:
+  - rabbits
+  - tomatoes
+  objs_singular:
+  - rabbit
+  - tomato
+  prompt: eighteen rabbits and eight tomatoes
+  prompt_idx: 626
+- counts:
+  - 17
+  - 12
+  objs:
+  - rabbits
+  - tomatoes
+  objs_singular:
+  - rabbit
+  - tomato
+  prompt: seventeen rabbits and twelve tomatoes
+  prompt_idx: 627
+- counts:
+  - 19
+  - 6
+  objs:
+  - rabbits
+  - macarons
+  objs_singular:
+  - rabbit
+  - macaron
+  prompt: nineteen rabbits and six macarons
+  prompt_idx: 628
+- counts:
+  - 7
+  - 17
+  objs:
+  - rabbits
+  - macarons
+  objs_singular:
+  - rabbit
+  - macaron
+  prompt: seven rabbits and seventeen macarons
+  prompt_idx: 629
+- counts:
+  - 17
+  - 20
+  objs:
+  - rabbits
+  - chicks
+  objs_singular:
+  - rabbit
+  - chick
+  prompt: seventeen rabbits and twenty chicks
+  prompt_idx: 630
+- counts:
+  - 9
+  - 5
+  objs:
+  - rabbits
+  - chicks
+  objs_singular:
+  - rabbit
+  - chick
+  prompt: nine rabbits and five chicks
+  prompt_idx: 631
+- counts:
+  - 15
+  - 5
+  objs:
+  - rabbits
+  - lemons
+  objs_singular:
+  - rabbit
+  - lemon
+  prompt: fifteen rabbits and five lemons
+  prompt_idx: 632
+- counts:
+  - 16
+  - 4
+  objs:
+  - rabbits
+  - lemons
+  objs_singular:
+  - rabbit
+  - lemon
+  prompt: sixteen rabbits and four lemons
+  prompt_idx: 633
+- counts:
+  - 13
+  - 4
+  objs:
+  - rabbits
+  - breads
+  objs_singular:
+  - rabbit
+  - bread
+  prompt: thirteen rabbits and four breads
+  prompt_idx: 634
+- counts:
+  - 6
+  - 16
+  objs:
+  - rabbits
+  - breads
+  objs_singular:
+  - rabbit
+  - bread
+  prompt: six rabbits and sixteen breads
+  prompt_idx: 635
+- counts:
+  - 20
+  - 19
+  objs:
+  - rabbits
+  - onions
+  objs_singular:
+  - rabbit
+  - onion
+  prompt: twenty rabbits and nineteen onions
+  prompt_idx: 636
+- counts:
+  - 9
+  - 19
+  objs:
+  - rabbits
+  - onions
+  objs_singular:
+  - rabbit
+  - onion
+  prompt: nine rabbits and nineteen onions
+  prompt_idx: 637
+- counts:
+  - 6
+  - 9
+  objs:
+  - mice
+  - backpacks
+  objs_singular:
+  - mouse
+  - backpack
+  prompt: six mice and nine backpacks
+  prompt_idx: 638
+- counts:
+  - 9
+  - 9
+  objs:
+  - mice
+  - backpacks
+  objs_singular:
+  - mouse
+  - backpack
+  prompt: nine mice and nine backpacks
+  prompt_idx: 639
+- counts:
+  - 7
+  - 4
+  objs:
+  - mice
+  - glasses
+  objs_singular:
+  - mouse
+  - glasses
+  prompt: seven mice and four glasses
+  prompt_idx: 640
+- counts:
+  - 10
+  - 11
+  objs:
+  - mice
+  - glasses
+  objs_singular:
+  - mouse
+  - glasses
+  prompt: ten mice and eleven glasses
+  prompt_idx: 641
+- counts:
+  - 5
+  - 9
+  objs:
+  - mice
+  - crowns
+  objs_singular:
+  - mouse
+  - crown
+  prompt: five mice and nine crowns
+  prompt_idx: 642
+- counts:
+  - 9
+  - 2
+  objs:
+  - mice
+  - crowns
+  objs_singular:
+  - mouse
+  - crown
+  prompt: nine mice and two crowns
+  prompt_idx: 643
+- counts:
+  - 10
+  - 13
+  objs:
+  - mice
+  - suitcases
+  objs_singular:
+  - mouse
+  - suitcase
+  prompt: ten mice and thirteen suitcases
+  prompt_idx: 644
+- counts:
+  - 13
+  - 5
+  objs:
+  - mice
+  - suitcases
+  objs_singular:
+  - mouse
+  - suitcase
+  prompt: thirteen mice and five suitcases
+  prompt_idx: 645
+- counts:
+  - 9
+  - 18
+  objs:
+  - mice
+  - chairs
+  objs_singular:
+  - mouse
+  - chair
+  prompt: nine mice and eighteen chairs
+  prompt_idx: 646
+- counts:
+  - 11
+  - 2
+  objs:
+  - mice
+  - chairs
+  objs_singular:
+  - mouse
+  - chair
+  prompt: eleven mice and two chairs
+  prompt_idx: 647
+- counts:
+  - 4
+  - 10
+  objs:
+  - mice
+  - balloons
+  objs_singular:
+  - mouse
+  - balloon
+  prompt: four mice and ten balloons
+  prompt_idx: 648
+- counts:
+  - 4
+  - 18
+  objs:
+  - mice
+  - balloons
+  objs_singular:
+  - mouse
+  - balloon
+  prompt: four mice and eighteen balloons
+  prompt_idx: 649
+- counts:
+  - 18
+  - 14
+  objs:
+  - mice
+  - bows
+  objs_singular:
+  - mouse
+  - bow
+  prompt: eighteen mice and fourteen bows
+  prompt_idx: 650
+- counts:
+  - 9
+  - 13
+  objs:
+  - mice
+  - bows
+  objs_singular:
+  - mouse
+  - bow
+  prompt: nine mice and thirteen bows
+  prompt_idx: 651
+- counts:
+  - 12
+  - 16
+  objs:
+  - mice
+  - cars
+  objs_singular:
+  - mouse
+  - car
+  prompt: twelve mice and sixteen cars
+  prompt_idx: 652
+- counts:
+  - 8
+  - 19
+  objs:
+  - mice
+  - cars
+  objs_singular:
+  - mouse
+  - car
+  prompt: eight mice and nineteen cars
+  prompt_idx: 653
+- counts:
+  - 15
+  - 17
+  objs:
+  - mice
+  - bowls
+  objs_singular:
+  - mouse
+  - bowl
+  prompt: fifteen mice and seventeen bowls
+  prompt_idx: 654
+- counts:
+  - 3
+  - 4
+  objs:
+  - mice
+  - bowls
+  objs_singular:
+  - mouse
+  - bowl
+  prompt: three mice and four bowls
+  prompt_idx: 655
+- counts:
+  - 3
+  - 5
+  objs:
+  - mice
+  - benches
+  objs_singular:
+  - mouse
+  - bench
+  prompt: three mice and five benches
+  prompt_idx: 656
+- counts:
+  - 5
+  - 17
+  objs:
+  - mice
+  - benches
+  objs_singular:
+  - mouse
+  - bench
+  prompt: five mice and seventeen benches
+  prompt_idx: 657
+- counts:
+  - 14
+  - 8
+  objs:
+  - mice
+  - clocks
+  objs_singular:
+  - mouse
+  - clock
+  prompt: fourteen mice and eight clocks
+  prompt_idx: 658
+- counts:
+  - 18
+  - 18
+  objs:
+  - mice
+  - clocks
+  objs_singular:
+  - mouse
+  - clock
+  prompt: eighteen mice and eighteen clocks
+  prompt_idx: 659
+- counts:
+  - 2
+  - 19
+  objs:
+  - mice
+  - apples
+  objs_singular:
+  - mouse
+  - apple
+  prompt: two mice and nineteen apples
+  prompt_idx: 660
+- counts:
+  - 8
+  - 13
+  objs:
+  - mice
+  - apples
+  objs_singular:
+  - mouse
+  - apple
+  prompt: eight mice and thirteen apples
+  prompt_idx: 661
+- counts:
+  - 6
+  - 6
+  objs:
+  - mice
+  - bananas
+  objs_singular:
+  - mouse
+  - banana
+  prompt: six mice and six bananas
+  prompt_idx: 662
+- counts:
+  - 20
+  - 7
+  objs:
+  - mice
+  - bananas
+  objs_singular:
+  - mouse
+  - banana
+  prompt: twenty mice and seven bananas
+  prompt_idx: 663
+- counts:
+  - 20
+  - 11
+  objs:
+  - mice
+  - donuts
+  objs_singular:
+  - mouse
+  - donut
+  prompt: twenty mice and eleven donuts
+  prompt_idx: 664
+- counts:
+  - 10
+  - 4
+  objs:
+  - mice
+  - donuts
+  objs_singular:
+  - mouse
+  - donut
+  prompt: ten mice and four donuts
+  prompt_idx: 665
+- counts:
+  - 16
+  - 2
+  objs:
+  - mice
+  - oranges
+  objs_singular:
+  - mouse
+  - orange
+  prompt: sixteen mice and two oranges
+  prompt_idx: 666
+- counts:
+  - 4
+  - 10
+  objs:
+  - mice
+  - oranges
+  objs_singular:
+  - mouse
+  - orange
+  prompt: four mice and ten oranges
+  prompt_idx: 667
+- counts:
+  - 18
+  - 4
+  objs:
+  - mice
+  - eggs
+  objs_singular:
+  - mouse
+  - egg
+  prompt: eighteen mice and four eggs
+  prompt_idx: 668
+- counts:
+  - 10
+  - 15
+  objs:
+  - mice
+  - eggs
+  objs_singular:
+  - mouse
+  - egg
+  prompt: ten mice and fifteen eggs
+  prompt_idx: 669
+- counts:
+  - 16
+  - 6
+  objs:
+  - mice
+  - tomatoes
+  objs_singular:
+  - mouse
+  - tomato
+  prompt: sixteen mice and six tomatoes
+  prompt_idx: 672
+- counts:
+  - 19
+  - 11
+  objs:
+  - mice
+  - tomatoes
+  objs_singular:
+  - mouse
+  - tomato
+  prompt: nineteen mice and eleven tomatoes
+  prompt_idx: 673
+- counts:
+  - 19
+  - 19
+  objs:
+  - mice
+  - macarons
+  objs_singular:
+  - mouse
+  - macaron
+  prompt: nineteen mice and nineteen macarons
+  prompt_idx: 674
+- counts:
+  - 12
+  - 17
+  objs:
+  - mice
+  - macarons
+  objs_singular:
+  - mouse
+  - macaron
+  prompt: twelve mice and seventeen macarons
+  prompt_idx: 675
+- counts:
+  - 20
+  - 11
+  objs:
+  - mice
+  - chicks
+  objs_singular:
+  - mouse
+  - chick
+  prompt: twenty mice and eleven chicks
+  prompt_idx: 676
+- counts:
+  - 7
+  - 8
+  objs:
+  - mice
+  - chicks
+  objs_singular:
+  - mouse
+  - chick
+  prompt: seven mice and eight chicks
+  prompt_idx: 677
+- counts:
+  - 9
+  - 16
+  objs:
+  - mice
+  - lemons
+  objs_singular:
+  - mouse
+  - lemon
+  prompt: nine mice and sixteen lemons
+  prompt_idx: 678
+- counts:
+  - 12
+  - 4
+  objs:
+  - mice
+  - lemons
+  objs_singular:
+  - mouse
+  - lemon
+  prompt: twelve mice and four lemons
+  prompt_idx: 679
+- counts:
+  - 4
+  - 17
+  objs:
+  - mice
+  - breads
+  objs_singular:
+  - mouse
+  - bread
+  prompt: four mice and seventeen breads
+  prompt_idx: 680
+- counts:
+  - 9
+  - 16
+  objs:
+  - mice
+  - breads
+  objs_singular:
+  - mouse
+  - bread
+  prompt: nine mice and sixteen breads
+  prompt_idx: 681
+- counts:
+  - 14
+  - 9
+  objs:
+  - mice
+  - onions
+  objs_singular:
+  - mouse
+  - onion
+  prompt: fourteen mice and nine onions
+  prompt_idx: 682
+- counts:
+  - 14
+  - 11
+  objs:
+  - mice
+  - onions
+  objs_singular:
+  - mouse
+  - onion
+  prompt: fourteen mice and eleven onions
+  prompt_idx: 683
+- counts:
+  - 12
+  - 19
+  objs:
+  - backpacks
+  - glasses
+  objs_singular:
+  - backpack
+  - glasses
+  prompt: twelve backpacks and nineteen glasses
+  prompt_idx: 684
+- counts:
+  - 19
+  - 10
+  objs:
+  - backpacks
+  - glasses
+  objs_singular:
+  - backpack
+  - glasses
+  prompt: nineteen backpacks and ten glasses
+  prompt_idx: 685
+- counts:
+  - 19
+  - 20
+  objs:
+  - backpacks
+  - crowns
+  objs_singular:
+  - backpack
+  - crown
+  prompt: nineteen backpacks and twenty crowns
+  prompt_idx: 686
+- counts:
+  - 19
+  - 2
+  objs:
+  - backpacks
+  - crowns
+  objs_singular:
+  - backpack
+  - crown
+  prompt: nineteen backpacks and two crowns
+  prompt_idx: 687
+- counts:
+  - 18
+  - 5
+  objs:
+  - backpacks
+  - suitcases
+  objs_singular:
+  - backpack
+  - suitcase
+  prompt: eighteen backpacks and five suitcases
+  prompt_idx: 688
+- counts:
+  - 16
+  - 6
+  objs:
+  - backpacks
+  - suitcases
+  objs_singular:
+  - backpack
+  - suitcase
+  prompt: sixteen backpacks and six suitcases
+  prompt_idx: 689
+- counts:
+  - 6
+  - 17
+  objs:
+  - backpacks
+  - chairs
+  objs_singular:
+  - backpack
+  - chair
+  prompt: six backpacks and seventeen chairs
+  prompt_idx: 690
+- counts:
+  - 15
+  - 6
+  objs:
+  - backpacks
+  - chairs
+  objs_singular:
+  - backpack
+  - chair
+  prompt: fifteen backpacks and six chairs
+  prompt_idx: 691
+- counts:
+  - 16
+  - 5
+  objs:
+  - backpacks
+  - balloons
+  objs_singular:
+  - backpack
+  - balloon
+  prompt: sixteen backpacks and five balloons
+  prompt_idx: 692
+- counts:
+  - 10
+  - 6
+  objs:
+  - backpacks
+  - balloons
+  objs_singular:
+  - backpack
+  - balloon
+  prompt: ten backpacks and six balloons
+  prompt_idx: 693
+- counts:
+  - 9
+  - 4
+  objs:
+  - backpacks
+  - bows
+  objs_singular:
+  - backpack
+  - bow
+  prompt: nine backpacks and four bows
+  prompt_idx: 694
+- counts:
+  - 5
+  - 20
+  objs:
+  - backpacks
+  - bows
+  objs_singular:
+  - backpack
+  - bow
+  prompt: five backpacks and twenty bows
+  prompt_idx: 695
+- counts:
+  - 11
+  - 12
+  objs:
+  - backpacks
+  - cars
+  objs_singular:
+  - backpack
+  - car
+  prompt: eleven backpacks and twelve cars
+  prompt_idx: 696
+- counts:
+  - 6
+  - 12
+  objs:
+  - backpacks
+  - cars
+  objs_singular:
+  - backpack
+  - car
+  prompt: six backpacks and twelve cars
+  prompt_idx: 697
+- counts:
+  - 15
+  - 11
+  objs:
+  - backpacks
+  - bowls
+  objs_singular:
+  - backpack
+  - bowl
+  prompt: fifteen backpacks and eleven bowls
+  prompt_idx: 698
+- counts:
+  - 4
+  - 9
+  objs:
+  - backpacks
+  - bowls
+  objs_singular:
+  - backpack
+  - bowl
+  prompt: four backpacks and nine bowls
+  prompt_idx: 699
+- counts:
+  - 20
+  - 3
+  objs:
+  - backpacks
+  - benches
+  objs_singular:
+  - backpack
+  - bench
+  prompt: twenty backpacks and three benches
+  prompt_idx: 700
+- counts:
+  - 18
+  - 14
+  objs:
+  - backpacks
+  - benches
+  objs_singular:
+  - backpack
+  - bench
+  prompt: eighteen backpacks and fourteen benches
+  prompt_idx: 701
+- counts:
+  - 13
+  - 15
+  objs:
+  - backpacks
+  - clocks
+  objs_singular:
+  - backpack
+  - clock
+  prompt: thirteen backpacks and fifteen clocks
+  prompt_idx: 702
+- counts:
+  - 3
+  - 10
+  objs:
+  - backpacks
+  - clocks
+  objs_singular:
+  - backpack
+  - clock
+  prompt: three backpacks and ten clocks
+  prompt_idx: 703
+- counts:
+  - 9
+  - 11
+  objs:
+  - backpacks
+  - apples
+  objs_singular:
+  - backpack
+  - apple
+  prompt: nine backpacks and eleven apples
+  prompt_idx: 704
+- counts:
+  - 16
+  - 19
+  objs:
+  - backpacks
+  - apples
+  objs_singular:
+  - backpack
+  - apple
+  prompt: sixteen backpacks and nineteen apples
+  prompt_idx: 705
+- counts:
+  - 8
+  - 16
+  objs:
+  - backpacks
+  - bananas
+  objs_singular:
+  - backpack
+  - banana
+  prompt: eight backpacks and sixteen bananas
+  prompt_idx: 706
+- counts:
+  - 4
+  - 8
+  objs:
+  - backpacks
+  - bananas
+  objs_singular:
+  - backpack
+  - banana
+  prompt: four backpacks and eight bananas
+  prompt_idx: 707
+- counts:
+  - 8
+  - 7
+  objs:
+  - backpacks
+  - donuts
+  objs_singular:
+  - backpack
+  - donut
+  prompt: eight backpacks and seven donuts
+  prompt_idx: 708
+- counts:
+  - 18
+  - 11
+  objs:
+  - backpacks
+  - donuts
+  objs_singular:
+  - backpack
+  - donut
+  prompt: eighteen backpacks and eleven donuts
+  prompt_idx: 709
+- counts:
+  - 6
+  - 12
+  objs:
+  - backpacks
+  - oranges
+  objs_singular:
+  - backpack
+  - orange
+  prompt: six backpacks and twelve oranges
+  prompt_idx: 710
+- counts:
+  - 7
+  - 11
+  objs:
+  - backpacks
+  - oranges
+  objs_singular:
+  - backpack
+  - orange
+  prompt: seven backpacks and eleven oranges
+  prompt_idx: 711
+- counts:
+  - 4
+  - 14
+  objs:
+  - backpacks
+  - eggs
+  objs_singular:
+  - backpack
+  - egg
+  prompt: four backpacks and fourteen eggs
+  prompt_idx: 712
+- counts:
+  - 13
+  - 9
+  objs:
+  - backpacks
+  - eggs
+  objs_singular:
+  - backpack
+  - egg
+  prompt: thirteen backpacks and nine eggs
+  prompt_idx: 713
+- counts:
+  - 11
+  - 18
+  objs:
+  - backpacks
+  - tomatoes
+  objs_singular:
+  - backpack
+  - tomato
+  prompt: eleven backpacks and eighteen tomatoes
+  prompt_idx: 716
+- counts:
+  - 2
+  - 9
+  objs:
+  - backpacks
+  - tomatoes
+  objs_singular:
+  - backpack
+  - tomato
+  prompt: two backpacks and nine tomatoes
+  prompt_idx: 717
+- counts:
+  - 16
+  - 15
+  objs:
+  - backpacks
+  - macarons
+  objs_singular:
+  - backpack
+  - macaron
+  prompt: sixteen backpacks and fifteen macarons
+  prompt_idx: 718
+- counts:
+  - 7
+  - 11
+  objs:
+  - backpacks
+  - macarons
+  objs_singular:
+  - backpack
+  - macaron
+  prompt: seven backpacks and eleven macarons
+  prompt_idx: 719
+- counts:
+  - 11
+  - 11
+  objs:
+  - backpacks
+  - chicks
+  objs_singular:
+  - backpack
+  - chick
+  prompt: eleven backpacks and eleven chicks
+  prompt_idx: 720
+- counts:
+  - 3
+  - 9
+  objs:
+  - backpacks
+  - chicks
+  objs_singular:
+  - backpack
+  - chick
+  prompt: three backpacks and nine chicks
+  prompt_idx: 721
+- counts:
+  - 16
+  - 9
+  objs:
+  - backpacks
+  - lemons
+  objs_singular:
+  - backpack
+  - lemon
+  prompt: sixteen backpacks and nine lemons
+  prompt_idx: 722
+- counts:
+  - 2
+  - 3
+  objs:
+  - backpacks
+  - lemons
+  objs_singular:
+  - backpack
+  - lemon
+  prompt: two backpacks and three lemons
+  prompt_idx: 723
+- counts:
+  - 13
+  - 11
+  objs:
+  - backpacks
+  - breads
+  objs_singular:
+  - backpack
+  - bread
+  prompt: thirteen backpacks and eleven breads
+  prompt_idx: 724
+- counts:
+  - 6
+  - 15
+  objs:
+  - backpacks
+  - breads
+  objs_singular:
+  - backpack
+  - bread
+  prompt: six backpacks and fifteen breads
+  prompt_idx: 725
+- counts:
+  - 20
+  - 4
+  objs:
+  - backpacks
+  - onions
+  objs_singular:
+  - backpack
+  - onion
+  prompt: twenty backpacks and four onions
+  prompt_idx: 726
+- counts:
+  - 8
+  - 16
+  objs:
+  - backpacks
+  - onions
+  objs_singular:
+  - backpack
+  - onion
+  prompt: eight backpacks and sixteen onions
+  prompt_idx: 727
+- counts:
+  - 7
+  - 2
+  objs:
+  - glasses
+  - crowns
+  objs_singular:
+  - glasses
+  - crown
+  prompt: seven glasses and two crowns
+  prompt_idx: 728
+- counts:
+  - 19
+  - 6
+  objs:
+  - glasses
+  - crowns
+  objs_singular:
+  - glasses
+  - crown
+  prompt: nineteen glasses and six crowns
+  prompt_idx: 729
+- counts:
+  - 5
+  - 6
+  objs:
+  - glasses
+  - suitcases
+  objs_singular:
+  - glasses
+  - suitcase
+  prompt: five glasses and six suitcases
+  prompt_idx: 730
+- counts:
+  - 7
+  - 19
+  objs:
+  - glasses
+  - suitcases
+  objs_singular:
+  - glasses
+  - suitcase
+  prompt: seven glasses and nineteen suitcases
+  prompt_idx: 731
+- counts:
+  - 19
+  - 19
+  objs:
+  - glasses
+  - chairs
+  objs_singular:
+  - glasses
+  - chair
+  prompt: nineteen glasses and nineteen chairs
+  prompt_idx: 732
+- counts:
+  - 18
+  - 2
+  objs:
+  - glasses
+  - chairs
+  objs_singular:
+  - glasses
+  - chair
+  prompt: eighteen glasses and two chairs
+  prompt_idx: 733
+- counts:
+  - 3
+  - 4
+  objs:
+  - glasses
+  - balloons
+  objs_singular:
+  - glasses
+  - balloon
+  prompt: three glasses and four balloons
+  prompt_idx: 734
+- counts:
+  - 9
+  - 16
+  objs:
+  - glasses
+  - balloons
+  objs_singular:
+  - glasses
+  - balloon
+  prompt: nine glasses and sixteen balloons
+  prompt_idx: 735
+- counts:
+  - 17
+  - 18
+  objs:
+  - glasses
+  - bows
+  objs_singular:
+  - glasses
+  - bow
+  prompt: seventeen glasses and eighteen bows
+  prompt_idx: 736
+- counts:
+  - 18
+  - 13
+  objs:
+  - glasses
+  - bows
+  objs_singular:
+  - glasses
+  - bow
+  prompt: eighteen glasses and thirteen bows
+  prompt_idx: 737
+- counts:
+  - 7
+  - 15
+  objs:
+  - glasses
+  - cars
+  objs_singular:
+  - glasses
+  - car
+  prompt: seven glasses and fifteen cars
+  prompt_idx: 738
+- counts:
+  - 17
+  - 5
+  objs:
+  - glasses
+  - cars
+  objs_singular:
+  - glasses
+  - car
+  prompt: seventeen glasses and five cars
+  prompt_idx: 739
+- counts:
+  - 2
+  - 10
+  objs:
+  - glasses
+  - bowls
+  objs_singular:
+  - glasses
+  - bowl
+  prompt: two glasses and ten bowls
+  prompt_idx: 740
+- counts:
+  - 8
+  - 14
+  objs:
+  - glasses
+  - bowls
+  objs_singular:
+  - glasses
+  - bowl
+  prompt: eight glasses and fourteen bowls
+  prompt_idx: 741
+- counts:
+  - 12
+  - 18
+  objs:
+  - glasses
+  - benches
+  objs_singular:
+  - glasses
+  - bench
+  prompt: twelve glasses and eighteen benches
+  prompt_idx: 742
+- counts:
+  - 20
+  - 2
+  objs:
+  - glasses
+  - benches
+  objs_singular:
+  - glasses
+  - bench
+  prompt: twenty glasses and two benches
+  prompt_idx: 743
+- counts:
+  - 19
+  - 7
+  objs:
+  - glasses
+  - clocks
+  objs_singular:
+  - glasses
+  - clock
+  prompt: nineteen glasses and seven clocks
+  prompt_idx: 744
+- counts:
+  - 7
+  - 8
+  objs:
+  - glasses
+  - clocks
+  objs_singular:
+  - glasses
+  - clock
+  prompt: seven glasses and eight clocks
+  prompt_idx: 745
+- counts:
+  - 11
+  - 7
+  objs:
+  - glasses
+  - apples
+  objs_singular:
+  - glasses
+  - apple
+  prompt: eleven glasses and seven apples
+  prompt_idx: 746
+- counts:
+  - 17
+  - 2
+  objs:
+  - glasses
+  - apples
+  objs_singular:
+  - glasses
+  - apple
+  prompt: seventeen glasses and two apples
+  prompt_idx: 747
+- counts:
+  - 14
+  - 6
+  objs:
+  - glasses
+  - bananas
+  objs_singular:
+  - glasses
+  - banana
+  prompt: fourteen glasses and six bananas
+  prompt_idx: 748
+- counts:
+  - 12
+  - 17
+  objs:
+  - glasses
+  - bananas
+  objs_singular:
+  - glasses
+  - banana
+  prompt: twelve glasses and seventeen bananas
+  prompt_idx: 749
+- counts:
+  - 19
+  - 16
+  objs:
+  - glasses
+  - donuts
+  objs_singular:
+  - glasses
+  - donut
+  prompt: nineteen glasses and sixteen donuts
+  prompt_idx: 750
+- counts:
+  - 11
+  - 6
+  objs:
+  - glasses
+  - donuts
+  objs_singular:
+  - glasses
+  - donut
+  prompt: eleven glasses and six donuts
+  prompt_idx: 751
+- counts:
+  - 5
+  - 9
+  objs:
+  - glasses
+  - oranges
+  objs_singular:
+  - glasses
+  - orange
+  prompt: five glasses and nine oranges
+  prompt_idx: 752
+- counts:
+  - 20
+  - 17
+  objs:
+  - glasses
+  - oranges
+  objs_singular:
+  - glasses
+  - orange
+  prompt: twenty glasses and seventeen oranges
+  prompt_idx: 753
+- counts:
+  - 12
+  - 4
+  objs:
+  - glasses
+  - eggs
+  objs_singular:
+  - glasses
+  - egg
+  prompt: twelve glasses and four eggs
+  prompt_idx: 754
+- counts:
+  - 8
+  - 13
+  objs:
+  - glasses
+  - eggs
+  objs_singular:
+  - glasses
+  - egg
+  prompt: eight glasses and thirteen eggs
+  prompt_idx: 755
+- counts:
+  - 15
+  - 3
+  objs:
+  - glasses
+  - tomatoes
+  objs_singular:
+  - glasses
+  - tomato
+  prompt: fifteen glasses and three tomatoes
+  prompt_idx: 758
+- counts:
+  - 17
+  - 16
+  objs:
+  - glasses
+  - tomatoes
+  objs_singular:
+  - glasses
+  - tomato
+  prompt: seventeen glasses and sixteen tomatoes
+  prompt_idx: 759
+- counts:
+  - 9
+  - 8
+  objs:
+  - glasses
+  - macarons
+  objs_singular:
+  - glasses
+  - macaron
+  prompt: nine glasses and eight macarons
+  prompt_idx: 760
+- counts:
+  - 14
+  - 5
+  objs:
+  - glasses
+  - macarons
+  objs_singular:
+  - glasses
+  - macaron
+  prompt: fourteen glasses and five macarons
+  prompt_idx: 761
+- counts:
+  - 20
+  - 19
+  objs:
+  - glasses
+  - chicks
+  objs_singular:
+  - glasses
+  - chick
+  prompt: twenty glasses and nineteen chicks
+  prompt_idx: 762
+- counts:
+  - 14
+  - 13
+  objs:
+  - glasses
+  - chicks
+  objs_singular:
+  - glasses
+  - chick
+  prompt: fourteen glasses and thirteen chicks
+  prompt_idx: 763
+- counts:
+  - 5
+  - 8
+  objs:
+  - glasses
+  - lemons
+  objs_singular:
+  - glasses
+  - lemon
+  prompt: five glasses and eight lemons
+  prompt_idx: 764
+- counts:
+  - 8
+  - 3
+  objs:
+  - glasses
+  - lemons
+  objs_singular:
+  - glasses
+  - lemon
+  prompt: eight glasses and three lemons
+  prompt_idx: 765
+- counts:
+  - 9
+  - 18
+  objs:
+  - glasses
+  - breads
+  objs_singular:
+  - glasses
+  - bread
+  prompt: nine glasses and eighteen breads
+  prompt_idx: 766
+- counts:
+  - 18
+  - 8
+  objs:
+  - glasses
+  - breads
+  objs_singular:
+  - glasses
+  - bread
+  prompt: eighteen glasses and eight breads
+  prompt_idx: 767
+- counts:
+  - 7
+  - 10
+  objs:
+  - glasses
+  - onions
+  objs_singular:
+  - glasses
+  - onion
+  prompt: seven glasses and ten onions
+  prompt_idx: 768
+- counts:
+  - 15
+  - 11
+  objs:
+  - glasses
+  - onions
+  objs_singular:
+  - glasses
+  - onion
+  prompt: fifteen glasses and eleven onions
+  prompt_idx: 769
+- counts:
+  - 7
+  - 20
+  objs:
+  - crowns
+  - suitcases
+  objs_singular:
+  - crown
+  - suitcase
+  prompt: seven crowns and twenty suitcases
+  prompt_idx: 770
+- counts:
+  - 5
+  - 2
+  objs:
+  - crowns
+  - suitcases
+  objs_singular:
+  - crown
+  - suitcase
+  prompt: five crowns and two suitcases
+  prompt_idx: 771
+- counts:
+  - 11
+  - 19
+  objs:
+  - crowns
+  - chairs
+  objs_singular:
+  - crown
+  - chair
+  prompt: eleven crowns and nineteen chairs
+  prompt_idx: 772
+- counts:
+  - 10
+  - 15
+  objs:
+  - crowns
+  - chairs
+  objs_singular:
+  - crown
+  - chair
+  prompt: ten crowns and fifteen chairs
+  prompt_idx: 773
+- counts:
+  - 4
+  - 2
+  objs:
+  - crowns
+  - balloons
+  objs_singular:
+  - crown
+  - balloon
+  prompt: four crowns and two balloons
+  prompt_idx: 774
+- counts:
+  - 12
+  - 14
+  objs:
+  - crowns
+  - balloons
+  objs_singular:
+  - crown
+  - balloon
+  prompt: twelve crowns and fourteen balloons
+  prompt_idx: 775
+- counts:
+  - 15
+  - 20
+  objs:
+  - crowns
+  - bows
+  objs_singular:
+  - crown
+  - bow
+  prompt: fifteen crowns and twenty bows
+  prompt_idx: 776
+- counts:
+  - 13
+  - 20
+  objs:
+  - crowns
+  - bows
+  objs_singular:
+  - crown
+  - bow
+  prompt: thirteen crowns and twenty bows
+  prompt_idx: 777
+- counts:
+  - 11
+  - 16
+  objs:
+  - crowns
+  - cars
+  objs_singular:
+  - crown
+  - car
+  prompt: eleven crowns and sixteen cars
+  prompt_idx: 778
+- counts:
+  - 17
+  - 14
+  objs:
+  - crowns
+  - cars
+  objs_singular:
+  - crown
+  - car
+  prompt: seventeen crowns and fourteen cars
+  prompt_idx: 779
+- counts:
+  - 6
+  - 7
+  objs:
+  - crowns
+  - bowls
+  objs_singular:
+  - crown
+  - bowl
+  prompt: six crowns and seven bowls
+  prompt_idx: 780
+- counts:
+  - 4
+  - 15
+  objs:
+  - crowns
+  - bowls
+  objs_singular:
+  - crown
+  - bowl
+  prompt: four crowns and fifteen bowls
+  prompt_idx: 781
+- counts:
+  - 4
+  - 13
+  objs:
+  - crowns
+  - benches
+  objs_singular:
+  - crown
+  - bench
+  prompt: four crowns and thirteen benches
+  prompt_idx: 782
+- counts:
+  - 8
+  - 3
+  objs:
+  - crowns
+  - benches
+  objs_singular:
+  - crown
+  - bench
+  prompt: eight crowns and three benches
+  prompt_idx: 783
+- counts:
+  - 2
+  - 15
+  objs:
+  - crowns
+  - clocks
+  objs_singular:
+  - crown
+  - clock
+  prompt: two crowns and fifteen clocks
+  prompt_idx: 784
+- counts:
+  - 7
+  - 5
+  objs:
+  - crowns
+  - clocks
+  objs_singular:
+  - crown
+  - clock
+  prompt: seven crowns and five clocks
+  prompt_idx: 785
+- counts:
+  - 9
+  - 11
+  objs:
+  - crowns
+  - apples
+  objs_singular:
+  - crown
+  - apple
+  prompt: nine crowns and eleven apples
+  prompt_idx: 786
+- counts:
+  - 13
+  - 20
+  objs:
+  - crowns
+  - apples
+  objs_singular:
+  - crown
+  - apple
+  prompt: thirteen crowns and twenty apples
+  prompt_idx: 787
+- counts:
+  - 10
+  - 20
+  objs:
+  - crowns
+  - bananas
+  objs_singular:
+  - crown
+  - banana
+  prompt: ten crowns and twenty bananas
+  prompt_idx: 788
+- counts:
+  - 7
+  - 11
+  objs:
+  - crowns
+  - bananas
+  objs_singular:
+  - crown
+  - banana
+  prompt: seven crowns and eleven bananas
+  prompt_idx: 789
+- counts:
+  - 19
+  - 7
+  objs:
+  - crowns
+  - donuts
+  objs_singular:
+  - crown
+  - donut
+  prompt: nineteen crowns and seven donuts
+  prompt_idx: 790
+- counts:
+  - 18
+  - 17
+  objs:
+  - crowns
+  - donuts
+  objs_singular:
+  - crown
+  - donut
+  prompt: eighteen crowns and seventeen donuts
+  prompt_idx: 791
+- counts:
+  - 19
+  - 3
+  objs:
+  - crowns
+  - oranges
+  objs_singular:
+  - crown
+  - orange
+  prompt: nineteen crowns and three oranges
+  prompt_idx: 792
+- counts:
+  - 11
+  - 11
+  objs:
+  - crowns
+  - oranges
+  objs_singular:
+  - crown
+  - orange
+  prompt: eleven crowns and eleven oranges
+  prompt_idx: 793
+- counts:
+  - 11
+  - 14
+  objs:
+  - crowns
+  - eggs
+  objs_singular:
+  - crown
+  - egg
+  prompt: eleven crowns and fourteen eggs
+  prompt_idx: 794
+- counts:
+  - 2
+  - 4
+  objs:
+  - crowns
+  - eggs
+  objs_singular:
+  - crown
+  - egg
+  prompt: two crowns and four eggs
+  prompt_idx: 795
+- counts:
+  - 10
+  - 4
+  objs:
+  - crowns
+  - tomatoes
+  objs_singular:
+  - crown
+  - tomato
+  prompt: ten crowns and four tomatoes
+  prompt_idx: 798
+- counts:
+  - 19
+  - 8
+  objs:
+  - crowns
+  - tomatoes
+  objs_singular:
+  - crown
+  - tomato
+  prompt: nineteen crowns and eight tomatoes
+  prompt_idx: 799
+- counts:
+  - 3
+  - 19
+  objs:
+  - crowns
+  - macarons
+  objs_singular:
+  - crown
+  - macaron
+  prompt: three crowns and nineteen macarons
+  prompt_idx: 800
+- counts:
+  - 18
+  - 16
+  objs:
+  - crowns
+  - macarons
+  objs_singular:
+  - crown
+  - macaron
+  prompt: eighteen crowns and sixteen macarons
+  prompt_idx: 801
+- counts:
+  - 18
+  - 3
+  objs:
+  - crowns
+  - chicks
+  objs_singular:
+  - crown
+  - chick
+  prompt: eighteen crowns and three chicks
+  prompt_idx: 802
+- counts:
+  - 6
+  - 11
+  objs:
+  - crowns
+  - chicks
+  objs_singular:
+  - crown
+  - chick
+  prompt: six crowns and eleven chicks
+  prompt_idx: 803
+- counts:
+  - 10
+  - 12
+  objs:
+  - crowns
+  - lemons
+  objs_singular:
+  - crown
+  - lemon
+  prompt: ten crowns and twelve lemons
+  prompt_idx: 804
+- counts:
+  - 19
+  - 15
+  objs:
+  - crowns
+  - lemons
+  objs_singular:
+  - crown
+  - lemon
+  prompt: nineteen crowns and fifteen lemons
+  prompt_idx: 805
+- counts:
+  - 10
+  - 7
+  objs:
+  - crowns
+  - breads
+  objs_singular:
+  - crown
+  - bread
+  prompt: ten crowns and seven breads
+  prompt_idx: 806
+- counts:
+  - 19
+  - 8
+  objs:
+  - crowns
+  - breads
+  objs_singular:
+  - crown
+  - bread
+  prompt: nineteen crowns and eight breads
+  prompt_idx: 807
+- counts:
+  - 8
+  - 20
+  objs:
+  - crowns
+  - onions
+  objs_singular:
+  - crown
+  - onion
+  prompt: eight crowns and twenty onions
+  prompt_idx: 808
+- counts:
+  - 16
+  - 15
+  objs:
+  - crowns
+  - onions
+  objs_singular:
+  - crown
+  - onion
+  prompt: sixteen crowns and fifteen onions
+  prompt_idx: 809
+- counts:
+  - 9
+  - 2
+  objs:
+  - suitcases
+  - chairs
+  objs_singular:
+  - suitcase
+  - chair
+  prompt: nine suitcases and two chairs
+  prompt_idx: 810
+- counts:
+  - 7
+  - 10
+  objs:
+  - suitcases
+  - chairs
+  objs_singular:
+  - suitcase
+  - chair
+  prompt: seven suitcases and ten chairs
+  prompt_idx: 811
+- counts:
+  - 15
+  - 17
+  objs:
+  - suitcases
+  - balloons
+  objs_singular:
+  - suitcase
+  - balloon
+  prompt: fifteen suitcases and seventeen balloons
+  prompt_idx: 812
+- counts:
+  - 3
+  - 12
+  objs:
+  - suitcases
+  - balloons
+  objs_singular:
+  - suitcase
+  - balloon
+  prompt: three suitcases and twelve balloons
+  prompt_idx: 813
+- counts:
+  - 11
+  - 18
+  objs:
+  - suitcases
+  - bows
+  objs_singular:
+  - suitcase
+  - bow
+  prompt: eleven suitcases and eighteen bows
+  prompt_idx: 814
+- counts:
+  - 3
+  - 8
+  objs:
+  - suitcases
+  - bows
+  objs_singular:
+  - suitcase
+  - bow
+  prompt: three suitcases and eight bows
+  prompt_idx: 815
+- counts:
+  - 17
+  - 6
+  objs:
+  - suitcases
+  - cars
+  objs_singular:
+  - suitcase
+  - car
+  prompt: seventeen suitcases and six cars
+  prompt_idx: 816
+- counts:
+  - 13
+  - 13
+  objs:
+  - suitcases
+  - cars
+  objs_singular:
+  - suitcase
+  - car
+  prompt: thirteen suitcases and thirteen cars
+  prompt_idx: 817
+- counts:
+  - 13
+  - 12
+  objs:
+  - suitcases
+  - bowls
+  objs_singular:
+  - suitcase
+  - bowl
+  prompt: thirteen suitcases and twelve bowls
+  prompt_idx: 818
+- counts:
+  - 19
+  - 13
+  objs:
+  - suitcases
+  - bowls
+  objs_singular:
+  - suitcase
+  - bowl
+  prompt: nineteen suitcases and thirteen bowls
+  prompt_idx: 819
+- counts:
+  - 3
+  - 5
+  objs:
+  - suitcases
+  - benches
+  objs_singular:
+  - suitcase
+  - bench
+  prompt: three suitcases and five benches
+  prompt_idx: 820
+- counts:
+  - 20
+  - 7
+  objs:
+  - suitcases
+  - benches
+  objs_singular:
+  - suitcase
+  - bench
+  prompt: twenty suitcases and seven benches
+  prompt_idx: 821
+- counts:
+  - 12
+  - 10
+  objs:
+  - suitcases
+  - clocks
+  objs_singular:
+  - suitcase
+  - clock
+  prompt: twelve suitcases and ten clocks
+  prompt_idx: 822
+- counts:
+  - 8
+  - 18
+  objs:
+  - suitcases
+  - clocks
+  objs_singular:
+  - suitcase
+  - clock
+  prompt: eight suitcases and eighteen clocks
+  prompt_idx: 823
+- counts:
+  - 12
+  - 9
+  objs:
+  - suitcases
+  - apples
+  objs_singular:
+  - suitcase
+  - apple
+  prompt: twelve suitcases and nine apples
+  prompt_idx: 824
+- counts:
+  - 17
+  - 11
+  objs:
+  - suitcases
+  - apples
+  objs_singular:
+  - suitcase
+  - apple
+  prompt: seventeen suitcases and eleven apples
+  prompt_idx: 825
+- counts:
+  - 19
+  - 19
+  objs:
+  - suitcases
+  - bananas
+  objs_singular:
+  - suitcase
+  - banana
+  prompt: nineteen suitcases and nineteen bananas
+  prompt_idx: 826
+- counts:
+  - 20
+  - 9
+  objs:
+  - suitcases
+  - bananas
+  objs_singular:
+  - suitcase
+  - banana
+  prompt: twenty suitcases and nine bananas
+  prompt_idx: 827
+- counts:
+  - 12
+  - 17
+  objs:
+  - suitcases
+  - donuts
+  objs_singular:
+  - suitcase
+  - donut
+  prompt: twelve suitcases and seventeen donuts
+  prompt_idx: 828
+- counts:
+  - 13
+  - 15
+  objs:
+  - suitcases
+  - donuts
+  objs_singular:
+  - suitcase
+  - donut
+  prompt: thirteen suitcases and fifteen donuts
+  prompt_idx: 829
+- counts:
+  - 13
+  - 17
+  objs:
+  - suitcases
+  - oranges
+  objs_singular:
+  - suitcase
+  - orange
+  prompt: thirteen suitcases and seventeen oranges
+  prompt_idx: 830
+- counts:
+  - 17
+  - 3
+  objs:
+  - suitcases
+  - oranges
+  objs_singular:
+  - suitcase
+  - orange
+  prompt: seventeen suitcases and three oranges
+  prompt_idx: 831
+- counts:
+  - 20
+  - 5
+  objs:
+  - suitcases
+  - eggs
+  objs_singular:
+  - suitcase
+  - egg
+  prompt: twenty suitcases and five eggs
+  prompt_idx: 832
+- counts:
+  - 14
+  - 19
+  objs:
+  - suitcases
+  - eggs
+  objs_singular:
+  - suitcase
+  - egg
+  prompt: fourteen suitcases and nineteen eggs
+  prompt_idx: 833
+- counts:
+  - 4
+  - 10
+  objs:
+  - suitcases
+  - tomatoes
+  objs_singular:
+  - suitcase
+  - tomato
+  prompt: four suitcases and ten tomatoes
+  prompt_idx: 836
+- counts:
+  - 11
+  - 5
+  objs:
+  - suitcases
+  - tomatoes
+  objs_singular:
+  - suitcase
+  - tomato
+  prompt: eleven suitcases and five tomatoes
+  prompt_idx: 837
+- counts:
+  - 5
+  - 7
+  objs:
+  - suitcases
+  - macarons
+  objs_singular:
+  - suitcase
+  - macaron
+  prompt: five suitcases and seven macarons
+  prompt_idx: 838
+- counts:
+  - 17
+  - 13
+  objs:
+  - suitcases
+  - macarons
+  objs_singular:
+  - suitcase
+  - macaron
+  prompt: seventeen suitcases and thirteen macarons
+  prompt_idx: 839
+- counts:
+  - 6
+  - 13
+  objs:
+  - suitcases
+  - chicks
+  objs_singular:
+  - suitcase
+  - chick
+  prompt: six suitcases and thirteen chicks
+  prompt_idx: 840
+- counts:
+  - 4
+  - 8
+  objs:
+  - suitcases
+  - chicks
+  objs_singular:
+  - suitcase
+  - chick
+  prompt: four suitcases and eight chicks
+  prompt_idx: 841
+- counts:
+  - 13
+  - 4
+  objs:
+  - suitcases
+  - lemons
+  objs_singular:
+  - suitcase
+  - lemon
+  prompt: thirteen suitcases and four lemons
+  prompt_idx: 842
+- counts:
+  - 15
+  - 5
+  objs:
+  - suitcases
+  - lemons
+  objs_singular:
+  - suitcase
+  - lemon
+  prompt: fifteen suitcases and five lemons
+  prompt_idx: 843
+- counts:
+  - 15
+  - 3
+  objs:
+  - suitcases
+  - breads
+  objs_singular:
+  - suitcase
+  - bread
+  prompt: fifteen suitcases and three breads
+  prompt_idx: 844
+- counts:
+  - 16
+  - 7
+  objs:
+  - suitcases
+  - breads
+  objs_singular:
+  - suitcase
+  - bread
+  prompt: sixteen suitcases and seven breads
+  prompt_idx: 845
+- counts:
+  - 18
+  - 9
+  objs:
+  - suitcases
+  - onions
+  objs_singular:
+  - suitcase
+  - onion
+  prompt: eighteen suitcases and nine onions
+  prompt_idx: 846
+- counts:
+  - 3
+  - 8
+  objs:
+  - suitcases
+  - onions
+  objs_singular:
+  - suitcase
+  - onion
+  prompt: three suitcases and eight onions
+  prompt_idx: 847
+- counts:
+  - 18
+  - 7
+  objs:
+  - chairs
+  - balloons
+  objs_singular:
+  - chair
+  - balloon
+  prompt: eighteen chairs and seven balloons
+  prompt_idx: 848
+- counts:
+  - 7
+  - 3
+  objs:
+  - chairs
+  - balloons
+  objs_singular:
+  - chair
+  - balloon
+  prompt: seven chairs and three balloons
+  prompt_idx: 849
+- counts:
+  - 2
+  - 19
+  objs:
+  - chairs
+  - bows
+  objs_singular:
+  - chair
+  - bow
+  prompt: two chairs and nineteen bows
+  prompt_idx: 850
+- counts:
+  - 7
+  - 5
+  objs:
+  - chairs
+  - bows
+  objs_singular:
+  - chair
+  - bow
+  prompt: seven chairs and five bows
+  prompt_idx: 851
+- counts:
+  - 9
+  - 12
+  objs:
+  - chairs
+  - cars
+  objs_singular:
+  - chair
+  - car
+  prompt: nine chairs and twelve cars
+  prompt_idx: 852
+- counts:
+  - 3
+  - 19
+  objs:
+  - chairs
+  - cars
+  objs_singular:
+  - chair
+  - car
+  prompt: three chairs and nineteen cars
+  prompt_idx: 853
+- counts:
+  - 9
+  - 17
+  objs:
+  - chairs
+  - bowls
+  objs_singular:
+  - chair
+  - bowl
+  prompt: nine chairs and seventeen bowls
+  prompt_idx: 854
+- counts:
+  - 14
+  - 13
+  objs:
+  - chairs
+  - bowls
+  objs_singular:
+  - chair
+  - bowl
+  prompt: fourteen chairs and thirteen bowls
+  prompt_idx: 855
+- counts:
+  - 7
+  - 12
+  objs:
+  - chairs
+  - benches
+  objs_singular:
+  - chair
+  - bench
+  prompt: seven chairs and twelve benches
+  prompt_idx: 856
+- counts:
+  - 3
+  - 6
+  objs:
+  - chairs
+  - benches
+  objs_singular:
+  - chair
+  - bench
+  prompt: three chairs and six benches
+  prompt_idx: 857
+- counts:
+  - 15
+  - 9
+  objs:
+  - chairs
+  - clocks
+  objs_singular:
+  - chair
+  - clock
+  prompt: fifteen chairs and nine clocks
+  prompt_idx: 858
+- counts:
+  - 18
+  - 5
+  objs:
+  - chairs
+  - clocks
+  objs_singular:
+  - chair
+  - clock
+  prompt: eighteen chairs and five clocks
+  prompt_idx: 859
+- counts:
+  - 10
+  - 4
+  objs:
+  - chairs
+  - apples
+  objs_singular:
+  - chair
+  - apple
+  prompt: ten chairs and four apples
+  prompt_idx: 860
+- counts:
+  - 19
+  - 4
+  objs:
+  - chairs
+  - apples
+  objs_singular:
+  - chair
+  - apple
+  prompt: nineteen chairs and four apples
+  prompt_idx: 861
+- counts:
+  - 2
+  - 19
+  objs:
+  - chairs
+  - bananas
+  objs_singular:
+  - chair
+  - banana
+  prompt: two chairs and nineteen bananas
+  prompt_idx: 862
+- counts:
+  - 4
+  - 13
+  objs:
+  - chairs
+  - bananas
+  objs_singular:
+  - chair
+  - banana
+  prompt: four chairs and thirteen bananas
+  prompt_idx: 863
+- counts:
+  - 6
+  - 16
+  objs:
+  - chairs
+  - donuts
+  objs_singular:
+  - chair
+  - donut
+  prompt: six chairs and sixteen donuts
+  prompt_idx: 864
+- counts:
+  - 18
+  - 15
+  objs:
+  - chairs
+  - donuts
+  objs_singular:
+  - chair
+  - donut
+  prompt: eighteen chairs and fifteen donuts
+  prompt_idx: 865
+- counts:
+  - 16
+  - 3
+  objs:
+  - chairs
+  - oranges
+  objs_singular:
+  - chair
+  - orange
+  prompt: sixteen chairs and three oranges
+  prompt_idx: 866
+- counts:
+  - 3
+  - 9
+  objs:
+  - chairs
+  - oranges
+  objs_singular:
+  - chair
+  - orange
+  prompt: three chairs and nine oranges
+  prompt_idx: 867
+- counts:
+  - 4
+  - 7
+  objs:
+  - chairs
+  - eggs
+  objs_singular:
+  - chair
+  - egg
+  prompt: four chairs and seven eggs
+  prompt_idx: 868
+- counts:
+  - 2
+  - 14
+  objs:
+  - chairs
+  - eggs
+  objs_singular:
+  - chair
+  - egg
+  prompt: two chairs and fourteen eggs
+  prompt_idx: 869
+- counts:
+  - 11
+  - 3
+  objs:
+  - chairs
+  - tomatoes
+  objs_singular:
+  - chair
+  - tomato
+  prompt: eleven chairs and three tomatoes
+  prompt_idx: 872
+- counts:
+  - 14
+  - 16
+  objs:
+  - chairs
+  - tomatoes
+  objs_singular:
+  - chair
+  - tomato
+  prompt: fourteen chairs and sixteen tomatoes
+  prompt_idx: 873
+- counts:
+  - 19
+  - 16
+  objs:
+  - chairs
+  - macarons
+  objs_singular:
+  - chair
+  - macaron
+  prompt: nineteen chairs and sixteen macarons
+  prompt_idx: 874
+- counts:
+  - 17
+  - 11
+  objs:
+  - chairs
+  - macarons
+  objs_singular:
+  - chair
+  - macaron
+  prompt: seventeen chairs and eleven macarons
+  prompt_idx: 875
+- counts:
+  - 4
+  - 6
+  objs:
+  - chairs
+  - chicks
+  objs_singular:
+  - chair
+  - chick
+  prompt: four chairs and six chicks
+  prompt_idx: 876
+- counts:
+  - 15
+  - 17
+  objs:
+  - chairs
+  - chicks
+  objs_singular:
+  - chair
+  - chick
+  prompt: fifteen chairs and seventeen chicks
+  prompt_idx: 877
+- counts:
+  - 9
+  - 5
+  objs:
+  - chairs
+  - lemons
+  objs_singular:
+  - chair
+  - lemon
+  prompt: nine chairs and five lemons
+  prompt_idx: 878
+- counts:
+  - 15
+  - 13
+  objs:
+  - chairs
+  - lemons
+  objs_singular:
+  - chair
+  - lemon
+  prompt: fifteen chairs and thirteen lemons
+  prompt_idx: 879
+- counts:
+  - 18
+  - 8
+  objs:
+  - chairs
+  - breads
+  objs_singular:
+  - chair
+  - bread
+  prompt: eighteen chairs and eight breads
+  prompt_idx: 880
+- counts:
+  - 14
+  - 12
+  objs:
+  - chairs
+  - breads
+  objs_singular:
+  - chair
+  - bread
+  prompt: fourteen chairs and twelve breads
+  prompt_idx: 881
+- counts:
+  - 13
+  - 6
+  objs:
+  - chairs
+  - onions
+  objs_singular:
+  - chair
+  - onion
+  prompt: thirteen chairs and six onions
+  prompt_idx: 882
+- counts:
+  - 13
+  - 5
+  objs:
+  - chairs
+  - onions
+  objs_singular:
+  - chair
+  - onion
+  prompt: thirteen chairs and five onions
+  prompt_idx: 883
+- counts:
+  - 3
+  - 14
+  objs:
+  - balloons
+  - bows
+  objs_singular:
+  - balloon
+  - bow
+  prompt: three balloons and fourteen bows
+  prompt_idx: 884
+- counts:
+  - 4
+  - 16
+  objs:
+  - balloons
+  - bows
+  objs_singular:
+  - balloon
+  - bow
+  prompt: four balloons and sixteen bows
+  prompt_idx: 885
+- counts:
+  - 18
+  - 10
+  objs:
+  - balloons
+  - cars
+  objs_singular:
+  - balloon
+  - car
+  prompt: eighteen balloons and ten cars
+  prompt_idx: 886
+- counts:
+  - 19
+  - 13
+  objs:
+  - balloons
+  - cars
+  objs_singular:
+  - balloon
+  - car
+  prompt: nineteen balloons and thirteen cars
+  prompt_idx: 887
+- counts:
+  - 12
+  - 17
+  objs:
+  - balloons
+  - bowls
+  objs_singular:
+  - balloon
+  - bowl
+  prompt: twelve balloons and seventeen bowls
+  prompt_idx: 888
+- counts:
+  - 20
+  - 4
+  objs:
+  - balloons
+  - bowls
+  objs_singular:
+  - balloon
+  - bowl
+  prompt: twenty balloons and four bowls
+  prompt_idx: 889
+- counts:
+  - 19
+  - 12
+  objs:
+  - balloons
+  - benches
+  objs_singular:
+  - balloon
+  - bench
+  prompt: nineteen balloons and twelve benches
+  prompt_idx: 890
+- counts:
+  - 2
+  - 7
+  objs:
+  - balloons
+  - benches
+  objs_singular:
+  - balloon
+  - bench
+  prompt: two balloons and seven benches
+  prompt_idx: 891
+- counts:
+  - 15
+  - 15
+  objs:
+  - balloons
+  - clocks
+  objs_singular:
+  - balloon
+  - clock
+  prompt: fifteen balloons and fifteen clocks
+  prompt_idx: 892
+- counts:
+  - 14
+  - 16
+  objs:
+  - balloons
+  - clocks
+  objs_singular:
+  - balloon
+  - clock
+  prompt: fourteen balloons and sixteen clocks
+  prompt_idx: 893
+- counts:
+  - 18
+  - 11
+  objs:
+  - balloons
+  - apples
+  objs_singular:
+  - balloon
+  - apple
+  prompt: eighteen balloons and eleven apples
+  prompt_idx: 894
+- counts:
+  - 11
+  - 13
+  objs:
+  - balloons
+  - apples
+  objs_singular:
+  - balloon
+  - apple
+  prompt: eleven balloons and thirteen apples
+  prompt_idx: 895
+- counts:
+  - 18
+  - 17
+  objs:
+  - balloons
+  - bananas
+  objs_singular:
+  - balloon
+  - banana
+  prompt: eighteen balloons and seventeen bananas
+  prompt_idx: 896
+- counts:
+  - 9
+  - 20
+  objs:
+  - balloons
+  - bananas
+  objs_singular:
+  - balloon
+  - banana
+  prompt: nine balloons and twenty bananas
+  prompt_idx: 897
+- counts:
+  - 17
+  - 12
+  objs:
+  - balloons
+  - donuts
+  objs_singular:
+  - balloon
+  - donut
+  prompt: seventeen balloons and twelve donuts
+  prompt_idx: 898
+- counts:
+  - 14
+  - 4
+  objs:
+  - balloons
+  - donuts
+  objs_singular:
+  - balloon
+  - donut
+  prompt: fourteen balloons and four donuts
+  prompt_idx: 899
+- counts:
+  - 10
+  - 12
+  objs:
+  - balloons
+  - oranges
+  objs_singular:
+  - balloon
+  - orange
+  prompt: ten balloons and twelve oranges
+  prompt_idx: 900
+- counts:
+  - 9
+  - 8
+  objs:
+  - balloons
+  - oranges
+  objs_singular:
+  - balloon
+  - orange
+  prompt: nine balloons and eight oranges
+  prompt_idx: 901
+- counts:
+  - 4
+  - 8
+  objs:
+  - balloons
+  - eggs
+  objs_singular:
+  - balloon
+  - egg
+  prompt: four balloons and eight eggs
+  prompt_idx: 902
+- counts:
+  - 19
+  - 12
+  objs:
+  - balloons
+  - eggs
+  objs_singular:
+  - balloon
+  - egg
+  prompt: nineteen balloons and twelve eggs
+  prompt_idx: 903
+- counts:
+  - 7
+  - 16
+  objs:
+  - balloons
+  - tomatoes
+  objs_singular:
+  - balloon
+  - tomato
+  prompt: seven balloons and sixteen tomatoes
+  prompt_idx: 906
+- counts:
+  - 12
+  - 3
+  objs:
+  - balloons
+  - tomatoes
+  objs_singular:
+  - balloon
+  - tomato
+  prompt: twelve balloons and three tomatoes
+  prompt_idx: 907
+- counts:
+  - 2
+  - 16
+  objs:
+  - balloons
+  - macarons
+  objs_singular:
+  - balloon
+  - macaron
+  prompt: two balloons and sixteen macarons
+  prompt_idx: 908
+- counts:
+  - 3
+  - 11
+  objs:
+  - balloons
+  - macarons
+  objs_singular:
+  - balloon
+  - macaron
+  prompt: three balloons and eleven macarons
+  prompt_idx: 909
+- counts:
+  - 4
+  - 14
+  objs:
+  - balloons
+  - chicks
+  objs_singular:
+  - balloon
+  - chick
+  prompt: four balloons and fourteen chicks
+  prompt_idx: 910
+- counts:
+  - 18
+  - 6
+  objs:
+  - balloons
+  - chicks
+  objs_singular:
+  - balloon
+  - chick
+  prompt: eighteen balloons and six chicks
+  prompt_idx: 911
+- counts:
+  - 12
+  - 7
+  objs:
+  - balloons
+  - lemons
+  objs_singular:
+  - balloon
+  - lemon
+  prompt: twelve balloons and seven lemons
+  prompt_idx: 912
+- counts:
+  - 10
+  - 6
+  objs:
+  - balloons
+  - lemons
+  objs_singular:
+  - balloon
+  - lemon
+  prompt: ten balloons and six lemons
+  prompt_idx: 913
+- counts:
+  - 5
+  - 6
+  objs:
+  - balloons
+  - breads
+  objs_singular:
+  - balloon
+  - bread
+  prompt: five balloons and six breads
+  prompt_idx: 914
+- counts:
+  - 20
+  - 4
+  objs:
+  - balloons
+  - breads
+  objs_singular:
+  - balloon
+  - bread
+  prompt: twenty balloons and four breads
+  prompt_idx: 915
+- counts:
+  - 13
+  - 12
+  objs:
+  - balloons
+  - onions
+  objs_singular:
+  - balloon
+  - onion
+  prompt: thirteen balloons and twelve onions
+  prompt_idx: 916
+- counts:
+  - 18
+  - 8
+  objs:
+  - balloons
+  - onions
+  objs_singular:
+  - balloon
+  - onion
+  prompt: eighteen balloons and eight onions
+  prompt_idx: 917
+- counts:
+  - 14
+  - 17
+  objs:
+  - bows
+  - cars
+  objs_singular:
+  - bow
+  - car
+  prompt: fourteen bows and seventeen cars
+  prompt_idx: 918
+- counts:
+  - 11
+  - 8
+  objs:
+  - bows
+  - cars
+  objs_singular:
+  - bow
+  - car
+  prompt: eleven bows and eight cars
+  prompt_idx: 919
+- counts:
+  - 19
+  - 4
+  objs:
+  - bows
+  - bowls
+  objs_singular:
+  - bow
+  - bowl
+  prompt: nineteen bows and four bowls
+  prompt_idx: 920
+- counts:
+  - 11
+  - 10
+  objs:
+  - bows
+  - bowls
+  objs_singular:
+  - bow
+  - bowl
+  prompt: eleven bows and ten bowls
+  prompt_idx: 921
+- counts:
+  - 6
+  - 14
+  objs:
+  - bows
+  - benches
+  objs_singular:
+  - bow
+  - bench
+  prompt: six bows and fourteen benches
+  prompt_idx: 922
+- counts:
+  - 10
+  - 20
+  objs:
+  - bows
+  - benches
+  objs_singular:
+  - bow
+  - bench
+  prompt: ten bows and twenty benches
+  prompt_idx: 923
+- counts:
+  - 3
+  - 5
+  objs:
+  - bows
+  - clocks
+  objs_singular:
+  - bow
+  - clock
+  prompt: three bows and five clocks
+  prompt_idx: 924
+- counts:
+  - 5
+  - 9
+  objs:
+  - bows
+  - clocks
+  objs_singular:
+  - bow
+  - clock
+  prompt: five bows and nine clocks
+  prompt_idx: 925
+- counts:
+  - 16
+  - 3
+  objs:
+  - bows
+  - apples
+  objs_singular:
+  - bow
+  - apple
+  prompt: sixteen bows and three apples
+  prompt_idx: 926
+- counts:
+  - 9
+  - 6
+  objs:
+  - bows
+  - apples
+  objs_singular:
+  - bow
+  - apple
+  prompt: nine bows and six apples
+  prompt_idx: 927
+- counts:
+  - 14
+  - 4
+  objs:
+  - bows
+  - bananas
+  objs_singular:
+  - bow
+  - banana
+  prompt: fourteen bows and four bananas
+  prompt_idx: 928
+- counts:
+  - 12
+  - 15
+  objs:
+  - bows
+  - bananas
+  objs_singular:
+  - bow
+  - banana
+  prompt: twelve bows and fifteen bananas
+  prompt_idx: 929
+- counts:
+  - 5
+  - 11
+  objs:
+  - bows
+  - donuts
+  objs_singular:
+  - bow
+  - donut
+  prompt: five bows and eleven donuts
+  prompt_idx: 930
+- counts:
+  - 3
+  - 2
+  objs:
+  - bows
+  - donuts
+  objs_singular:
+  - bow
+  - donut
+  prompt: three bows and two donuts
+  prompt_idx: 931
+- counts:
+  - 19
+  - 8
+  objs:
+  - bows
+  - oranges
+  objs_singular:
+  - bow
+  - orange
+  prompt: nineteen bows and eight oranges
+  prompt_idx: 932
+- counts:
+  - 7
+  - 12
+  objs:
+  - bows
+  - oranges
+  objs_singular:
+  - bow
+  - orange
+  prompt: seven bows and twelve oranges
+  prompt_idx: 933
+- counts:
+  - 19
+  - 10
+  objs:
+  - bows
+  - eggs
+  objs_singular:
+  - bow
+  - egg
+  prompt: nineteen bows and ten eggs
+  prompt_idx: 934
+- counts:
+  - 13
+  - 13
+  objs:
+  - bows
+  - eggs
+  objs_singular:
+  - bow
+  - egg
+  prompt: thirteen bows and thirteen eggs
+  prompt_idx: 935
+- counts:
+  - 10
+  - 18
+  objs:
+  - bows
+  - tomatoes
+  objs_singular:
+  - bow
+  - tomato
+  prompt: ten bows and eighteen tomatoes
+  prompt_idx: 938
+- counts:
+  - 4
+  - 2
+  objs:
+  - bows
+  - tomatoes
+  objs_singular:
+  - bow
+  - tomato
+  prompt: four bows and two tomatoes
+  prompt_idx: 939
+- counts:
+  - 15
+  - 11
+  objs:
+  - bows
+  - macarons
+  objs_singular:
+  - bow
+  - macaron
+  prompt: fifteen bows and eleven macarons
+  prompt_idx: 940
+- counts:
+  - 3
+  - 8
+  objs:
+  - bows
+  - macarons
+  objs_singular:
+  - bow
+  - macaron
+  prompt: three bows and eight macarons
+  prompt_idx: 941
+- counts:
+  - 10
+  - 15
+  objs:
+  - bows
+  - chicks
+  objs_singular:
+  - bow
+  - chick
+  prompt: ten bows and fifteen chicks
+  prompt_idx: 942
+- counts:
+  - 7
+  - 12
+  objs:
+  - bows
+  - chicks
+  objs_singular:
+  - bow
+  - chick
+  prompt: seven bows and twelve chicks
+  prompt_idx: 943
+- counts:
+  - 12
+  - 14
+  objs:
+  - bows
+  - lemons
+  objs_singular:
+  - bow
+  - lemon
+  prompt: twelve bows and fourteen lemons
+  prompt_idx: 944
+- counts:
+  - 6
+  - 6
+  objs:
+  - bows
+  - lemons
+  objs_singular:
+  - bow
+  - lemon
+  prompt: six bows and six lemons
+  prompt_idx: 945
+- counts:
+  - 7
+  - 12
+  objs:
+  - bows
+  - breads
+  objs_singular:
+  - bow
+  - bread
+  prompt: seven bows and twelve breads
+  prompt_idx: 946
+- counts:
+  - 11
+  - 8
+  objs:
+  - bows
+  - breads
+  objs_singular:
+  - bow
+  - bread
+  prompt: eleven bows and eight breads
+  prompt_idx: 947
+- counts:
+  - 15
+  - 16
+  objs:
+  - bows
+  - onions
+  objs_singular:
+  - bow
+  - onion
+  prompt: fifteen bows and sixteen onions
+  prompt_idx: 948
+- counts:
+  - 18
+  - 10
+  objs:
+  - bows
+  - onions
+  objs_singular:
+  - bow
+  - onion
+  prompt: eighteen bows and ten onions
+  prompt_idx: 949
+- counts:
+  - 19
+  - 19
+  objs:
+  - cars
+  - bowls
+  objs_singular:
+  - car
+  - bowl
+  prompt: nineteen cars and nineteen bowls
+  prompt_idx: 950
+- counts:
+  - 18
+  - 13
+  objs:
+  - cars
+  - bowls
+  objs_singular:
+  - car
+  - bowl
+  prompt: eighteen cars and thirteen bowls
+  prompt_idx: 951
+- counts:
+  - 10
+  - 13
+  objs:
+  - cars
+  - benches
+  objs_singular:
+  - car
+  - bench
+  prompt: ten cars and thirteen benches
+  prompt_idx: 952
+- counts:
+  - 18
+  - 9
+  objs:
+  - cars
+  - benches
+  objs_singular:
+  - car
+  - bench
+  prompt: eighteen cars and nine benches
+  prompt_idx: 953
+- counts:
+  - 3
+  - 13
+  objs:
+  - cars
+  - clocks
+  objs_singular:
+  - car
+  - clock
+  prompt: three cars and thirteen clocks
+  prompt_idx: 954
+- counts:
+  - 2
+  - 7
+  objs:
+  - cars
+  - clocks
+  objs_singular:
+  - car
+  - clock
+  prompt: two cars and seven clocks
+  prompt_idx: 955
+- counts:
+  - 16
+  - 3
+  objs:
+  - cars
+  - apples
+  objs_singular:
+  - car
+  - apple
+  prompt: sixteen cars and three apples
+  prompt_idx: 956
+- counts:
+  - 6
+  - 2
+  objs:
+  - cars
+  - apples
+  objs_singular:
+  - car
+  - apple
+  prompt: six cars and two apples
+  prompt_idx: 957
+- counts:
+  - 4
+  - 6
+  objs:
+  - cars
+  - bananas
+  objs_singular:
+  - car
+  - banana
+  prompt: four cars and six bananas
+  prompt_idx: 958
+- counts:
+  - 8
+  - 9
+  objs:
+  - cars
+  - bananas
+  objs_singular:
+  - car
+  - banana
+  prompt: eight cars and nine bananas
+  prompt_idx: 959
+- counts:
+  - 16
+  - 7
+  objs:
+  - cars
+  - donuts
+  objs_singular:
+  - car
+  - donut
+  prompt: sixteen cars and seven donuts
+  prompt_idx: 960
+- counts:
+  - 5
+  - 9
+  objs:
+  - cars
+  - donuts
+  objs_singular:
+  - car
+  - donut
+  prompt: five cars and nine donuts
+  prompt_idx: 961
+- counts:
+  - 19
+  - 18
+  objs:
+  - cars
+  - oranges
+  objs_singular:
+  - car
+  - orange
+  prompt: nineteen cars and eighteen oranges
+  prompt_idx: 962
+- counts:
+  - 3
+  - 2
+  objs:
+  - cars
+  - oranges
+  objs_singular:
+  - car
+  - orange
+  prompt: three cars and two oranges
+  prompt_idx: 963
+- counts:
+  - 18
+  - 6
+  objs:
+  - cars
+  - eggs
+  objs_singular:
+  - car
+  - egg
+  prompt: eighteen cars and six eggs
+  prompt_idx: 964
+- counts:
+  - 7
+  - 5
+  objs:
+  - cars
+  - eggs
+  objs_singular:
+  - car
+  - egg
+  prompt: seven cars and five eggs
+  prompt_idx: 965
+- counts:
+  - 17
+  - 7
+  objs:
+  - cars
+  - tomatoes
+  objs_singular:
+  - car
+  - tomato
+  prompt: seventeen cars and seven tomatoes
+  prompt_idx: 968
+- counts:
+  - 3
+  - 4
+  objs:
+  - cars
+  - tomatoes
+  objs_singular:
+  - car
+  - tomato
+  prompt: three cars and four tomatoes
+  prompt_idx: 969
+- counts:
+  - 17
+  - 13
+  objs:
+  - cars
+  - macarons
+  objs_singular:
+  - car
+  - macaron
+  prompt: seventeen cars and thirteen macarons
+  prompt_idx: 970
+- counts:
+  - 9
+  - 4
+  objs:
+  - cars
+  - macarons
+  objs_singular:
+  - car
+  - macaron
+  prompt: nine cars and four macarons
+  prompt_idx: 971
+- counts:
+  - 20
+  - 14
+  objs:
+  - cars
+  - chicks
+  objs_singular:
+  - car
+  - chick
+  prompt: twenty cars and fourteen chicks
+  prompt_idx: 972
+- counts:
+  - 15
+  - 13
+  objs:
+  - cars
+  - chicks
+  objs_singular:
+  - car
+  - chick
+  prompt: fifteen cars and thirteen chicks
+  prompt_idx: 973
+- counts:
+  - 12
+  - 3
+  objs:
+  - cars
+  - lemons
+  objs_singular:
+  - car
+  - lemon
+  prompt: twelve cars and three lemons
+  prompt_idx: 974
+- counts:
+  - 3
+  - 2
+  objs:
+  - cars
+  - lemons
+  objs_singular:
+  - car
+  - lemon
+  prompt: three cars and two lemons
+  prompt_idx: 975
+- counts:
+  - 18
+  - 10
+  objs:
+  - cars
+  - breads
+  objs_singular:
+  - car
+  - bread
+  prompt: eighteen cars and ten breads
+  prompt_idx: 976
+- counts:
+  - 20
+  - 19
+  objs:
+  - cars
+  - breads
+  objs_singular:
+  - car
+  - bread
+  prompt: twenty cars and nineteen breads
+  prompt_idx: 977
+- counts:
+  - 17
+  - 10
+  objs:
+  - cars
+  - onions
+  objs_singular:
+  - car
+  - onion
+  prompt: seventeen cars and ten onions
+  prompt_idx: 978
+- counts:
+  - 3
+  - 17
+  objs:
+  - cars
+  - onions
+  objs_singular:
+  - car
+  - onion
+  prompt: three cars and seventeen onions
+  prompt_idx: 979
+- counts:
+  - 19
+  - 12
+  objs:
+  - bowls
+  - benches
+  objs_singular:
+  - bowl
+  - bench
+  prompt: nineteen bowls and twelve benches
+  prompt_idx: 980
+- counts:
+  - 14
+  - 2
+  objs:
+  - bowls
+  - benches
+  objs_singular:
+  - bowl
+  - bench
+  prompt: fourteen bowls and two benches
+  prompt_idx: 981
+- counts:
+  - 12
+  - 13
+  objs:
+  - bowls
+  - clocks
+  objs_singular:
+  - bowl
+  - clock
+  prompt: twelve bowls and thirteen clocks
+  prompt_idx: 982
+- counts:
+  - 9
+  - 16
+  objs:
+  - bowls
+  - clocks
+  objs_singular:
+  - bowl
+  - clock
+  prompt: nine bowls and sixteen clocks
+  prompt_idx: 983
+- counts:
+  - 10
+  - 19
+  objs:
+  - bowls
+  - apples
+  objs_singular:
+  - bowl
+  - apple
+  prompt: ten bowls and nineteen apples
+  prompt_idx: 984
+- counts:
+  - 13
+  - 6
+  objs:
+  - bowls
+  - apples
+  objs_singular:
+  - bowl
+  - apple
+  prompt: thirteen bowls and six apples
+  prompt_idx: 985
+- counts:
+  - 2
+  - 15
+  objs:
+  - bowls
+  - bananas
+  objs_singular:
+  - bowl
+  - banana
+  prompt: two bowls and fifteen bananas
+  prompt_idx: 986
+- counts:
+  - 2
+  - 7
+  objs:
+  - bowls
+  - bananas
+  objs_singular:
+  - bowl
+  - banana
+  prompt: two bowls and seven bananas
+  prompt_idx: 987
+- counts:
+  - 16
+  - 2
+  objs:
+  - bowls
+  - donuts
+  objs_singular:
+  - bowl
+  - donut
+  prompt: sixteen bowls and two donuts
+  prompt_idx: 988
+- counts:
+  - 17
+  - 16
+  objs:
+  - bowls
+  - donuts
+  objs_singular:
+  - bowl
+  - donut
+  prompt: seventeen bowls and sixteen donuts
+  prompt_idx: 989
+- counts:
+  - 18
+  - 7
+  objs:
+  - bowls
+  - oranges
+  objs_singular:
+  - bowl
+  - orange
+  prompt: eighteen bowls and seven oranges
+  prompt_idx: 990
+- counts:
+  - 15
+  - 14
+  objs:
+  - bowls
+  - oranges
+  objs_singular:
+  - bowl
+  - orange
+  prompt: fifteen bowls and fourteen oranges
+  prompt_idx: 991
+- counts:
+  - 20
+  - 13
+  objs:
+  - bowls
+  - eggs
+  objs_singular:
+  - bowl
+  - egg
+  prompt: twenty bowls and thirteen eggs
+  prompt_idx: 992
+- counts:
+  - 17
+  - 19
+  objs:
+  - bowls
+  - eggs
+  objs_singular:
+  - bowl
+  - egg
+  prompt: seventeen bowls and nineteen eggs
+  prompt_idx: 993
+- counts:
+  - 18
+  - 12
+  objs:
+  - bowls
+  - tomatoes
+  objs_singular:
+  - bowl
+  - tomato
+  prompt: eighteen bowls and twelve tomatoes
+  prompt_idx: 996
+- counts:
+  - 19
+  - 12
+  objs:
+  - bowls
+  - tomatoes
+  objs_singular:
+  - bowl
+  - tomato
+  prompt: nineteen bowls and twelve tomatoes
+  prompt_idx: 997
+- counts:
+  - 18
+  - 10
+  objs:
+  - bowls
+  - macarons
+  objs_singular:
+  - bowl
+  - macaron
+  prompt: eighteen bowls and ten macarons
+  prompt_idx: 998
+- counts:
+  - 14
+  - 8
+  objs:
+  - bowls
+  - macarons
+  objs_singular:
+  - bowl
+  - macaron
+  prompt: fourteen bowls and eight macarons
+  prompt_idx: 999
+- counts:
+  - 20
+  - 7
+  objs:
+  - bowls
+  - chicks
+  objs_singular:
+  - bowl
+  - chick
+  prompt: twenty bowls and seven chicks
+  prompt_idx: 1000
+- counts:
+  - 2
+  - 7
+  objs:
+  - bowls
+  - chicks
+  objs_singular:
+  - bowl
+  - chick
+  prompt: two bowls and seven chicks
+  prompt_idx: 1001
+- counts:
+  - 12
+  - 5
+  objs:
+  - bowls
+  - lemons
+  objs_singular:
+  - bowl
+  - lemon
+  prompt: twelve bowls and five lemons
+  prompt_idx: 1002
+- counts:
+  - 17
+  - 10
+  objs:
+  - bowls
+  - lemons
+  objs_singular:
+  - bowl
+  - lemon
+  prompt: seventeen bowls and ten lemons
+  prompt_idx: 1003
+- counts:
+  - 4
+  - 11
+  objs:
+  - bowls
+  - breads
+  objs_singular:
+  - bowl
+  - bread
+  prompt: four bowls and eleven breads
+  prompt_idx: 1004
+- counts:
+  - 12
+  - 20
+  objs:
+  - bowls
+  - breads
+  objs_singular:
+  - bowl
+  - bread
+  prompt: twelve bowls and twenty breads
+  prompt_idx: 1005
+- counts:
+  - 5
+  - 10
+  objs:
+  - bowls
+  - onions
+  objs_singular:
+  - bowl
+  - onion
+  prompt: five bowls and ten onions
+  prompt_idx: 1006
+- counts:
+  - 7
+  - 19
+  objs:
+  - bowls
+  - onions
+  objs_singular:
+  - bowl
+  - onion
+  prompt: seven bowls and nineteen onions
+  prompt_idx: 1007
+- counts:
+  - 10
+  - 13
+  objs:
+  - benches
+  - clocks
+  objs_singular:
+  - bench
+  - clock
+  prompt: ten benches and thirteen clocks
+  prompt_idx: 1008
+- counts:
+  - 2
+  - 17
+  objs:
+  - benches
+  - clocks
+  objs_singular:
+  - bench
+  - clock
+  prompt: two benches and seventeen clocks
+  prompt_idx: 1009
+- counts:
+  - 10
+  - 4
+  objs:
+  - benches
+  - apples
+  objs_singular:
+  - bench
+  - apple
+  prompt: ten benches and four apples
+  prompt_idx: 1010
+- counts:
+  - 19
+  - 13
+  objs:
+  - benches
+  - apples
+  objs_singular:
+  - bench
+  - apple
+  prompt: nineteen benches and thirteen apples
+  prompt_idx: 1011
+- counts:
+  - 6
+  - 15
+  objs:
+  - benches
+  - bananas
+  objs_singular:
+  - bench
+  - banana
+  prompt: six benches and fifteen bananas
+  prompt_idx: 1012
+- counts:
+  - 3
+  - 3
+  objs:
+  - benches
+  - bananas
+  objs_singular:
+  - bench
+  - banana
+  prompt: three benches and three bananas
+  prompt_idx: 1013
+- counts:
+  - 15
+  - 4
+  objs:
+  - benches
+  - donuts
+  objs_singular:
+  - bench
+  - donut
+  prompt: fifteen benches and four donuts
+  prompt_idx: 1014
+- counts:
+  - 18
+  - 10
+  objs:
+  - benches
+  - donuts
+  objs_singular:
+  - bench
+  - donut
+  prompt: eighteen benches and ten donuts
+  prompt_idx: 1015
+- counts:
+  - 7
+  - 6
+  objs:
+  - benches
+  - oranges
+  objs_singular:
+  - bench
+  - orange
+  prompt: seven benches and six oranges
+  prompt_idx: 1016
+- counts:
+  - 20
+  - 8
+  objs:
+  - benches
+  - oranges
+  objs_singular:
+  - bench
+  - orange
+  prompt: twenty benches and eight oranges
+  prompt_idx: 1017
+- counts:
+  - 10
+  - 17
+  objs:
+  - benches
+  - eggs
+  objs_singular:
+  - bench
+  - egg
+  prompt: ten benches and seventeen eggs
+  prompt_idx: 1018
+- counts:
+  - 4
+  - 13
+  objs:
+  - benches
+  - eggs
+  objs_singular:
+  - bench
+  - egg
+  prompt: four benches and thirteen eggs
+  prompt_idx: 1019
+- counts:
+  - 17
+  - 5
+  objs:
+  - benches
+  - tomatoes
+  objs_singular:
+  - bench
+  - tomato
+  prompt: seventeen benches and five tomatoes
+  prompt_idx: 1022
+- counts:
+  - 20
+  - 16
+  objs:
+  - benches
+  - tomatoes
+  objs_singular:
+  - bench
+  - tomato
+  prompt: twenty benches and sixteen tomatoes
+  prompt_idx: 1023
+- counts:
+  - 8
+  - 12
+  objs:
+  - benches
+  - macarons
+  objs_singular:
+  - bench
+  - macaron
+  prompt: eight benches and twelve macarons
+  prompt_idx: 1024
+- counts:
+  - 9
+  - 12
+  objs:
+  - benches
+  - macarons
+  objs_singular:
+  - bench
+  - macaron
+  prompt: nine benches and twelve macarons
+  prompt_idx: 1025
+- counts:
+  - 4
+  - 11
+  objs:
+  - benches
+  - chicks
+  objs_singular:
+  - bench
+  - chick
+  prompt: four benches and eleven chicks
+  prompt_idx: 1026
+- counts:
+  - 15
+  - 15
+  objs:
+  - benches
+  - chicks
+  objs_singular:
+  - bench
+  - chick
+  prompt: fifteen benches and fifteen chicks
+  prompt_idx: 1027
+- counts:
+  - 9
+  - 10
+  objs:
+  - benches
+  - lemons
+  objs_singular:
+  - bench
+  - lemon
+  prompt: nine benches and ten lemons
+  prompt_idx: 1028
+- counts:
+  - 7
+  - 5
+  objs:
+  - benches
+  - lemons
+  objs_singular:
+  - bench
+  - lemon
+  prompt: seven benches and five lemons
+  prompt_idx: 1029
+- counts:
+  - 13
+  - 18
+  objs:
+  - benches
+  - breads
+  objs_singular:
+  - bench
+  - bread
+  prompt: thirteen benches and eighteen breads
+  prompt_idx: 1030
+- counts:
+  - 10
+  - 10
+  objs:
+  - benches
+  - breads
+  objs_singular:
+  - bench
+  - bread
+  prompt: ten benches and ten breads
+  prompt_idx: 1031
+- counts:
+  - 11
+  - 9
+  objs:
+  - benches
+  - onions
+  objs_singular:
+  - bench
+  - onion
+  prompt: eleven benches and nine onions
+  prompt_idx: 1032
+- counts:
+  - 12
+  - 4
+  objs:
+  - benches
+  - onions
+  objs_singular:
+  - bench
+  - onion
+  prompt: twelve benches and four onions
+  prompt_idx: 1033
+- counts:
+  - 6
+  - 17
+  objs:
+  - clocks
+  - apples
+  objs_singular:
+  - clock
+  - apple
+  prompt: six clocks and seventeen apples
+  prompt_idx: 1034
+- counts:
+  - 5
+  - 11
+  objs:
+  - clocks
+  - apples
+  objs_singular:
+  - clock
+  - apple
+  prompt: five clocks and eleven apples
+  prompt_idx: 1035
+- counts:
+  - 6
+  - 3
+  objs:
+  - clocks
+  - bananas
+  objs_singular:
+  - clock
+  - banana
+  prompt: six clocks and three bananas
+  prompt_idx: 1036
+- counts:
+  - 20
+  - 14
+  objs:
+  - clocks
+  - bananas
+  objs_singular:
+  - clock
+  - banana
+  prompt: twenty clocks and fourteen bananas
+  prompt_idx: 1037
+- counts:
+  - 4
+  - 17
+  objs:
+  - clocks
+  - donuts
+  objs_singular:
+  - clock
+  - donut
+  prompt: four clocks and seventeen donuts
+  prompt_idx: 1038
+- counts:
+  - 5
+  - 9
+  objs:
+  - clocks
+  - donuts
+  objs_singular:
+  - clock
+  - donut
+  prompt: five clocks and nine donuts
+  prompt_idx: 1039
+- counts:
+  - 17
+  - 14
+  objs:
+  - clocks
+  - oranges
+  objs_singular:
+  - clock
+  - orange
+  prompt: seventeen clocks and fourteen oranges
+  prompt_idx: 1040
+- counts:
+  - 4
+  - 4
+  objs:
+  - clocks
+  - oranges
+  objs_singular:
+  - clock
+  - orange
+  prompt: four clocks and four oranges
+  prompt_idx: 1041
+- counts:
+  - 8
+  - 20
+  objs:
+  - clocks
+  - eggs
+  objs_singular:
+  - clock
+  - egg
+  prompt: eight clocks and twenty eggs
+  prompt_idx: 1042
+- counts:
+  - 11
+  - 13
+  objs:
+  - clocks
+  - eggs
+  objs_singular:
+  - clock
+  - egg
+  prompt: eleven clocks and thirteen eggs
+  prompt_idx: 1043
+- counts:
+  - 14
+  - 16
+  objs:
+  - clocks
+  - tomatoes
+  objs_singular:
+  - clock
+  - tomato
+  prompt: fourteen clocks and sixteen tomatoes
+  prompt_idx: 1046
+- counts:
+  - 17
+  - 20
+  objs:
+  - clocks
+  - tomatoes
+  objs_singular:
+  - clock
+  - tomato
+  prompt: seventeen clocks and twenty tomatoes
+  prompt_idx: 1047
+- counts:
+  - 17
+  - 9
+  objs:
+  - clocks
+  - macarons
+  objs_singular:
+  - clock
+  - macaron
+  prompt: seventeen clocks and nine macarons
+  prompt_idx: 1048
+- counts:
+  - 15
+  - 13
+  objs:
+  - clocks
+  - macarons
+  objs_singular:
+  - clock
+  - macaron
+  prompt: fifteen clocks and thirteen macarons
+  prompt_idx: 1049
+- counts:
+  - 15
+  - 17
+  objs:
+  - clocks
+  - chicks
+  objs_singular:
+  - clock
+  - chick
+  prompt: fifteen clocks and seventeen chicks
+  prompt_idx: 1050
+- counts:
+  - 4
+  - 14
+  objs:
+  - clocks
+  - chicks
+  objs_singular:
+  - clock
+  - chick
+  prompt: four clocks and fourteen chicks
+  prompt_idx: 1051
+- counts:
+  - 17
+  - 11
+  objs:
+  - clocks
+  - lemons
+  objs_singular:
+  - clock
+  - lemon
+  prompt: seventeen clocks and eleven lemons
+  prompt_idx: 1052
+- counts:
+  - 9
+  - 6
+  objs:
+  - clocks
+  - lemons
+  objs_singular:
+  - clock
+  - lemon
+  prompt: nine clocks and six lemons
+  prompt_idx: 1053
+- counts:
+  - 16
+  - 18
+  objs:
+  - clocks
+  - breads
+  objs_singular:
+  - clock
+  - bread
+  prompt: sixteen clocks and eighteen breads
+  prompt_idx: 1054
+- counts:
+  - 16
+  - 18
+  objs:
+  - clocks
+  - breads
+  objs_singular:
+  - clock
+  - bread
+  prompt: sixteen clocks and eighteen breads
+  prompt_idx: 1055
+- counts:
+  - 17
+  - 11
+  objs:
+  - clocks
+  - onions
+  objs_singular:
+  - clock
+  - onion
+  prompt: seventeen clocks and eleven onions
+  prompt_idx: 1056
+- counts:
+  - 2
+  - 16
+  objs:
+  - clocks
+  - onions
+  objs_singular:
+  - clock
+  - onion
+  prompt: two clocks and sixteen onions
+  prompt_idx: 1057
+- counts:
+  - 18
+  - 18
+  objs:
+  - apples
+  - bananas
+  objs_singular:
+  - apple
+  - banana
+  prompt: eighteen apples and eighteen bananas
+  prompt_idx: 1058
+- counts:
+  - 11
+  - 17
+  objs:
+  - apples
+  - bananas
+  objs_singular:
+  - apple
+  - banana
+  prompt: eleven apples and seventeen bananas
+  prompt_idx: 1059
+- counts:
+  - 20
+  - 5
+  objs:
+  - apples
+  - donuts
+  objs_singular:
+  - apple
+  - donut
+  prompt: twenty apples and five donuts
+  prompt_idx: 1060
+- counts:
+  - 12
+  - 14
+  objs:
+  - apples
+  - donuts
+  objs_singular:
+  - apple
+  - donut
+  prompt: twelve apples and fourteen donuts
+  prompt_idx: 1061
+- counts:
+  - 4
+  - 20
+  objs:
+  - apples
+  - oranges
+  objs_singular:
+  - apple
+  - orange
+  prompt: four apples and twenty oranges
+  prompt_idx: 1062
+- counts:
+  - 10
+  - 3
+  objs:
+  - apples
+  - oranges
+  objs_singular:
+  - apple
+  - orange
+  prompt: ten apples and three oranges
+  prompt_idx: 1063
+- counts:
+  - 3
+  - 2
+  objs:
+  - apples
+  - eggs
+  objs_singular:
+  - apple
+  - egg
+  prompt: three apples and two eggs
+  prompt_idx: 1064
+- counts:
+  - 5
+  - 11
+  objs:
+  - apples
+  - eggs
+  objs_singular:
+  - apple
+  - egg
+  prompt: five apples and eleven eggs
+  prompt_idx: 1065
+- counts:
+  - 6
+  - 18
+  objs:
+  - apples
+  - tomatoes
+  objs_singular:
+  - apple
+  - tomato
+  prompt: six apples and eighteen tomatoes
+  prompt_idx: 1068
+- counts:
+  - 3
+  - 8
+  objs:
+  - apples
+  - tomatoes
+  objs_singular:
+  - apple
+  - tomato
+  prompt: three apples and eight tomatoes
+  prompt_idx: 1069
+- counts:
+  - 16
+  - 4
+  objs:
+  - apples
+  - macarons
+  objs_singular:
+  - apple
+  - macaron
+  prompt: sixteen apples and four macarons
+  prompt_idx: 1070
+- counts:
+  - 16
+  - 12
+  objs:
+  - apples
+  - macarons
+  objs_singular:
+  - apple
+  - macaron
+  prompt: sixteen apples and twelve macarons
+  prompt_idx: 1071
+- counts:
+  - 5
+  - 5
+  objs:
+  - apples
+  - chicks
+  objs_singular:
+  - apple
+  - chick
+  prompt: five apples and five chicks
+  prompt_idx: 1072
+- counts:
+  - 13
+  - 16
+  objs:
+  - apples
+  - chicks
+  objs_singular:
+  - apple
+  - chick
+  prompt: thirteen apples and sixteen chicks
+  prompt_idx: 1073
+- counts:
+  - 7
+  - 4
+  objs:
+  - apples
+  - lemons
+  objs_singular:
+  - apple
+  - lemon
+  prompt: seven apples and four lemons
+  prompt_idx: 1074
+- counts:
+  - 4
+  - 9
+  objs:
+  - apples
+  - lemons
+  objs_singular:
+  - apple
+  - lemon
+  prompt: four apples and nine lemons
+  prompt_idx: 1075
+- counts:
+  - 3
+  - 12
+  objs:
+  - apples
+  - breads
+  objs_singular:
+  - apple
+  - bread
+  prompt: three apples and twelve breads
+  prompt_idx: 1076
+- counts:
+  - 7
+  - 2
+  objs:
+  - apples
+  - breads
+  objs_singular:
+  - apple
+  - bread
+  prompt: seven apples and two breads
+  prompt_idx: 1077
+- counts:
+  - 10
+  - 5
+  objs:
+  - apples
+  - onions
+  objs_singular:
+  - apple
+  - onion
+  prompt: ten apples and five onions
+  prompt_idx: 1078
+- counts:
+  - 8
+  - 12
+  objs:
+  - apples
+  - onions
+  objs_singular:
+  - apple
+  - onion
+  prompt: eight apples and twelve onions
+  prompt_idx: 1079
+- counts:
+  - 4
+  - 11
+  objs:
+  - bananas
+  - donuts
+  objs_singular:
+  - banana
+  - donut
+  prompt: four bananas and eleven donuts
+  prompt_idx: 1080
+- counts:
+  - 17
+  - 4
+  objs:
+  - bananas
+  - donuts
+  objs_singular:
+  - banana
+  - donut
+  prompt: seventeen bananas and four donuts
+  prompt_idx: 1081
+- counts:
+  - 5
+  - 8
+  objs:
+  - bananas
+  - oranges
+  objs_singular:
+  - banana
+  - orange
+  prompt: five bananas and eight oranges
+  prompt_idx: 1082
+- counts:
+  - 12
+  - 14
+  objs:
+  - bananas
+  - oranges
+  objs_singular:
+  - banana
+  - orange
+  prompt: twelve bananas and fourteen oranges
+  prompt_idx: 1083
+- counts:
+  - 16
+  - 15
+  objs:
+  - bananas
+  - eggs
+  objs_singular:
+  - banana
+  - egg
+  prompt: sixteen bananas and fifteen eggs
+  prompt_idx: 1084
+- counts:
+  - 8
+  - 4
+  objs:
+  - bananas
+  - eggs
+  objs_singular:
+  - banana
+  - egg
+  prompt: eight bananas and four eggs
+  prompt_idx: 1085
+- counts:
+  - 11
+  - 4
+  objs:
+  - bananas
+  - tomatoes
+  objs_singular:
+  - banana
+  - tomato
+  prompt: eleven bananas and four tomatoes
+  prompt_idx: 1088
+- counts:
+  - 6
+  - 3
+  objs:
+  - bananas
+  - tomatoes
+  objs_singular:
+  - banana
+  - tomato
+  prompt: six bananas and three tomatoes
+  prompt_idx: 1089
+- counts:
+  - 15
+  - 14
+  objs:
+  - bananas
+  - macarons
+  objs_singular:
+  - banana
+  - macaron
+  prompt: fifteen bananas and fourteen macarons
+  prompt_idx: 1090
+- counts:
+  - 15
+  - 6
+  objs:
+  - bananas
+  - macarons
+  objs_singular:
+  - banana
+  - macaron
+  prompt: fifteen bananas and six macarons
+  prompt_idx: 1091
+- counts:
+  - 15
+  - 11
+  objs:
+  - bananas
+  - chicks
+  objs_singular:
+  - banana
+  - chick
+  prompt: fifteen bananas and eleven chicks
+  prompt_idx: 1092
+- counts:
+  - 13
+  - 14
+  objs:
+  - bananas
+  - chicks
+  objs_singular:
+  - banana
+  - chick
+  prompt: thirteen bananas and fourteen chicks
+  prompt_idx: 1093
+- counts:
+  - 12
+  - 20
+  objs:
+  - bananas
+  - lemons
+  objs_singular:
+  - banana
+  - lemon
+  prompt: twelve bananas and twenty lemons
+  prompt_idx: 1094
+- counts:
+  - 8
+  - 17
+  objs:
+  - bananas
+  - lemons
+  objs_singular:
+  - banana
+  - lemon
+  prompt: eight bananas and seventeen lemons
+  prompt_idx: 1095
+- counts:
+  - 7
+  - 16
+  objs:
+  - bananas
+  - breads
+  objs_singular:
+  - banana
+  - bread
+  prompt: seven bananas and sixteen breads
+  prompt_idx: 1096
+- counts:
+  - 10
+  - 14
+  objs:
+  - bananas
+  - breads
+  objs_singular:
+  - banana
+  - bread
+  prompt: ten bananas and fourteen breads
+  prompt_idx: 1097
+- counts:
+  - 12
+  - 12
+  objs:
+  - bananas
+  - onions
+  objs_singular:
+  - banana
+  - onion
+  prompt: twelve bananas and twelve onions
+  prompt_idx: 1098
+- counts:
+  - 3
+  - 14
+  objs:
+  - bananas
+  - onions
+  objs_singular:
+  - banana
+  - onion
+  prompt: three bananas and fourteen onions
+  prompt_idx: 1099
+- counts:
+  - 13
+  - 20
+  objs:
+  - donuts
+  - oranges
+  objs_singular:
+  - donut
+  - orange
+  prompt: thirteen donuts and twenty oranges
+  prompt_idx: 1100
+- counts:
+  - 10
+  - 10
+  objs:
+  - donuts
+  - oranges
+  objs_singular:
+  - donut
+  - orange
+  prompt: ten donuts and ten oranges
+  prompt_idx: 1101
+- counts:
+  - 14
+  - 18
+  objs:
+  - donuts
+  - eggs
+  objs_singular:
+  - donut
+  - egg
+  prompt: fourteen donuts and eighteen eggs
+  prompt_idx: 1102
+- counts:
+  - 7
+  - 9
+  objs:
+  - donuts
+  - eggs
+  objs_singular:
+  - donut
+  - egg
+  prompt: seven donuts and nine eggs
+  prompt_idx: 1103
+- counts:
+  - 19
+  - 9
+  objs:
+  - donuts
+  - tomatoes
+  objs_singular:
+  - donut
+  - tomato
+  prompt: nineteen donuts and nine tomatoes
+  prompt_idx: 1106
+- counts:
+  - 7
+  - 17
+  objs:
+  - donuts
+  - tomatoes
+  objs_singular:
+  - donut
+  - tomato
+  prompt: seven donuts and seventeen tomatoes
+  prompt_idx: 1107
+- counts:
+  - 12
+  - 20
+  objs:
+  - donuts
+  - macarons
+  objs_singular:
+  - donut
+  - macaron
+  prompt: twelve donuts and twenty macarons
+  prompt_idx: 1108
+- counts:
+  - 9
+  - 17
+  objs:
+  - donuts
+  - macarons
+  objs_singular:
+  - donut
+  - macaron
+  prompt: nine donuts and seventeen macarons
+  prompt_idx: 1109
+- counts:
+  - 12
+  - 10
+  objs:
+  - donuts
+  - chicks
+  objs_singular:
+  - donut
+  - chick
+  prompt: twelve donuts and ten chicks
+  prompt_idx: 1110
+- counts:
+  - 17
+  - 10
+  objs:
+  - donuts
+  - chicks
+  objs_singular:
+  - donut
+  - chick
+  prompt: seventeen donuts and ten chicks
+  prompt_idx: 1111
+- counts:
+  - 9
+  - 16
+  objs:
+  - donuts
+  - lemons
+  objs_singular:
+  - donut
+  - lemon
+  prompt: nine donuts and sixteen lemons
+  prompt_idx: 1112
+- counts:
+  - 12
+  - 17
+  objs:
+  - donuts
+  - lemons
+  objs_singular:
+  - donut
+  - lemon
+  prompt: twelve donuts and seventeen lemons
+  prompt_idx: 1113
+- counts:
+  - 20
+  - 5
+  objs:
+  - donuts
+  - breads
+  objs_singular:
+  - donut
+  - bread
+  prompt: twenty donuts and five breads
+  prompt_idx: 1114
+- counts:
+  - 10
+  - 5
+  objs:
+  - donuts
+  - breads
+  objs_singular:
+  - donut
+  - bread
+  prompt: ten donuts and five breads
+  prompt_idx: 1115
+- counts:
+  - 20
+  - 9
+  objs:
+  - donuts
+  - onions
+  objs_singular:
+  - donut
+  - onion
+  prompt: twenty donuts and nine onions
+  prompt_idx: 1116
+- counts:
+  - 18
+  - 9
+  objs:
+  - donuts
+  - onions
+  objs_singular:
+  - donut
+  - onion
+  prompt: eighteen donuts and nine onions
+  prompt_idx: 1117
+- counts:
+  - 3
+  - 20
+  objs:
+  - oranges
+  - eggs
+  objs_singular:
+  - orange
+  - egg
+  prompt: three oranges and twenty eggs
+  prompt_idx: 1118
+- counts:
+  - 7
+  - 9
+  objs:
+  - oranges
+  - eggs
+  objs_singular:
+  - orange
+  - egg
+  prompt: seven oranges and nine eggs
+  prompt_idx: 1119
+- counts:
+  - 2
+  - 20
+  objs:
+  - oranges
+  - tomatoes
+  objs_singular:
+  - orange
+  - tomato
+  prompt: two oranges and twenty tomatoes
+  prompt_idx: 1122
+- counts:
+  - 19
+  - 19
+  objs:
+  - oranges
+  - tomatoes
+  objs_singular:
+  - orange
+  - tomato
+  prompt: nineteen oranges and nineteen tomatoes
+  prompt_idx: 1123
+- counts:
+  - 16
+  - 12
+  objs:
+  - oranges
+  - macarons
+  objs_singular:
+  - orange
+  - macaron
+  prompt: sixteen oranges and twelve macarons
+  prompt_idx: 1124
+- counts:
+  - 6
+  - 10
+  objs:
+  - oranges
+  - macarons
+  objs_singular:
+  - orange
+  - macaron
+  prompt: six oranges and ten macarons
+  prompt_idx: 1125
+- counts:
+  - 19
+  - 3
+  objs:
+  - oranges
+  - chicks
+  objs_singular:
+  - orange
+  - chick
+  prompt: nineteen oranges and three chicks
+  prompt_idx: 1126
+- counts:
+  - 12
+  - 13
+  objs:
+  - oranges
+  - chicks
+  objs_singular:
+  - orange
+  - chick
+  prompt: twelve oranges and thirteen chicks
+  prompt_idx: 1127
+- counts:
+  - 9
+  - 12
+  objs:
+  - oranges
+  - lemons
+  objs_singular:
+  - orange
+  - lemon
+  prompt: nine oranges and twelve lemons
+  prompt_idx: 1128
+- counts:
+  - 2
+  - 15
+  objs:
+  - oranges
+  - lemons
+  objs_singular:
+  - orange
+  - lemon
+  prompt: two oranges and fifteen lemons
+  prompt_idx: 1129
+- counts:
+  - 10
+  - 10
+  objs:
+  - oranges
+  - breads
+  objs_singular:
+  - orange
+  - bread
+  prompt: ten oranges and ten breads
+  prompt_idx: 1130
+- counts:
+  - 13
+  - 8
+  objs:
+  - oranges
+  - breads
+  objs_singular:
+  - orange
+  - bread
+  prompt: thirteen oranges and eight breads
+  prompt_idx: 1131
+- counts:
+  - 17
+  - 3
+  objs:
+  - oranges
+  - onions
+  objs_singular:
+  - orange
+  - onion
+  prompt: seventeen oranges and three onions
+  prompt_idx: 1132
+- counts:
+  - 20
+  - 10
+  objs:
+  - oranges
+  - onions
+  objs_singular:
+  - orange
+  - onion
+  prompt: twenty oranges and ten onions
+  prompt_idx: 1133
+- counts:
+  - 5
+  - 15
+  objs:
+  - eggs
+  - tomatoes
+  objs_singular:
+  - egg
+  - tomato
+  prompt: five eggs and fifteen tomatoes
+  prompt_idx: 1136
+- counts:
+  - 17
+  - 18
+  objs:
+  - eggs
+  - tomatoes
+  objs_singular:
+  - egg
+  - tomato
+  prompt: seventeen eggs and eighteen tomatoes
+  prompt_idx: 1137
+- counts:
+  - 19
+  - 12
+  objs:
+  - eggs
+  - macarons
+  objs_singular:
+  - egg
+  - macaron
+  prompt: nineteen eggs and twelve macarons
+  prompt_idx: 1138
+- counts:
+  - 7
+  - 9
+  objs:
+  - eggs
+  - macarons
+  objs_singular:
+  - egg
+  - macaron
+  prompt: seven eggs and nine macarons
+  prompt_idx: 1139
+- counts:
+  - 20
+  - 9
+  objs:
+  - eggs
+  - chicks
+  objs_singular:
+  - egg
+  - chick
+  prompt: twenty eggs and nine chicks
+  prompt_idx: 1140
+- counts:
+  - 17
+  - 2
+  objs:
+  - eggs
+  - chicks
+  objs_singular:
+  - egg
+  - chick
+  prompt: seventeen eggs and two chicks
+  prompt_idx: 1141
+- counts:
+  - 20
+  - 2
+  objs:
+  - eggs
+  - lemons
+  objs_singular:
+  - egg
+  - lemon
+  prompt: twenty eggs and two lemons
+  prompt_idx: 1142
+- counts:
+  - 8
+  - 20
+  objs:
+  - eggs
+  - lemons
+  objs_singular:
+  - egg
+  - lemon
+  prompt: eight eggs and twenty lemons
+  prompt_idx: 1143
+- counts:
+  - 15
+  - 16
+  objs:
+  - eggs
+  - breads
+  objs_singular:
+  - egg
+  - bread
+  prompt: fifteen eggs and sixteen breads
+  prompt_idx: 1144
+- counts:
+  - 13
+  - 2
+  objs:
+  - eggs
+  - breads
+  objs_singular:
+  - egg
+  - bread
+  prompt: thirteen eggs and two breads
+  prompt_idx: 1145
+- counts:
+  - 6
+  - 16
+  objs:
+  - eggs
+  - onions
+  objs_singular:
+  - egg
+  - onion
+  prompt: six eggs and sixteen onions
+  prompt_idx: 1146
+- counts:
+  - 4
+  - 11
+  objs:
+  - eggs
+  - onions
+  objs_singular:
+  - egg
+  - onion
+  prompt: four eggs and eleven onions
+  prompt_idx: 1147
+- counts:
+  - 14
+  - 10
+  objs:
+  - tomatoes
+  - macarons
+  objs_singular:
+  - tomato
+  - macaron
+  prompt: fourteen tomatoes and ten macarons
+  prompt_idx: 1160
+- counts:
+  - 7
+  - 19
+  objs:
+  - tomatoes
+  - macarons
+  objs_singular:
+  - tomato
+  - macaron
+  prompt: seven tomatoes and nineteen macarons
+  prompt_idx: 1161
+- counts:
+  - 13
+  - 3
+  objs:
+  - tomatoes
+  - chicks
+  objs_singular:
+  - tomato
+  - chick
+  prompt: thirteen tomatoes and three chicks
+  prompt_idx: 1162
+- counts:
+  - 12
+  - 19
+  objs:
+  - tomatoes
+  - chicks
+  objs_singular:
+  - tomato
+  - chick
+  prompt: twelve tomatoes and nineteen chicks
+  prompt_idx: 1163
+- counts:
+  - 11
+  - 2
+  objs:
+  - tomatoes
+  - lemons
+  objs_singular:
+  - tomato
+  - lemon
+  prompt: eleven tomatoes and two lemons
+  prompt_idx: 1164
+- counts:
+  - 6
+  - 13
+  objs:
+  - tomatoes
+  - lemons
+  objs_singular:
+  - tomato
+  - lemon
+  prompt: six tomatoes and thirteen lemons
+  prompt_idx: 1165
+- counts:
+  - 2
+  - 15
+  objs:
+  - tomatoes
+  - breads
+  objs_singular:
+  - tomato
+  - bread
+  prompt: two tomatoes and fifteen breads
+  prompt_idx: 1166
+- counts:
+  - 9
+  - 11
+  objs:
+  - tomatoes
+  - breads
+  objs_singular:
+  - tomato
+  - bread
+  prompt: nine tomatoes and eleven breads
+  prompt_idx: 1167
+- counts:
+  - 6
+  - 4
+  objs:
+  - tomatoes
+  - onions
+  objs_singular:
+  - tomato
+  - onion
+  prompt: six tomatoes and four onions
+  prompt_idx: 1168
+- counts:
+  - 14
+  - 13
+  objs:
+  - tomatoes
+  - onions
+  objs_singular:
+  - tomato
+  - onion
+  prompt: fourteen tomatoes and thirteen onions
+  prompt_idx: 1169
+- counts:
+  - 8
+  - 20
+  objs:
+  - macarons
+  - chicks
+  objs_singular:
+  - macaron
+  - chick
+  prompt: eight macarons and twenty chicks
+  prompt_idx: 1170
+- counts:
+  - 6
+  - 8
+  objs:
+  - macarons
+  - chicks
+  objs_singular:
+  - macaron
+  - chick
+  prompt: six macarons and eight chicks
+  prompt_idx: 1171
+- counts:
+  - 18
+  - 14
+  objs:
+  - macarons
+  - lemons
+  objs_singular:
+  - macaron
+  - lemon
+  prompt: eighteen macarons and fourteen lemons
+  prompt_idx: 1172
+- counts:
+  - 19
+  - 3
+  objs:
+  - macarons
+  - lemons
+  objs_singular:
+  - macaron
+  - lemon
+  prompt: nineteen macarons and three lemons
+  prompt_idx: 1173
+- counts:
+  - 20
+  - 12
+  objs:
+  - macarons
+  - breads
+  objs_singular:
+  - macaron
+  - bread
+  prompt: twenty macarons and twelve breads
+  prompt_idx: 1174
+- counts:
+  - 3
+  - 15
+  objs:
+  - macarons
+  - breads
+  objs_singular:
+  - macaron
+  - bread
+  prompt: three macarons and fifteen breads
+  prompt_idx: 1175
+- counts:
+  - 5
+  - 17
+  objs:
+  - macarons
+  - onions
+  objs_singular:
+  - macaron
+  - onion
+  prompt: five macarons and seventeen onions
+  prompt_idx: 1176
+- counts:
+  - 2
+  - 9
+  objs:
+  - macarons
+  - onions
+  objs_singular:
+  - macaron
+  - onion
+  prompt: two macarons and nine onions
+  prompt_idx: 1177
+- counts:
+  - 14
+  - 19
+  objs:
+  - chicks
+  - lemons
+  objs_singular:
+  - chick
+  - lemon
+  prompt: fourteen chicks and nineteen lemons
+  prompt_idx: 1178
+- counts:
+  - 9
+  - 5
+  objs:
+  - chicks
+  - lemons
+  objs_singular:
+  - chick
+  - lemon
+  prompt: nine chicks and five lemons
+  prompt_idx: 1179
+- counts:
+  - 10
+  - 16
+  objs:
+  - chicks
+  - breads
+  objs_singular:
+  - chick
+  - bread
+  prompt: ten chicks and sixteen breads
+  prompt_idx: 1180
+- counts:
+  - 10
+  - 7
+  objs:
+  - chicks
+  - breads
+  objs_singular:
+  - chick
+  - bread
+  prompt: ten chicks and seven breads
+  prompt_idx: 1181
+- counts:
+  - 20
+  - 10
+  objs:
+  - chicks
+  - onions
+  objs_singular:
+  - chick
+  - onion
+  prompt: twenty chicks and ten onions
+  prompt_idx: 1182
+- counts:
+  - 12
+  - 10
+  objs:
+  - chicks
+  - onions
+  objs_singular:
+  - chick
+  - onion
+  prompt: twelve chicks and ten onions
+  prompt_idx: 1183
+- counts:
+  - 7
+  - 10
+  objs:
+  - lemons
+  - breads
+  objs_singular:
+  - lemon
+  - bread
+  prompt: seven lemons and ten breads
+  prompt_idx: 1184
+- counts:
+  - 9
+  - 2
+  objs:
+  - lemons
+  - breads
+  objs_singular:
+  - lemon
+  - bread
+  prompt: nine lemons and two breads
+  prompt_idx: 1185
+- counts:
+  - 16
+  - 5
+  objs:
+  - lemons
+  - onions
+  objs_singular:
+  - lemon
+  - onion
+  prompt: sixteen lemons and five onions
+  prompt_idx: 1186
+- counts:
+  - 8
+  - 17
+  objs:
+  - lemons
+  - onions
+  objs_singular:
+  - lemon
+  - onion
+  prompt: eight lemons and seventeen onions
+  prompt_idx: 1187
+- counts:
+  - 5
+  - 2
+  objs:
+  - breads
+  - onions
+  objs_singular:
+  - bread
+  - onion
+  prompt: five breads and two onions
+  prompt_idx: 1188
+- counts:
+  - 11
+  - 18
+  objs:
+  - breads
+  - onions
+  objs_singular:
+  - bread
+  - onion
+  prompt: eleven breads and eighteen onions
+  prompt_idx: 1189

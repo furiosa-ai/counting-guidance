@@ -1,0 +1,7 @@
+attention_loss_scale: null
+attention_loss_start: null
+counting_loss_scales: [[1]]
+num_inference_steps: 50
+max_iter_to_alter: 9999
+seed: 0
+linear_scale: true

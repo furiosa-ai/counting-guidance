@@ -1,0 +1,5440 @@
+- counts:
+  - 1
+  objs:
+  - cat
+  objs_singular:
+  - cat
+  prompt: one cat
+  prompt_idx: 0
+- counts:
+  - 2
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: two cats
+  prompt_idx: 1
+- counts:
+  - 3
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: three cats
+  prompt_idx: 2
+- counts:
+  - 4
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: four cats
+  prompt_idx: 3
+- counts:
+  - 5
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: five cats
+  prompt_idx: 4
+- counts:
+  - 6
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: six cats
+  prompt_idx: 5
+- counts:
+  - 7
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: seven cats
+  prompt_idx: 6
+- counts:
+  - 8
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: eight cats
+  prompt_idx: 7
+- counts:
+  - 9
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: nine cats
+  prompt_idx: 8
+- counts:
+  - 10
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: ten cats
+  prompt_idx: 9
+- counts:
+  - 11
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: eleven cats
+  prompt_idx: 10
+- counts:
+  - 12
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: twelve cats
+  prompt_idx: 11
+- counts:
+  - 13
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: thirteen cats
+  prompt_idx: 12
+- counts:
+  - 14
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: fourteen cats
+  prompt_idx: 13
+- counts:
+  - 15
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: fifteen cats
+  prompt_idx: 14
+- counts:
+  - 16
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: sixteen cats
+  prompt_idx: 15
+- counts:
+  - 17
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: seventeen cats
+  prompt_idx: 16
+- counts:
+  - 18
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: eighteen cats
+  prompt_idx: 17
+- counts:
+  - 19
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: nineteen cats
+  prompt_idx: 18
+- counts:
+  - 20
+  objs:
+  - cats
+  objs_singular:
+  - cat
+  prompt: twenty cats
+  prompt_idx: 19
+- counts:
+  - 1
+  objs:
+  - dog
+  objs_singular:
+  - dog
+  prompt: one dog
+  prompt_idx: 20
+- counts:
+  - 2
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: two dogs
+  prompt_idx: 21
+- counts:
+  - 3
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: three dogs
+  prompt_idx: 22
+- counts:
+  - 4
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: four dogs
+  prompt_idx: 23
+- counts:
+  - 5
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: five dogs
+  prompt_idx: 24
+- counts:
+  - 6
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: six dogs
+  prompt_idx: 25
+- counts:
+  - 7
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: seven dogs
+  prompt_idx: 26
+- counts:
+  - 8
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: eight dogs
+  prompt_idx: 27
+- counts:
+  - 9
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: nine dogs
+  prompt_idx: 28
+- counts:
+  - 10
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: ten dogs
+  prompt_idx: 29
+- counts:
+  - 11
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: eleven dogs
+  prompt_idx: 30
+- counts:
+  - 12
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: twelve dogs
+  prompt_idx: 31
+- counts:
+  - 13
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: thirteen dogs
+  prompt_idx: 32
+- counts:
+  - 14
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: fourteen dogs
+  prompt_idx: 33
+- counts:
+  - 15
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: fifteen dogs
+  prompt_idx: 34
+- counts:
+  - 16
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: sixteen dogs
+  prompt_idx: 35
+- counts:
+  - 17
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: seventeen dogs
+  prompt_idx: 36
+- counts:
+  - 18
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: eighteen dogs
+  prompt_idx: 37
+- counts:
+  - 19
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: nineteen dogs
+  prompt_idx: 38
+- counts:
+  - 20
+  objs:
+  - dogs
+  objs_singular:
+  - dog
+  prompt: twenty dogs
+  prompt_idx: 39
+- counts:
+  - 1
+  objs:
+  - bird
+  objs_singular:
+  - bird
+  prompt: one bird
+  prompt_idx: 40
+- counts:
+  - 2
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: two birds
+  prompt_idx: 41
+- counts:
+  - 3
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: three birds
+  prompt_idx: 42
+- counts:
+  - 4
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: four birds
+  prompt_idx: 43
+- counts:
+  - 5
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: five birds
+  prompt_idx: 44
+- counts:
+  - 6
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: six birds
+  prompt_idx: 45
+- counts:
+  - 7
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: seven birds
+  prompt_idx: 46
+- counts:
+  - 8
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: eight birds
+  prompt_idx: 47
+- counts:
+  - 9
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: nine birds
+  prompt_idx: 48
+- counts:
+  - 10
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: ten birds
+  prompt_idx: 49
+- counts:
+  - 11
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: eleven birds
+  prompt_idx: 50
+- counts:
+  - 12
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: twelve birds
+  prompt_idx: 51
+- counts:
+  - 13
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: thirteen birds
+  prompt_idx: 52
+- counts:
+  - 14
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: fourteen birds
+  prompt_idx: 53
+- counts:
+  - 15
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: fifteen birds
+  prompt_idx: 54
+- counts:
+  - 16
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: sixteen birds
+  prompt_idx: 55
+- counts:
+  - 17
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: seventeen birds
+  prompt_idx: 56
+- counts:
+  - 18
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: eighteen birds
+  prompt_idx: 57
+- counts:
+  - 19
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: nineteen birds
+  prompt_idx: 58
+- counts:
+  - 20
+  objs:
+  - birds
+  objs_singular:
+  - bird
+  prompt: twenty birds
+  prompt_idx: 59
+- counts:
+  - 1
+  objs:
+  - bear
+  objs_singular:
+  - bear
+  prompt: one bear
+  prompt_idx: 60
+- counts:
+  - 2
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: two bears
+  prompt_idx: 61
+- counts:
+  - 3
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: three bears
+  prompt_idx: 62
+- counts:
+  - 4
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: four bears
+  prompt_idx: 63
+- counts:
+  - 5
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: five bears
+  prompt_idx: 64
+- counts:
+  - 6
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: six bears
+  prompt_idx: 65
+- counts:
+  - 7
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: seven bears
+  prompt_idx: 66
+- counts:
+  - 8
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: eight bears
+  prompt_idx: 67
+- counts:
+  - 9
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: nine bears
+  prompt_idx: 68
+- counts:
+  - 10
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: ten bears
+  prompt_idx: 69
+- counts:
+  - 11
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: eleven bears
+  prompt_idx: 70
+- counts:
+  - 12
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: twelve bears
+  prompt_idx: 71
+- counts:
+  - 13
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: thirteen bears
+  prompt_idx: 72
+- counts:
+  - 14
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: fourteen bears
+  prompt_idx: 73
+- counts:
+  - 15
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: fifteen bears
+  prompt_idx: 74
+- counts:
+  - 16
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: sixteen bears
+  prompt_idx: 75
+- counts:
+  - 17
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: seventeen bears
+  prompt_idx: 76
+- counts:
+  - 18
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: eighteen bears
+  prompt_idx: 77
+- counts:
+  - 19
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: nineteen bears
+  prompt_idx: 78
+- counts:
+  - 20
+  objs:
+  - bears
+  objs_singular:
+  - bear
+  prompt: twenty bears
+  prompt_idx: 79
+- counts:
+  - 1
+  objs:
+  - lion
+  objs_singular:
+  - lion
+  prompt: one lion
+  prompt_idx: 80
+- counts:
+  - 2
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: two lions
+  prompt_idx: 81
+- counts:
+  - 3
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: three lions
+  prompt_idx: 82
+- counts:
+  - 4
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: four lions
+  prompt_idx: 83
+- counts:
+  - 5
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: five lions
+  prompt_idx: 84
+- counts:
+  - 6
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: six lions
+  prompt_idx: 85
+- counts:
+  - 7
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: seven lions
+  prompt_idx: 86
+- counts:
+  - 8
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: eight lions
+  prompt_idx: 87
+- counts:
+  - 9
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: nine lions
+  prompt_idx: 88
+- counts:
+  - 10
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: ten lions
+  prompt_idx: 89
+- counts:
+  - 11
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: eleven lions
+  prompt_idx: 90
+- counts:
+  - 12
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: twelve lions
+  prompt_idx: 91
+- counts:
+  - 13
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: thirteen lions
+  prompt_idx: 92
+- counts:
+  - 14
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: fourteen lions
+  prompt_idx: 93
+- counts:
+  - 15
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: fifteen lions
+  prompt_idx: 94
+- counts:
+  - 16
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: sixteen lions
+  prompt_idx: 95
+- counts:
+  - 17
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: seventeen lions
+  prompt_idx: 96
+- counts:
+  - 18
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: eighteen lions
+  prompt_idx: 97
+- counts:
+  - 19
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: nineteen lions
+  prompt_idx: 98
+- counts:
+  - 20
+  objs:
+  - lions
+  objs_singular:
+  - lion
+  prompt: twenty lions
+  prompt_idx: 99
+- counts:
+  - 1
+  objs:
+  - horse
+  objs_singular:
+  - horse
+  prompt: one horse
+  prompt_idx: 100
+- counts:
+  - 2
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: two horses
+  prompt_idx: 101
+- counts:
+  - 3
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: three horses
+  prompt_idx: 102
+- counts:
+  - 4
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: four horses
+  prompt_idx: 103
+- counts:
+  - 5
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: five horses
+  prompt_idx: 104
+- counts:
+  - 6
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: six horses
+  prompt_idx: 105
+- counts:
+  - 7
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: seven horses
+  prompt_idx: 106
+- counts:
+  - 8
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: eight horses
+  prompt_idx: 107
+- counts:
+  - 9
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: nine horses
+  prompt_idx: 108
+- counts:
+  - 10
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: ten horses
+  prompt_idx: 109
+- counts:
+  - 11
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: eleven horses
+  prompt_idx: 110
+- counts:
+  - 12
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: twelve horses
+  prompt_idx: 111
+- counts:
+  - 13
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: thirteen horses
+  prompt_idx: 112
+- counts:
+  - 14
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: fourteen horses
+  prompt_idx: 113
+- counts:
+  - 15
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: fifteen horses
+  prompt_idx: 114
+- counts:
+  - 16
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: sixteen horses
+  prompt_idx: 115
+- counts:
+  - 17
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: seventeen horses
+  prompt_idx: 116
+- counts:
+  - 18
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: eighteen horses
+  prompt_idx: 117
+- counts:
+  - 19
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: nineteen horses
+  prompt_idx: 118
+- counts:
+  - 20
+  objs:
+  - horses
+  objs_singular:
+  - horse
+  prompt: twenty horses
+  prompt_idx: 119
+- counts:
+  - 1
+  objs:
+  - elephant
+  objs_singular:
+  - elephant
+  prompt: one elephant
+  prompt_idx: 120
+- counts:
+  - 2
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: two elephants
+  prompt_idx: 121
+- counts:
+  - 3
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: three elephants
+  prompt_idx: 122
+- counts:
+  - 4
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: four elephants
+  prompt_idx: 123
+- counts:
+  - 5
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: five elephants
+  prompt_idx: 124
+- counts:
+  - 6
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: six elephants
+  prompt_idx: 125
+- counts:
+  - 7
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: seven elephants
+  prompt_idx: 126
+- counts:
+  - 8
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: eight elephants
+  prompt_idx: 127
+- counts:
+  - 9
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: nine elephants
+  prompt_idx: 128
+- counts:
+  - 10
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: ten elephants
+  prompt_idx: 129
+- counts:
+  - 11
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: eleven elephants
+  prompt_idx: 130
+- counts:
+  - 12
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: twelve elephants
+  prompt_idx: 131
+- counts:
+  - 13
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: thirteen elephants
+  prompt_idx: 132
+- counts:
+  - 14
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: fourteen elephants
+  prompt_idx: 133
+- counts:
+  - 15
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: fifteen elephants
+  prompt_idx: 134
+- counts:
+  - 16
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: sixteen elephants
+  prompt_idx: 135
+- counts:
+  - 17
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: seventeen elephants
+  prompt_idx: 136
+- counts:
+  - 18
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: eighteen elephants
+  prompt_idx: 137
+- counts:
+  - 19
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: nineteen elephants
+  prompt_idx: 138
+- counts:
+  - 20
+  objs:
+  - elephants
+  objs_singular:
+  - elephant
+  prompt: twenty elephants
+  prompt_idx: 139
+- counts:
+  - 1
+  objs:
+  - monkey
+  objs_singular:
+  - monkey
+  prompt: one monkey
+  prompt_idx: 140
+- counts:
+  - 2
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: two monkeys
+  prompt_idx: 141
+- counts:
+  - 3
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: three monkeys
+  prompt_idx: 142
+- counts:
+  - 4
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: four monkeys
+  prompt_idx: 143
+- counts:
+  - 5
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: five monkeys
+  prompt_idx: 144
+- counts:
+  - 6
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: six monkeys
+  prompt_idx: 145
+- counts:
+  - 7
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: seven monkeys
+  prompt_idx: 146
+- counts:
+  - 8
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: eight monkeys
+  prompt_idx: 147
+- counts:
+  - 9
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: nine monkeys
+  prompt_idx: 148
+- counts:
+  - 10
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: ten monkeys
+  prompt_idx: 149
+- counts:
+  - 11
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: eleven monkeys
+  prompt_idx: 150
+- counts:
+  - 12
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: twelve monkeys
+  prompt_idx: 151
+- counts:
+  - 13
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: thirteen monkeys
+  prompt_idx: 152
+- counts:
+  - 14
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: fourteen monkeys
+  prompt_idx: 153
+- counts:
+  - 15
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: fifteen monkeys
+  prompt_idx: 154
+- counts:
+  - 16
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: sixteen monkeys
+  prompt_idx: 155
+- counts:
+  - 17
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: seventeen monkeys
+  prompt_idx: 156
+- counts:
+  - 18
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: eighteen monkeys
+  prompt_idx: 157
+- counts:
+  - 19
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: nineteen monkeys
+  prompt_idx: 158
+- counts:
+  - 20
+  objs:
+  - monkeys
+  objs_singular:
+  - monkey
+  prompt: twenty monkeys
+  prompt_idx: 159
+- counts:
+  - 1
+  objs:
+  - frog
+  objs_singular:
+  - frog
+  prompt: one frog
+  prompt_idx: 160
+- counts:
+  - 2
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: two frogs
+  prompt_idx: 161
+- counts:
+  - 3
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: three frogs
+  prompt_idx: 162
+- counts:
+  - 4
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: four frogs
+  prompt_idx: 163
+- counts:
+  - 5
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: five frogs
+  prompt_idx: 164
+- counts:
+  - 6
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: six frogs
+  prompt_idx: 165
+- counts:
+  - 7
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: seven frogs
+  prompt_idx: 166
+- counts:
+  - 8
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: eight frogs
+  prompt_idx: 167
+- counts:
+  - 9
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: nine frogs
+  prompt_idx: 168
+- counts:
+  - 10
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: ten frogs
+  prompt_idx: 169
+- counts:
+  - 11
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: eleven frogs
+  prompt_idx: 170
+- counts:
+  - 12
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: twelve frogs
+  prompt_idx: 171
+- counts:
+  - 13
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: thirteen frogs
+  prompt_idx: 172
+- counts:
+  - 14
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: fourteen frogs
+  prompt_idx: 173
+- counts:
+  - 15
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: fifteen frogs
+  prompt_idx: 174
+- counts:
+  - 16
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: sixteen frogs
+  prompt_idx: 175
+- counts:
+  - 17
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: seventeen frogs
+  prompt_idx: 176
+- counts:
+  - 18
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: eighteen frogs
+  prompt_idx: 177
+- counts:
+  - 19
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: nineteen frogs
+  prompt_idx: 178
+- counts:
+  - 20
+  objs:
+  - frogs
+  objs_singular:
+  - frog
+  prompt: twenty frogs
+  prompt_idx: 179
+- counts:
+  - 1
+  objs:
+  - turtle
+  objs_singular:
+  - turtle
+  prompt: one turtle
+  prompt_idx: 180
+- counts:
+  - 2
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: two turtles
+  prompt_idx: 181
+- counts:
+  - 3
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: three turtles
+  prompt_idx: 182
+- counts:
+  - 4
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: four turtles
+  prompt_idx: 183
+- counts:
+  - 5
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: five turtles
+  prompt_idx: 184
+- counts:
+  - 6
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: six turtles
+  prompt_idx: 185
+- counts:
+  - 7
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: seven turtles
+  prompt_idx: 186
+- counts:
+  - 8
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: eight turtles
+  prompt_idx: 187
+- counts:
+  - 9
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: nine turtles
+  prompt_idx: 188
+- counts:
+  - 10
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: ten turtles
+  prompt_idx: 189
+- counts:
+  - 11
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: eleven turtles
+  prompt_idx: 190
+- counts:
+  - 12
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: twelve turtles
+  prompt_idx: 191
+- counts:
+  - 13
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: thirteen turtles
+  prompt_idx: 192
+- counts:
+  - 14
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: fourteen turtles
+  prompt_idx: 193
+- counts:
+  - 15
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: fifteen turtles
+  prompt_idx: 194
+- counts:
+  - 16
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: sixteen turtles
+  prompt_idx: 195
+- counts:
+  - 17
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: seventeen turtles
+  prompt_idx: 196
+- counts:
+  - 18
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: eighteen turtles
+  prompt_idx: 197
+- counts:
+  - 19
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: nineteen turtles
+  prompt_idx: 198
+- counts:
+  - 20
+  objs:
+  - turtles
+  objs_singular:
+  - turtle
+  prompt: twenty turtles
+  prompt_idx: 199
+- counts:
+  - 1
+  objs:
+  - rabbit
+  objs_singular:
+  - rabbit
+  prompt: one rabbit
+  prompt_idx: 200
+- counts:
+  - 2
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: two rabbits
+  prompt_idx: 201
+- counts:
+  - 3
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: three rabbits
+  prompt_idx: 202
+- counts:
+  - 4
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: four rabbits
+  prompt_idx: 203
+- counts:
+  - 5
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: five rabbits
+  prompt_idx: 204
+- counts:
+  - 6
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: six rabbits
+  prompt_idx: 205
+- counts:
+  - 7
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: seven rabbits
+  prompt_idx: 206
+- counts:
+  - 8
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: eight rabbits
+  prompt_idx: 207
+- counts:
+  - 9
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: nine rabbits
+  prompt_idx: 208
+- counts:
+  - 10
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: ten rabbits
+  prompt_idx: 209
+- counts:
+  - 11
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: eleven rabbits
+  prompt_idx: 210
+- counts:
+  - 12
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: twelve rabbits
+  prompt_idx: 211
+- counts:
+  - 13
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: thirteen rabbits
+  prompt_idx: 212
+- counts:
+  - 14
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: fourteen rabbits
+  prompt_idx: 213
+- counts:
+  - 15
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: fifteen rabbits
+  prompt_idx: 214
+- counts:
+  - 16
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: sixteen rabbits
+  prompt_idx: 215
+- counts:
+  - 17
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: seventeen rabbits
+  prompt_idx: 216
+- counts:
+  - 18
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: eighteen rabbits
+  prompt_idx: 217
+- counts:
+  - 19
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: nineteen rabbits
+  prompt_idx: 218
+- counts:
+  - 20
+  objs:
+  - rabbits
+  objs_singular:
+  - rabbit
+  prompt: twenty rabbits
+  prompt_idx: 219
+- counts:
+  - 1
+  objs:
+  - mouse
+  objs_singular:
+  - mouse
+  prompt: one mouse
+  prompt_idx: 220
+- counts:
+  - 2
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: two mice
+  prompt_idx: 221
+- counts:
+  - 3
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: three mice
+  prompt_idx: 222
+- counts:
+  - 4
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: four mice
+  prompt_idx: 223
+- counts:
+  - 5
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: five mice
+  prompt_idx: 224
+- counts:
+  - 6
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: six mice
+  prompt_idx: 225
+- counts:
+  - 7
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: seven mice
+  prompt_idx: 226
+- counts:
+  - 8
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: eight mice
+  prompt_idx: 227
+- counts:
+  - 9
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: nine mice
+  prompt_idx: 228
+- counts:
+  - 10
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: ten mice
+  prompt_idx: 229
+- counts:
+  - 11
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: eleven mice
+  prompt_idx: 230
+- counts:
+  - 12
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: twelve mice
+  prompt_idx: 231
+- counts:
+  - 13
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: thirteen mice
+  prompt_idx: 232
+- counts:
+  - 14
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: fourteen mice
+  prompt_idx: 233
+- counts:
+  - 15
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: fifteen mice
+  prompt_idx: 234
+- counts:
+  - 16
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: sixteen mice
+  prompt_idx: 235
+- counts:
+  - 17
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: seventeen mice
+  prompt_idx: 236
+- counts:
+  - 18
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: eighteen mice
+  prompt_idx: 237
+- counts:
+  - 19
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: nineteen mice
+  prompt_idx: 238
+- counts:
+  - 20
+  objs:
+  - mice
+  objs_singular:
+  - mouse
+  prompt: twenty mice
+  prompt_idx: 239
+- counts:
+  - 1
+  objs:
+  - backpack
+  objs_singular:
+  - backpack
+  prompt: one backpack
+  prompt_idx: 240
+- counts:
+  - 2
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: two backpacks
+  prompt_idx: 241
+- counts:
+  - 3
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: three backpacks
+  prompt_idx: 242
+- counts:
+  - 4
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: four backpacks
+  prompt_idx: 243
+- counts:
+  - 5
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: five backpacks
+  prompt_idx: 244
+- counts:
+  - 6
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: six backpacks
+  prompt_idx: 245
+- counts:
+  - 7
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: seven backpacks
+  prompt_idx: 246
+- counts:
+  - 8
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: eight backpacks
+  prompt_idx: 247
+- counts:
+  - 9
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: nine backpacks
+  prompt_idx: 248
+- counts:
+  - 10
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: ten backpacks
+  prompt_idx: 249
+- counts:
+  - 11
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: eleven backpacks
+  prompt_idx: 250
+- counts:
+  - 12
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: twelve backpacks
+  prompt_idx: 251
+- counts:
+  - 13
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: thirteen backpacks
+  prompt_idx: 252
+- counts:
+  - 14
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: fourteen backpacks
+  prompt_idx: 253
+- counts:
+  - 15
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: fifteen backpacks
+  prompt_idx: 254
+- counts:
+  - 16
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: sixteen backpacks
+  prompt_idx: 255
+- counts:
+  - 17
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: seventeen backpacks
+  prompt_idx: 256
+- counts:
+  - 18
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: eighteen backpacks
+  prompt_idx: 257
+- counts:
+  - 19
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: nineteen backpacks
+  prompt_idx: 258
+- counts:
+  - 20
+  objs:
+  - backpacks
+  objs_singular:
+  - backpack
+  prompt: twenty backpacks
+  prompt_idx: 259
+- counts:
+  - 1
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: one glasses
+  prompt_idx: 260
+- counts:
+  - 2
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: two glasses
+  prompt_idx: 261
+- counts:
+  - 3
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: three glasses
+  prompt_idx: 262
+- counts:
+  - 4
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: four glasses
+  prompt_idx: 263
+- counts:
+  - 5
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: five glasses
+  prompt_idx: 264
+- counts:
+  - 6
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: six glasses
+  prompt_idx: 265
+- counts:
+  - 7
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: seven glasses
+  prompt_idx: 266
+- counts:
+  - 8
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: eight glasses
+  prompt_idx: 267
+- counts:
+  - 9
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: nine glasses
+  prompt_idx: 268
+- counts:
+  - 10
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: ten glasses
+  prompt_idx: 269
+- counts:
+  - 11
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: eleven glasses
+  prompt_idx: 270
+- counts:
+  - 12
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: twelve glasses
+  prompt_idx: 271
+- counts:
+  - 13
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: thirteen glasses
+  prompt_idx: 272
+- counts:
+  - 14
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: fourteen glasses
+  prompt_idx: 273
+- counts:
+  - 15
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: fifteen glasses
+  prompt_idx: 274
+- counts:
+  - 16
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: sixteen glasses
+  prompt_idx: 275
+- counts:
+  - 17
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: seventeen glasses
+  prompt_idx: 276
+- counts:
+  - 18
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: eighteen glasses
+  prompt_idx: 277
+- counts:
+  - 19
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: nineteen glasses
+  prompt_idx: 278
+- counts:
+  - 20
+  objs:
+  - glasses
+  objs_singular:
+  - glasses
+  prompt: twenty glasses
+  prompt_idx: 279
+- counts:
+  - 1
+  objs:
+  - crown
+  objs_singular:
+  - crown
+  prompt: one crown
+  prompt_idx: 280
+- counts:
+  - 2
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: two crowns
+  prompt_idx: 281
+- counts:
+  - 3
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: three crowns
+  prompt_idx: 282
+- counts:
+  - 4
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: four crowns
+  prompt_idx: 283
+- counts:
+  - 5
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: five crowns
+  prompt_idx: 284
+- counts:
+  - 6
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: six crowns
+  prompt_idx: 285
+- counts:
+  - 7
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: seven crowns
+  prompt_idx: 286
+- counts:
+  - 8
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: eight crowns
+  prompt_idx: 287
+- counts:
+  - 9
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: nine crowns
+  prompt_idx: 288
+- counts:
+  - 10
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: ten crowns
+  prompt_idx: 289
+- counts:
+  - 11
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: eleven crowns
+  prompt_idx: 290
+- counts:
+  - 12
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: twelve crowns
+  prompt_idx: 291
+- counts:
+  - 13
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: thirteen crowns
+  prompt_idx: 292
+- counts:
+  - 14
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: fourteen crowns
+  prompt_idx: 293
+- counts:
+  - 15
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: fifteen crowns
+  prompt_idx: 294
+- counts:
+  - 16
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: sixteen crowns
+  prompt_idx: 295
+- counts:
+  - 17
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: seventeen crowns
+  prompt_idx: 296
+- counts:
+  - 18
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: eighteen crowns
+  prompt_idx: 297
+- counts:
+  - 19
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: nineteen crowns
+  prompt_idx: 298
+- counts:
+  - 20
+  objs:
+  - crowns
+  objs_singular:
+  - crown
+  prompt: twenty crowns
+  prompt_idx: 299
+- counts:
+  - 1
+  objs:
+  - suitcase
+  objs_singular:
+  - suitcase
+  prompt: one suitcase
+  prompt_idx: 300
+- counts:
+  - 2
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: two suitcases
+  prompt_idx: 301
+- counts:
+  - 3
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: three suitcases
+  prompt_idx: 302
+- counts:
+  - 4
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: four suitcases
+  prompt_idx: 303
+- counts:
+  - 5
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: five suitcases
+  prompt_idx: 304
+- counts:
+  - 6
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: six suitcases
+  prompt_idx: 305
+- counts:
+  - 7
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: seven suitcases
+  prompt_idx: 306
+- counts:
+  - 8
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: eight suitcases
+  prompt_idx: 307
+- counts:
+  - 9
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: nine suitcases
+  prompt_idx: 308
+- counts:
+  - 10
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: ten suitcases
+  prompt_idx: 309
+- counts:
+  - 11
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: eleven suitcases
+  prompt_idx: 310
+- counts:
+  - 12
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: twelve suitcases
+  prompt_idx: 311
+- counts:
+  - 13
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: thirteen suitcases
+  prompt_idx: 312
+- counts:
+  - 14
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: fourteen suitcases
+  prompt_idx: 313
+- counts:
+  - 15
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: fifteen suitcases
+  prompt_idx: 314
+- counts:
+  - 16
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: sixteen suitcases
+  prompt_idx: 315
+- counts:
+  - 17
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: seventeen suitcases
+  prompt_idx: 316
+- counts:
+  - 18
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: eighteen suitcases
+  prompt_idx: 317
+- counts:
+  - 19
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: nineteen suitcases
+  prompt_idx: 318
+- counts:
+  - 20
+  objs:
+  - suitcases
+  objs_singular:
+  - suitcase
+  prompt: twenty suitcases
+  prompt_idx: 319
+- counts:
+  - 1
+  objs:
+  - chair
+  objs_singular:
+  - chair
+  prompt: one chair
+  prompt_idx: 320
+- counts:
+  - 2
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: two chairs
+  prompt_idx: 321
+- counts:
+  - 3
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: three chairs
+  prompt_idx: 322
+- counts:
+  - 4
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: four chairs
+  prompt_idx: 323
+- counts:
+  - 5
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: five chairs
+  prompt_idx: 324
+- counts:
+  - 6
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: six chairs
+  prompt_idx: 325
+- counts:
+  - 7
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: seven chairs
+  prompt_idx: 326
+- counts:
+  - 8
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: eight chairs
+  prompt_idx: 327
+- counts:
+  - 9
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: nine chairs
+  prompt_idx: 328
+- counts:
+  - 10
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: ten chairs
+  prompt_idx: 329
+- counts:
+  - 11
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: eleven chairs
+  prompt_idx: 330
+- counts:
+  - 12
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: twelve chairs
+  prompt_idx: 331
+- counts:
+  - 13
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: thirteen chairs
+  prompt_idx: 332
+- counts:
+  - 14
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: fourteen chairs
+  prompt_idx: 333
+- counts:
+  - 15
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: fifteen chairs
+  prompt_idx: 334
+- counts:
+  - 16
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: sixteen chairs
+  prompt_idx: 335
+- counts:
+  - 17
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: seventeen chairs
+  prompt_idx: 336
+- counts:
+  - 18
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: eighteen chairs
+  prompt_idx: 337
+- counts:
+  - 19
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: nineteen chairs
+  prompt_idx: 338
+- counts:
+  - 20
+  objs:
+  - chairs
+  objs_singular:
+  - chair
+  prompt: twenty chairs
+  prompt_idx: 339
+- counts:
+  - 1
+  objs:
+  - balloon
+  objs_singular:
+  - balloon
+  prompt: one balloon
+  prompt_idx: 340
+- counts:
+  - 2
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: two balloons
+  prompt_idx: 341
+- counts:
+  - 3
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: three balloons
+  prompt_idx: 342
+- counts:
+  - 4
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: four balloons
+  prompt_idx: 343
+- counts:
+  - 5
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: five balloons
+  prompt_idx: 344
+- counts:
+  - 6
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: six balloons
+  prompt_idx: 345
+- counts:
+  - 7
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: seven balloons
+  prompt_idx: 346
+- counts:
+  - 8
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: eight balloons
+  prompt_idx: 347
+- counts:
+  - 9
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: nine balloons
+  prompt_idx: 348
+- counts:
+  - 10
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: ten balloons
+  prompt_idx: 349
+- counts:
+  - 11
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: eleven balloons
+  prompt_idx: 350
+- counts:
+  - 12
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: twelve balloons
+  prompt_idx: 351
+- counts:
+  - 13
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: thirteen balloons
+  prompt_idx: 352
+- counts:
+  - 14
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: fourteen balloons
+  prompt_idx: 353
+- counts:
+  - 15
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: fifteen balloons
+  prompt_idx: 354
+- counts:
+  - 16
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: sixteen balloons
+  prompt_idx: 355
+- counts:
+  - 17
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: seventeen balloons
+  prompt_idx: 356
+- counts:
+  - 18
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: eighteen balloons
+  prompt_idx: 357
+- counts:
+  - 19
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: nineteen balloons
+  prompt_idx: 358
+- counts:
+  - 20
+  objs:
+  - balloons
+  objs_singular:
+  - balloon
+  prompt: twenty balloons
+  prompt_idx: 359
+- counts:
+  - 1
+  objs:
+  - bow
+  objs_singular:
+  - bow
+  prompt: one bow
+  prompt_idx: 360
+- counts:
+  - 2
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: two bows
+  prompt_idx: 361
+- counts:
+  - 3
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: three bows
+  prompt_idx: 362
+- counts:
+  - 4
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: four bows
+  prompt_idx: 363
+- counts:
+  - 5
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: five bows
+  prompt_idx: 364
+- counts:
+  - 6
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: six bows
+  prompt_idx: 365
+- counts:
+  - 7
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: seven bows
+  prompt_idx: 366
+- counts:
+  - 8
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: eight bows
+  prompt_idx: 367
+- counts:
+  - 9
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: nine bows
+  prompt_idx: 368
+- counts:
+  - 10
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: ten bows
+  prompt_idx: 369
+- counts:
+  - 11
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: eleven bows
+  prompt_idx: 370
+- counts:
+  - 12
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: twelve bows
+  prompt_idx: 371
+- counts:
+  - 13
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: thirteen bows
+  prompt_idx: 372
+- counts:
+  - 14
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: fourteen bows
+  prompt_idx: 373
+- counts:
+  - 15
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: fifteen bows
+  prompt_idx: 374
+- counts:
+  - 16
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: sixteen bows
+  prompt_idx: 375
+- counts:
+  - 17
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: seventeen bows
+  prompt_idx: 376
+- counts:
+  - 18
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: eighteen bows
+  prompt_idx: 377
+- counts:
+  - 19
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: nineteen bows
+  prompt_idx: 378
+- counts:
+  - 20
+  objs:
+  - bows
+  objs_singular:
+  - bow
+  prompt: twenty bows
+  prompt_idx: 379
+- counts:
+  - 1
+  objs:
+  - car
+  objs_singular:
+  - car
+  prompt: one car
+  prompt_idx: 380
+- counts:
+  - 2
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: two cars
+  prompt_idx: 381
+- counts:
+  - 3
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: three cars
+  prompt_idx: 382
+- counts:
+  - 4
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: four cars
+  prompt_idx: 383
+- counts:
+  - 5
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: five cars
+  prompt_idx: 384
+- counts:
+  - 6
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: six cars
+  prompt_idx: 385
+- counts:
+  - 7
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: seven cars
+  prompt_idx: 386
+- counts:
+  - 8
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: eight cars
+  prompt_idx: 387
+- counts:
+  - 9
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: nine cars
+  prompt_idx: 388
+- counts:
+  - 10
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: ten cars
+  prompt_idx: 389
+- counts:
+  - 11
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: eleven cars
+  prompt_idx: 390
+- counts:
+  - 12
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: twelve cars
+  prompt_idx: 391
+- counts:
+  - 13
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: thirteen cars
+  prompt_idx: 392
+- counts:
+  - 14
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: fourteen cars
+  prompt_idx: 393
+- counts:
+  - 15
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: fifteen cars
+  prompt_idx: 394
+- counts:
+  - 16
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: sixteen cars
+  prompt_idx: 395
+- counts:
+  - 17
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: seventeen cars
+  prompt_idx: 396
+- counts:
+  - 18
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: eighteen cars
+  prompt_idx: 397
+- counts:
+  - 19
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: nineteen cars
+  prompt_idx: 398
+- counts:
+  - 20
+  objs:
+  - cars
+  objs_singular:
+  - car
+  prompt: twenty cars
+  prompt_idx: 399
+- counts:
+  - 1
+  objs:
+  - bowl
+  objs_singular:
+  - bowl
+  prompt: one bowl
+  prompt_idx: 400
+- counts:
+  - 2
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: two bowls
+  prompt_idx: 401
+- counts:
+  - 3
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: three bowls
+  prompt_idx: 402
+- counts:
+  - 4
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: four bowls
+  prompt_idx: 403
+- counts:
+  - 5
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: five bowls
+  prompt_idx: 404
+- counts:
+  - 6
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: six bowls
+  prompt_idx: 405
+- counts:
+  - 7
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: seven bowls
+  prompt_idx: 406
+- counts:
+  - 8
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: eight bowls
+  prompt_idx: 407
+- counts:
+  - 9
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: nine bowls
+  prompt_idx: 408
+- counts:
+  - 10
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: ten bowls
+  prompt_idx: 409
+- counts:
+  - 11
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: eleven bowls
+  prompt_idx: 410
+- counts:
+  - 12
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: twelve bowls
+  prompt_idx: 411
+- counts:
+  - 13
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: thirteen bowls
+  prompt_idx: 412
+- counts:
+  - 14
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: fourteen bowls
+  prompt_idx: 413
+- counts:
+  - 15
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: fifteen bowls
+  prompt_idx: 414
+- counts:
+  - 16
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: sixteen bowls
+  prompt_idx: 415
+- counts:
+  - 17
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: seventeen bowls
+  prompt_idx: 416
+- counts:
+  - 18
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: eighteen bowls
+  prompt_idx: 417
+- counts:
+  - 19
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: nineteen bowls
+  prompt_idx: 418
+- counts:
+  - 20
+  objs:
+  - bowls
+  objs_singular:
+  - bowl
+  prompt: twenty bowls
+  prompt_idx: 419
+- counts:
+  - 1
+  objs:
+  - bench
+  objs_singular:
+  - bench
+  prompt: one bench
+  prompt_idx: 420
+- counts:
+  - 2
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: two benches
+  prompt_idx: 421
+- counts:
+  - 3
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: three benches
+  prompt_idx: 422
+- counts:
+  - 4
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: four benches
+  prompt_idx: 423
+- counts:
+  - 5
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: five benches
+  prompt_idx: 424
+- counts:
+  - 6
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: six benches
+  prompt_idx: 425
+- counts:
+  - 7
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: seven benches
+  prompt_idx: 426
+- counts:
+  - 8
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: eight benches
+  prompt_idx: 427
+- counts:
+  - 9
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: nine benches
+  prompt_idx: 428
+- counts:
+  - 10
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: ten benches
+  prompt_idx: 429
+- counts:
+  - 11
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: eleven benches
+  prompt_idx: 430
+- counts:
+  - 12
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: twelve benches
+  prompt_idx: 431
+- counts:
+  - 13
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: thirteen benches
+  prompt_idx: 432
+- counts:
+  - 14
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: fourteen benches
+  prompt_idx: 433
+- counts:
+  - 15
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: fifteen benches
+  prompt_idx: 434
+- counts:
+  - 16
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: sixteen benches
+  prompt_idx: 435
+- counts:
+  - 17
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: seventeen benches
+  prompt_idx: 436
+- counts:
+  - 18
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: eighteen benches
+  prompt_idx: 437
+- counts:
+  - 19
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: nineteen benches
+  prompt_idx: 438
+- counts:
+  - 20
+  objs:
+  - benches
+  objs_singular:
+  - bench
+  prompt: twenty benches
+  prompt_idx: 439
+- counts:
+  - 1
+  objs:
+  - clock
+  objs_singular:
+  - clock
+  prompt: one clock
+  prompt_idx: 440
+- counts:
+  - 2
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: two clocks
+  prompt_idx: 441
+- counts:
+  - 3
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: three clocks
+  prompt_idx: 442
+- counts:
+  - 4
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: four clocks
+  prompt_idx: 443
+- counts:
+  - 5
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: five clocks
+  prompt_idx: 444
+- counts:
+  - 6
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: six clocks
+  prompt_idx: 445
+- counts:
+  - 7
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: seven clocks
+  prompt_idx: 446
+- counts:
+  - 8
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: eight clocks
+  prompt_idx: 447
+- counts:
+  - 9
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: nine clocks
+  prompt_idx: 448
+- counts:
+  - 10
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: ten clocks
+  prompt_idx: 449
+- counts:
+  - 11
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: eleven clocks
+  prompt_idx: 450
+- counts:
+  - 12
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: twelve clocks
+  prompt_idx: 451
+- counts:
+  - 13
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: thirteen clocks
+  prompt_idx: 452
+- counts:
+  - 14
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: fourteen clocks
+  prompt_idx: 453
+- counts:
+  - 15
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: fifteen clocks
+  prompt_idx: 454
+- counts:
+  - 16
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: sixteen clocks
+  prompt_idx: 455
+- counts:
+  - 17
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: seventeen clocks
+  prompt_idx: 456
+- counts:
+  - 18
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: eighteen clocks
+  prompt_idx: 457
+- counts:
+  - 19
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: nineteen clocks
+  prompt_idx: 458
+- counts:
+  - 20
+  objs:
+  - clocks
+  objs_singular:
+  - clock
+  prompt: twenty clocks
+  prompt_idx: 459
+- counts:
+  - 1
+  objs:
+  - apple
+  objs_singular:
+  - apple
+  prompt: one apple
+  prompt_idx: 460
+- counts:
+  - 2
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: two apples
+  prompt_idx: 461
+- counts:
+  - 3
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: three apples
+  prompt_idx: 462
+- counts:
+  - 4
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: four apples
+  prompt_idx: 463
+- counts:
+  - 5
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: five apples
+  prompt_idx: 464
+- counts:
+  - 6
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: six apples
+  prompt_idx: 465
+- counts:
+  - 7
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: seven apples
+  prompt_idx: 466
+- counts:
+  - 8
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: eight apples
+  prompt_idx: 467
+- counts:
+  - 9
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: nine apples
+  prompt_idx: 468
+- counts:
+  - 10
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: ten apples
+  prompt_idx: 469
+- counts:
+  - 11
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: eleven apples
+  prompt_idx: 470
+- counts:
+  - 12
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: twelve apples
+  prompt_idx: 471
+- counts:
+  - 13
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: thirteen apples
+  prompt_idx: 472
+- counts:
+  - 14
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: fourteen apples
+  prompt_idx: 473
+- counts:
+  - 15
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: fifteen apples
+  prompt_idx: 474
+- counts:
+  - 16
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: sixteen apples
+  prompt_idx: 475
+- counts:
+  - 17
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: seventeen apples
+  prompt_idx: 476
+- counts:
+  - 18
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: eighteen apples
+  prompt_idx: 477
+- counts:
+  - 19
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: nineteen apples
+  prompt_idx: 478
+- counts:
+  - 20
+  objs:
+  - apples
+  objs_singular:
+  - apple
+  prompt: twenty apples
+  prompt_idx: 479
+- counts:
+  - 1
+  objs:
+  - banana
+  objs_singular:
+  - banana
+  prompt: one banana
+  prompt_idx: 480
+- counts:
+  - 2
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: two bananas
+  prompt_idx: 481
+- counts:
+  - 3
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: three bananas
+  prompt_idx: 482
+- counts:
+  - 4
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: four bananas
+  prompt_idx: 483
+- counts:
+  - 5
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: five bananas
+  prompt_idx: 484
+- counts:
+  - 6
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: six bananas
+  prompt_idx: 485
+- counts:
+  - 7
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: seven bananas
+  prompt_idx: 486
+- counts:
+  - 8
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: eight bananas
+  prompt_idx: 487
+- counts:
+  - 9
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: nine bananas
+  prompt_idx: 488
+- counts:
+  - 10
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: ten bananas
+  prompt_idx: 489
+- counts:
+  - 11
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: eleven bananas
+  prompt_idx: 490
+- counts:
+  - 12
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: twelve bananas
+  prompt_idx: 491
+- counts:
+  - 13
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: thirteen bananas
+  prompt_idx: 492
+- counts:
+  - 14
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: fourteen bananas
+  prompt_idx: 493
+- counts:
+  - 15
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: fifteen bananas
+  prompt_idx: 494
+- counts:
+  - 16
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: sixteen bananas
+  prompt_idx: 495
+- counts:
+  - 17
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: seventeen bananas
+  prompt_idx: 496
+- counts:
+  - 18
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: eighteen bananas
+  prompt_idx: 497
+- counts:
+  - 19
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: nineteen bananas
+  prompt_idx: 498
+- counts:
+  - 20
+  objs:
+  - bananas
+  objs_singular:
+  - banana
+  prompt: twenty bananas
+  prompt_idx: 499
+- counts:
+  - 1
+  objs:
+  - donut
+  objs_singular:
+  - donut
+  prompt: one donut
+  prompt_idx: 500
+- counts:
+  - 2
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: two donuts
+  prompt_idx: 501
+- counts:
+  - 3
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: three donuts
+  prompt_idx: 502
+- counts:
+  - 4
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: four donuts
+  prompt_idx: 503
+- counts:
+  - 5
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: five donuts
+  prompt_idx: 504
+- counts:
+  - 6
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: six donuts
+  prompt_idx: 505
+- counts:
+  - 7
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: seven donuts
+  prompt_idx: 506
+- counts:
+  - 8
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: eight donuts
+  prompt_idx: 507
+- counts:
+  - 9
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: nine donuts
+  prompt_idx: 508
+- counts:
+  - 10
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: ten donuts
+  prompt_idx: 509
+- counts:
+  - 11
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: eleven donuts
+  prompt_idx: 510
+- counts:
+  - 12
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: twelve donuts
+  prompt_idx: 511
+- counts:
+  - 13
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: thirteen donuts
+  prompt_idx: 512
+- counts:
+  - 14
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: fourteen donuts
+  prompt_idx: 513
+- counts:
+  - 15
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: fifteen donuts
+  prompt_idx: 514
+- counts:
+  - 16
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: sixteen donuts
+  prompt_idx: 515
+- counts:
+  - 17
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: seventeen donuts
+  prompt_idx: 516
+- counts:
+  - 18
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: eighteen donuts
+  prompt_idx: 517
+- counts:
+  - 19
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: nineteen donuts
+  prompt_idx: 518
+- counts:
+  - 20
+  objs:
+  - donuts
+  objs_singular:
+  - donut
+  prompt: twenty donuts
+  prompt_idx: 519
+- counts:
+  - 1
+  objs:
+  - orange
+  objs_singular:
+  - orange
+  prompt: one orange
+  prompt_idx: 520
+- counts:
+  - 2
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: two oranges
+  prompt_idx: 521
+- counts:
+  - 3
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: three oranges
+  prompt_idx: 522
+- counts:
+  - 4
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: four oranges
+  prompt_idx: 523
+- counts:
+  - 5
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: five oranges
+  prompt_idx: 524
+- counts:
+  - 6
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: six oranges
+  prompt_idx: 525
+- counts:
+  - 7
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: seven oranges
+  prompt_idx: 526
+- counts:
+  - 8
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: eight oranges
+  prompt_idx: 527
+- counts:
+  - 9
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: nine oranges
+  prompt_idx: 528
+- counts:
+  - 10
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: ten oranges
+  prompt_idx: 529
+- counts:
+  - 11
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: eleven oranges
+  prompt_idx: 530
+- counts:
+  - 12
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: twelve oranges
+  prompt_idx: 531
+- counts:
+  - 13
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: thirteen oranges
+  prompt_idx: 532
+- counts:
+  - 14
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: fourteen oranges
+  prompt_idx: 533
+- counts:
+  - 15
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: fifteen oranges
+  prompt_idx: 534
+- counts:
+  - 16
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: sixteen oranges
+  prompt_idx: 535
+- counts:
+  - 17
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: seventeen oranges
+  prompt_idx: 536
+- counts:
+  - 18
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: eighteen oranges
+  prompt_idx: 537
+- counts:
+  - 19
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: nineteen oranges
+  prompt_idx: 538
+- counts:
+  - 20
+  objs:
+  - oranges
+  objs_singular:
+  - orange
+  prompt: twenty oranges
+  prompt_idx: 539
+- counts:
+  - 1
+  objs:
+  - egg
+  objs_singular:
+  - egg
+  prompt: one egg
+  prompt_idx: 540
+- counts:
+  - 2
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: two eggs
+  prompt_idx: 541
+- counts:
+  - 3
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: three eggs
+  prompt_idx: 542
+- counts:
+  - 4
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: four eggs
+  prompt_idx: 543
+- counts:
+  - 5
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: five eggs
+  prompt_idx: 544
+- counts:
+  - 6
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: six eggs
+  prompt_idx: 545
+- counts:
+  - 7
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: seven eggs
+  prompt_idx: 546
+- counts:
+  - 8
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: eight eggs
+  prompt_idx: 547
+- counts:
+  - 9
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: nine eggs
+  prompt_idx: 548
+- counts:
+  - 10
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: ten eggs
+  prompt_idx: 549
+- counts:
+  - 11
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: eleven eggs
+  prompt_idx: 550
+- counts:
+  - 12
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: twelve eggs
+  prompt_idx: 551
+- counts:
+  - 13
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: thirteen eggs
+  prompt_idx: 552
+- counts:
+  - 14
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: fourteen eggs
+  prompt_idx: 553
+- counts:
+  - 15
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: fifteen eggs
+  prompt_idx: 554
+- counts:
+  - 16
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: sixteen eggs
+  prompt_idx: 555
+- counts:
+  - 17
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: seventeen eggs
+  prompt_idx: 556
+- counts:
+  - 18
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: eighteen eggs
+  prompt_idx: 557
+- counts:
+  - 19
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: nineteen eggs
+  prompt_idx: 558
+- counts:
+  - 20
+  objs:
+  - eggs
+  objs_singular:
+  - egg
+  prompt: twenty eggs
+  prompt_idx: 559
+- counts:
+  - 1
+  objs:
+  - tomato
+  objs_singular:
+  - tomato
+  prompt: one tomato
+  prompt_idx: 560
+- counts:
+  - 2
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: two tomatoes
+  prompt_idx: 561
+- counts:
+  - 3
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: three tomatoes
+  prompt_idx: 562
+- counts:
+  - 4
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: four tomatoes
+  prompt_idx: 563
+- counts:
+  - 5
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: five tomatoes
+  prompt_idx: 564
+- counts:
+  - 6
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: six tomatoes
+  prompt_idx: 565
+- counts:
+  - 7
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: seven tomatoes
+  prompt_idx: 566
+- counts:
+  - 8
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: eight tomatoes
+  prompt_idx: 567
+- counts:
+  - 9
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: nine tomatoes
+  prompt_idx: 568
+- counts:
+  - 10
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: ten tomatoes
+  prompt_idx: 569
+- counts:
+  - 11
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: eleven tomatoes
+  prompt_idx: 570
+- counts:
+  - 12
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: twelve tomatoes
+  prompt_idx: 571
+- counts:
+  - 13
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: thirteen tomatoes
+  prompt_idx: 572
+- counts:
+  - 14
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: fourteen tomatoes
+  prompt_idx: 573
+- counts:
+  - 15
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: fifteen tomatoes
+  prompt_idx: 574
+- counts:
+  - 16
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: sixteen tomatoes
+  prompt_idx: 575
+- counts:
+  - 17
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: seventeen tomatoes
+  prompt_idx: 576
+- counts:
+  - 18
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: eighteen tomatoes
+  prompt_idx: 577
+- counts:
+  - 19
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: nineteen tomatoes
+  prompt_idx: 578
+- counts:
+  - 20
+  objs:
+  - tomatoes
+  objs_singular:
+  - tomato
+  prompt: twenty tomatoes
+  prompt_idx: 579
+- counts:
+  - 1
+  objs:
+  - macaron
+  objs_singular:
+  - macaron
+  prompt: one macaron
+  prompt_idx: 580
+- counts:
+  - 2
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: two macarons
+  prompt_idx: 581
+- counts:
+  - 3
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: three macarons
+  prompt_idx: 582
+- counts:
+  - 4
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: four macarons
+  prompt_idx: 583
+- counts:
+  - 5
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: five macarons
+  prompt_idx: 584
+- counts:
+  - 6
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: six macarons
+  prompt_idx: 585
+- counts:
+  - 7
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: seven macarons
+  prompt_idx: 586
+- counts:
+  - 8
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: eight macarons
+  prompt_idx: 587
+- counts:
+  - 9
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: nine macarons
+  prompt_idx: 588
+- counts:
+  - 10
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: ten macarons
+  prompt_idx: 589
+- counts:
+  - 11
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: eleven macarons
+  prompt_idx: 590
+- counts:
+  - 12
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: twelve macarons
+  prompt_idx: 591
+- counts:
+  - 13
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: thirteen macarons
+  prompt_idx: 592
+- counts:
+  - 14
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: fourteen macarons
+  prompt_idx: 593
+- counts:
+  - 15
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: fifteen macarons
+  prompt_idx: 594
+- counts:
+  - 16
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: sixteen macarons
+  prompt_idx: 595
+- counts:
+  - 17
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: seventeen macarons
+  prompt_idx: 596
+- counts:
+  - 18
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: eighteen macarons
+  prompt_idx: 597
+- counts:
+  - 19
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: nineteen macarons
+  prompt_idx: 598
+- counts:
+  - 20
+  objs:
+  - macarons
+  objs_singular:
+  - macaron
+  prompt: twenty macarons
+  prompt_idx: 599
+- counts:
+  - 1
+  objs:
+  - chick
+  objs_singular:
+  - chick
+  prompt: one chick
+  prompt_idx: 600
+- counts:
+  - 2
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: two chicks
+  prompt_idx: 601
+- counts:
+  - 3
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: three chicks
+  prompt_idx: 602
+- counts:
+  - 4
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: four chicks
+  prompt_idx: 603
+- counts:
+  - 5
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: five chicks
+  prompt_idx: 604
+- counts:
+  - 6
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: six chicks
+  prompt_idx: 605
+- counts:
+  - 7
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: seven chicks
+  prompt_idx: 606
+- counts:
+  - 8
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: eight chicks
+  prompt_idx: 607
+- counts:
+  - 9
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: nine chicks
+  prompt_idx: 608
+- counts:
+  - 10
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: ten chicks
+  prompt_idx: 609
+- counts:
+  - 11
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: eleven chicks
+  prompt_idx: 610
+- counts:
+  - 12
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: twelve chicks
+  prompt_idx: 611
+- counts:
+  - 13
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: thirteen chicks
+  prompt_idx: 612
+- counts:
+  - 14
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: fourteen chicks
+  prompt_idx: 613
+- counts:
+  - 15
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: fifteen chicks
+  prompt_idx: 614
+- counts:
+  - 16
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: sixteen chicks
+  prompt_idx: 615
+- counts:
+  - 17
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: seventeen chicks
+  prompt_idx: 616
+- counts:
+  - 18
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: eighteen chicks
+  prompt_idx: 617
+- counts:
+  - 19
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: nineteen chicks
+  prompt_idx: 618
+- counts:
+  - 20
+  objs:
+  - chicks
+  objs_singular:
+  - chick
+  prompt: twenty chicks
+  prompt_idx: 619
+- counts:
+  - 1
+  objs:
+  - lemon
+  objs_singular:
+  - lemon
+  prompt: one lemon
+  prompt_idx: 620
+- counts:
+  - 2
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: two lemons
+  prompt_idx: 621
+- counts:
+  - 3
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: three lemons
+  prompt_idx: 622
+- counts:
+  - 4
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: four lemons
+  prompt_idx: 623
+- counts:
+  - 5
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: five lemons
+  prompt_idx: 624
+- counts:
+  - 6
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: six lemons
+  prompt_idx: 625
+- counts:
+  - 7
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: seven lemons
+  prompt_idx: 626
+- counts:
+  - 8
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: eight lemons
+  prompt_idx: 627
+- counts:
+  - 9
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: nine lemons
+  prompt_idx: 628
+- counts:
+  - 10
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: ten lemons
+  prompt_idx: 629
+- counts:
+  - 11
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: eleven lemons
+  prompt_idx: 630
+- counts:
+  - 12
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: twelve lemons
+  prompt_idx: 631
+- counts:
+  - 13
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: thirteen lemons
+  prompt_idx: 632
+- counts:
+  - 14
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: fourteen lemons
+  prompt_idx: 633
+- counts:
+  - 15
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: fifteen lemons
+  prompt_idx: 634
+- counts:
+  - 16
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: sixteen lemons
+  prompt_idx: 635
+- counts:
+  - 17
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: seventeen lemons
+  prompt_idx: 636
+- counts:
+  - 18
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: eighteen lemons
+  prompt_idx: 637
+- counts:
+  - 19
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: nineteen lemons
+  prompt_idx: 638
+- counts:
+  - 20
+  objs:
+  - lemons
+  objs_singular:
+  - lemon
+  prompt: twenty lemons
+  prompt_idx: 639
+- counts:
+  - 1
+  objs:
+  - bread
+  objs_singular:
+  - bread
+  prompt: one bread
+  prompt_idx: 640
+- counts:
+  - 2
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: two breads
+  prompt_idx: 641
+- counts:
+  - 3
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: three breads
+  prompt_idx: 642
+- counts:
+  - 4
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: four breads
+  prompt_idx: 643
+- counts:
+  - 5
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: five breads
+  prompt_idx: 644
+- counts:
+  - 6
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: six breads
+  prompt_idx: 645
+- counts:
+  - 7
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: seven breads
+  prompt_idx: 646
+- counts:
+  - 8
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: eight breads
+  prompt_idx: 647
+- counts:
+  - 9
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: nine breads
+  prompt_idx: 648
+- counts:
+  - 10
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: ten breads
+  prompt_idx: 649
+- counts:
+  - 11
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: eleven breads
+  prompt_idx: 650
+- counts:
+  - 12
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: twelve breads
+  prompt_idx: 651
+- counts:
+  - 13
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: thirteen breads
+  prompt_idx: 652
+- counts:
+  - 14
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: fourteen breads
+  prompt_idx: 653
+- counts:
+  - 15
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: fifteen breads
+  prompt_idx: 654
+- counts:
+  - 16
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: sixteen breads
+  prompt_idx: 655
+- counts:
+  - 17
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: seventeen breads
+  prompt_idx: 656
+- counts:
+  - 18
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: eighteen breads
+  prompt_idx: 657
+- counts:
+  - 19
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: nineteen breads
+  prompt_idx: 658
+- counts:
+  - 20
+  objs:
+  - breads
+  objs_singular:
+  - bread
+  prompt: twenty breads
+  prompt_idx: 659
+- counts:
+  - 1
+  objs:
+  - onion
+  objs_singular:
+  - onion
+  prompt: one onion
+  prompt_idx: 660
+- counts:
+  - 2
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: two onions
+  prompt_idx: 661
+- counts:
+  - 3
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: three onions
+  prompt_idx: 662
+- counts:
+  - 4
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: four onions
+  prompt_idx: 663
+- counts:
+  - 5
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: five onions
+  prompt_idx: 664
+- counts:
+  - 6
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: six onions
+  prompt_idx: 665
+- counts:
+  - 7
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: seven onions
+  prompt_idx: 666
+- counts:
+  - 8
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: eight onions
+  prompt_idx: 667
+- counts:
+  - 9
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: nine onions
+  prompt_idx: 668
+- counts:
+  - 10
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: ten onions
+  prompt_idx: 669
+- counts:
+  - 11
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: eleven onions
+  prompt_idx: 670
+- counts:
+  - 12
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: twelve onions
+  prompt_idx: 671
+- counts:
+  - 13
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: thirteen onions
+  prompt_idx: 672
+- counts:
+  - 14
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: fourteen onions
+  prompt_idx: 673
+- counts:
+  - 15
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: fifteen onions
+  prompt_idx: 674
+- counts:
+  - 16
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: sixteen onions
+  prompt_idx: 675
+- counts:
+  - 17
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: seventeen onions
+  prompt_idx: 676
+- counts:
+  - 18
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: eighteen onions
+  prompt_idx: 677
+- counts:
+  - 19
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: nineteen onions
+  prompt_idx: 678
+- counts:
+  - 20
+  objs:
+  - onions
+  objs_singular:
+  - onion
+  prompt: twenty onions
+  prompt_idx: 679
