@@ -59,10 +59,12 @@ sh run_metrics.sh
 
 ## Citation
 ```tex
-@article{kang2023counting,
+@inproceedings{kang2025counting,
   title={Counting guidance for high fidelity text-to-image synthesis},
-  author={Kang, Wonjun and Galim, Kevin and Koo, Hyung Il},
-  journal={arXiv preprint arXiv:2306.17567},
-  year={2023}
+  author={Kang, Wonjun and Galim, Kevin and Koo, Hyung Il and Cho, Nam Ik},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={899--908},
+  year={2025},
+  organization={IEEE}
 }
 ```
