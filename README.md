@@ -30,7 +30,7 @@
 
 ### Setup
 
-- Download RCC counting network weights [counting.ckpt](https://drive.google.com/drive/folders/1WdMk98Ujw-QWbYwRNLzQ0jxiqi4Hpt8-) to weights/counting.ckpt
+- Download RCC counting network weights [counting.ckpt](https://drive.google.com/drive/folders/12Ak9uIyLHkRo59zCbEZqXrRe0kP5iz_S?usp=drive_link) to weights/counting.ckpt
 - Run
     ```
     conda env create --name ldm_count --file=env.yml
